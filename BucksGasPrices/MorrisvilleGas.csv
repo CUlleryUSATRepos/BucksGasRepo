@@ -1,0 +1,6 @@
+station,brand,street,city_state_zip,regular_price,regular_datetime,diesel_price,services,search_zip,place
+MORRISVILLE FUELS,Unbranded,299 W TRENTON AVE,"Morrisville , PA",$3.499,2026-03-26 13:39:00,,Convenience Store/Grocery Store,19067,Morrisville
+GULF,Gulf,2 W BRIDGE ST,"Morrisville, PA",$3.799,2026-03-26 12:07:00,,"Convenience Store/Grocery Store, Repairs",19067,Morrisville
+Sunoco,Sunoco,907 W TRENTON AVE,"Morrisville , PA",$3.899,2026-03-26 14:15:00,,"Bio-Fuels, Repairs",19067,Morrisville
+WAWA #8076,Wawa,545 W TRENTON AVE,"Morrisville, PA",$3.999,2026-03-26 18:41:00,$5.899,"Open 24 Hours, Convenience Store/Grocery Store",19067,Morrisville
+Sunoco,Sunoco,61 OXFORD VALLEY RD,"Morrisville , PA",$3.999,2026-03-26 18:02:00,$5.999,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store",19067,Morrisville
