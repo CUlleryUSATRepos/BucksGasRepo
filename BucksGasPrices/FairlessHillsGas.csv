@@ -1,6 +1,6 @@
 station,brand,street,city_state_zip,regular_price,regular_datetime,diesel_price,services,search_zip,place
-MILL CREEK GAS,Sunoco,7040 MILL CREEK RD,"Levittown , PA",$3.949,2026-03-27 06:43:00,$5.799,Convenience Store/Grocery Store,19030,FairlessHills
-WAWA #8004,Wawa,7625 NEW FALLS RD,"Levittown, PA",$3.979,2026-03-27 09:36:00,$5.899,"Open 24 Hours, Convenience Store/Grocery Store",19030,FairlessHills
-SHELL,Shell,7011 NEW FALLS RD,"Levittown , PA",$3.979,2026-03-27 07:11:00,,"Bio-Fuels, Convenience Store/Grocery Store",19030,FairlessHills
-Wawa  #8168,Wawa,530 LINCOLN HWY,"Fairless Hills, PA",$3.999,2026-03-27 09:55:00,$5.899,Convenience Store/Grocery Store,19030,FairlessHills
-SUNOCO,Sunoco,398 LINCOLN HWY,"Fairless Hills , PA",$3.999,2026-03-27 09:53:00,$5.799,"Bio-Fuels, Repairs",19030,FairlessHills
+MILL CREEK GAS,Sunoco,7040 MILL CREEK RD,"Levittown , PA",$3.949,2026-03-27 11:02:00,,Convenience Store/Grocery Store,19030,FairlessHills
+SHELL,Shell,7011 NEW FALLS RD,"Levittown , PA",$3.959,2026-03-27 11:28:00,,"Bio-Fuels, Convenience Store/Grocery Store",19030,FairlessHills
+WAWA #8004,Wawa,7625 NEW FALLS RD,"Levittown, PA",$3.979,2026-03-27 11:32:00,$5.899,"Open 24 Hours, Convenience Store/Grocery Store",19030,FairlessHills
+SHELL,Shell,236 LINCOLN HWY,"Fairless Hills, PA",$3.999,2026-03-27 11:56:00,$5.899,"Bio-Fuels, Convenience Store/Grocery Store",19030,FairlessHills
+Wawa  #8168,Wawa,530 LINCOLN HWY,"Fairless Hills, PA",$3.999,2026-03-27 11:39:00,$5.899,Convenience Store/Grocery Store,19030,FairlessHills
