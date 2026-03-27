@@ -1,6 +1,6 @@
 station,brand,street,city_state_zip,regular_price,regular_datetime,diesel_price,services,search_zip,place
-SAMS CLUB #6332,Sams Club,1000 FRANKLIN MILLS CIR,"Philadelphia , PA",$3.699,2026-03-26 12:44:00,$5.899,Open 24 Hours,19020,Bensalem
-CORNWELLS HIEGHTS,Unbranded,1360 STREET RD,"Bensalem, PA",$3.879,2026-03-26 18:46:00,$5.299,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store",19020,Bensalem
-Conoco,Conoco,2672 BRISTOL PIKE,"Bensalem , PA",$3.899,2026-03-26 19:17:00,$5.799,Bio-Fuels,19020,Bensalem
-BENSALEM AUTO CARE,Conoco,3585 BRISTOL RD,"Bensalem, PA",$3.899,2026-03-26 18:43:00,,Repairs,19020,Bensalem
-Sunoco,Sunoco,503 STATE RD,"Croydon , PA",$3.899,2026-03-26 18:35:00,$5.699,"Bio-Fuels, Convenience Store/Grocery Store",19020,Bensalem
+Sunoco,Sunoco,503 STATE RD,"Croydon , PA",$3.899,2026-03-27 02:01:00,$5.699,"Bio-Fuels, Convenience Store/Grocery Store",19020,Bensalem
+SHELL,Shell,1214 BRISTOL PIKE,"Bensalem, PA",$3.899,2026-03-27 00:03:00,$5.899,Repairs,19020,Bensalem
+SAMS CLUB #6332,Sams Club,1000 FRANKLIN MILLS CIR,"Philadelphia , PA",$3.899,2026-03-26 21:15:00,$5.899,Open 24 Hours,19020,Bensalem
+WAWA #8072,Wawa,3620 STREET RD,"Bensalem, PA",$3.959,2026-03-27 00:29:00,$5.899,"Open 24 Hours, Convenience Store/Grocery Store",19020,Bensalem
+A PLUS MINI MARKET,A Plus,3419 STREET RD,"Bensalem , PA",$3.999,2026-03-27 02:01:00,$5.999,"Bio-Fuels, Convenience Store/Grocery Store",19020,Bensalem
