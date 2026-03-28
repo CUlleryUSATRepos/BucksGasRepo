@@ -1,6 +1,6 @@
 station,brand,street,city_state_zip,regular_price,regular_datetime,diesel_price,services,search_zip,place
+Sunoco,Sunoco,907 W TRENTON AVE,"Morrisville , PA",$3.899,2026-03-27 19:45:00,,"Bio-Fuels, Repairs",19067,Morrisville
 SUNOCO,Sunoco,999 W TRENTON AVE,"Morrisville , PA",$3.899,2026-03-27 17:20:00,,"Bio-Fuels, Repairs",19067,Morrisville
-Sunoco,Sunoco,907 W TRENTON AVE,"Morrisville , PA",$3.899,2026-03-27 15:56:00,,"Bio-Fuels, Repairs",19067,Morrisville
 BIG OAK CITGO,CITGO,812 BIG OAK RD,"Morrisville , PA",$3.959,2026-03-27 16:33:00,,Repairs,19067,Morrisville
-SHELL,Shell,236 LINCOLN HWY,"Fairless Hills, PA",$3.999,2026-03-27 17:32:00,,"Bio-Fuels, Convenience Store/Grocery Store",19067,Morrisville
-WAWA #8076,Wawa,545 W TRENTON AVE,"Morrisville, PA",$3.999,2026-03-27 17:21:00,$5.899,"Open 24 Hours, Convenience Store/Grocery Store",19067,Morrisville
+SHELL,Shell,236 LINCOLN HWY,"Fairless Hills, PA",$3.999,2026-03-27 19:47:00,,"Bio-Fuels, Convenience Store/Grocery Store",19067,Morrisville
+SUNOCO,Sunoco,398 LINCOLN HWY,"Fairless Hills , PA",$3.999,2026-03-27 19:31:00,$5.799,"Bio-Fuels, Repairs",19067,Morrisville
