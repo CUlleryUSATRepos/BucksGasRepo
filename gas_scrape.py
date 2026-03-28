@@ -22,9 +22,9 @@ ZIP_CONFIG = [
 ]
 
 
-OUTPUT_DIR = Path("BucksGasPrices")
-OUTPUT_DIR.mkdir(exist_ok=True)
-
+REPO_DIR = Path(r"C:\Users\Chris Ullery\data-projects\BucksGasRepo")
+OUTPUT_DIR = REPO_DIR / "BucksGasPrices"
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 def open_fuel_finder(zip_code: str) -> str:
     driver = webdriver.Chrome()
@@ -264,6 +264,43 @@ def run_all_zip_scrapes():
         except Exception as e:
             print(f"Failed for {place} ({zip_code}): {e}")
 
+import subprocess
+
+def run_git_command(args):
+    result = subprocess.run(
+        args,
+        cwd=REPO_DIR,
+        capture_output=True,
+        text=True,
+        shell=True
+    )
+    print(result.stdout)
+    if result.returncode != 0:
+        print(result.stderr)
+        raise RuntimeError(f"Git command failed: {' '.join(args)}")
+    return result
+
+
+def commit_and_push():
+    timestamp = pd.Timestamp.now().strftime("%Y-%m-%d %H:%M:%S")
+
+    run_git_command(["git", "add", "BucksGasPrices"])
+
+    status = subprocess.run(
+        ["git", "status", "--porcelain"],
+        cwd=REPO_DIR,
+        capture_output=True,
+        text=True,
+        shell=True
+    )
+
+    if not status.stdout.strip():
+        print("No changes to commit.")
+        return
+
+    run_git_command(["git", "commit", "-m", f"Update gas prices {timestamp}"])
+    run_git_command(["git", "push"])
 
 if __name__ == "__main__":
     run_all_zip_scrapes()
+    commit_and_push()
