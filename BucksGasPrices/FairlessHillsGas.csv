@@ -1,6 +1,6 @@
 station,brand,street,city_state_zip,regular_price,regular_datetime,diesel_price,services,search_zip,place
 MILL CREEK GAS,Sunoco,7040 MILL CREEK RD,"Levittown , PA",$3.919,2026-03-28 09:40:00,$5.799,Convenience Store/Grocery Store,19030,FairlessHills
-WAWA #8004,Wawa,7625 NEW FALLS RD,"Levittown, PA",$3.979,2026-03-28 09:25:00,$5.899,"Open 24 Hours, Convenience Store/Grocery Store",19030,FairlessHills
-SHELL,Shell,236 LINCOLN HWY,"Fairless Hills, PA",$3.999,2026-03-28 09:52:00,$5.899,"Bio-Fuels, Convenience Store/Grocery Store",19030,FairlessHills
-WAWA #8020,Wawa,132 OXFORD VALLEY RD,"Langhorne, PA",$3.999,2026-03-28 09:52:00,$5.899,"Open 24 Hours, Convenience Store/Grocery Store",19030,FairlessHills
-Sunoco,Sunoco,61 OXFORD VALLEY RD,"Morrisville , PA",$3.999,2026-03-28 09:32:00,$5.999,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store",19030,FairlessHills
+WAWA #8004,Wawa,7625 NEW FALLS RD,"Levittown, PA",$3.979,2026-03-28 10:10:00,$5.899,"Open 24 Hours, Convenience Store/Grocery Store",19030,FairlessHills
+SHELL,Shell,236 LINCOLN HWY,"Fairless Hills, PA",$3.999,2026-03-28 11:52:00,$5.899,"Bio-Fuels, Convenience Store/Grocery Store",19030,FairlessHills
+Wawa #8127,Wawa,225 LEVITTOWN PARKWAY,"Bristol , PA",$3.999,2026-03-28 11:23:00,$5.899,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Repairs",19030,FairlessHills
+Wawa  #8168,Wawa,530 LINCOLN HWY,"Fairless Hills, PA",$3.999,2026-03-28 10:50:00,$5.899,Convenience Store/Grocery Store,19030,FairlessHills
