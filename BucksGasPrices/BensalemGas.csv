@@ -2,5 +2,5 @@ station,brand,street,city_state_zip,regular_price,regular_datetime,diesel_price,
 Sunoco,Sunoco,503 STATE RD,"Croydon , PA",$3.899,2026-03-27 21:56:00,$5.699,"Bio-Fuels, Convenience Store/Grocery Store",19020,Bensalem
 Conoco,Conoco,2672 BRISTOL PIKE,"Bensalem , PA",$3.899,2026-03-27 21:33:00,$5.799,Bio-Fuels,19020,Bensalem
 SAMS CLUB #6332,Sams Club,1000 FRANKLIN MILLS CIR,"Philadelphia , PA",$3.899,2026-03-27 21:15:00,$5.899,Open 24 Hours,19020,Bensalem
-SHELL,Shell,1214 BRISTOL PIKE,"Bensalem, PA",$3.899,2026-03-27 16:50:00,$5.899,Repairs,19020,Bensalem
+SHELL,Shell,1214 BRISTOL PIKE,"Bensalem, PA",$3.899,2026-03-27 16:50:00,,Repairs,19020,Bensalem
 BENSALEM AUTO CARE,Conoco,3585 BRISTOL RD,"Bensalem, PA",$3.899,2026-03-27 16:26:00,,Repairs,19020,Bensalem
