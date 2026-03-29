@@ -1,6 +1,6 @@
 station,brand,street,city_state_zip,regular_price,regular_datetime,diesel_price,services,search_zip,place
 BENSALEM AUTO CARE,Conoco,3585 BRISTOL RD,"Bensalem, PA",$3.899,2026-03-29 11:51:00,,Repairs,19020,Bensalem
-SHELL,Shell,1214 BRISTOL PIKE,"Bensalem, PA",$3.899,2026-03-29 05:50:00,,Repairs,19020,Bensalem
 BP,BP,3340 BRISTOL RD,"Bensalem , PA",$3.939,2026-03-29 08:53:00,$5.899,"Open 24 Hours, Bio-Fuels, Repairs",19020,Bensalem
 WAWA #8072,Wawa,3620 STREET RD,"Bensalem, PA",$3.959,2026-03-29 11:42:00,$5.899,"Open 24 Hours, Convenience Store/Grocery Store",19020,Bensalem
 SAMS CLUB #6332,Sams Club,1000 FRANKLIN MILLS CIR,"Philadelphia , PA",$3.959,2026-03-29 11:15:00,$5.899,Open 24 Hours,19020,Bensalem
+A PLUS MINI MARKET,A Plus,4001 WOODHAVEN RD,"Philadelphia, PA",$3.999,2026-03-29 13:28:00,$5.999,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store",19020,Bensalem
