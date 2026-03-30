@@ -1,101 +1,59 @@
-from pathlib import Path
-import time
-
-import pandas as pd
-from bs4 import BeautifulSoup
 from selenium import webdriver
-from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait, Select
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.chrome.options import Options
+from bs4 import BeautifulSoup
+import pandas as pd
+import time
+import os
+import re
 
 
 START_URL = "https://www.aaa.com/stop/"
+ZIP_CODE = "18901"
 
-# Your chosen ZIPs + output filenames
-ZIP_CONFIG = [
-    {"place": "Doylestown", "zip_code": "18901", "filename": "DoylestownGas.csv"},
-    {"place": "FairlessHills", "zip_code": "19030", "filename": "FairlessHillsGas.csv"},
-    {"place": "Perkasie", "zip_code": "18944", "filename": "PerkasieGas.csv"},
-    {"place": "Bensalem", "zip_code": "19020", "filename": "BensalemGas.csv"},
-    {"place": "Morrisville", "zip_code": "19067", "filename": "MorrisvilleGas.csv"},
+OUTPUT_FOLDER = "BucksGasPrices"
+AVERAGES_FOLDER = "BucksAreaAverages"
+COMBINED_AVERAGES_FILE = "BucksAreaAverages_All.csv"
+
+approved_bucks_places = [
+    "Bensalem","Bristol","Chalfont","Churchville","Croydon","Doylestown","Dublin",
+    "Fairless Hills","Ferndale","Hulmeville","Ivyland","Jamestown","Langhorne",
+    "Levittown","Mechanicsville","Morrisville","New Hope","Newtown","Newtown Grant",
+    "Penndel","Perkasie","Quakertown","Richboro","Richlandtown","Riegelsville",
+    "Sellersville","Telford","Village Shires","Warminster","Warminster Heights",
+    "Woodbourne","Woodside","Yardley"
 ]
 
 
-REPO_DIR = Path(r"C:\Users\Chris Ullery\data-projects\BucksGasRepo")
-OUTPUT_DIR = REPO_DIR / "BucksGasPrices"
-OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+def safe_filename(place_name: str, suffix: str = "Gas.csv") -> str:
+    cleaned = re.sub(r"[^A-Za-z0-9]+", "", place_name)
+    return f"{cleaned}{suffix}"
 
-def open_fuel_finder(zip_code: str) -> str:
-    driver = webdriver.Chrome()
-    wait = WebDriverWait(driver, 20)
 
-    try:
-        # 1) Go to club selector
-        driver.get(START_URL)
+def empty_results_df():
+    return pd.DataFrame(columns=[
+        "search_place","station","brand","street","city_state_zip",
+        "regular_price","regular_price_date","regular_price_time",
+        "diesel_price","diesel_price_date","diesel_price_time","services"
+    ])
 
-        # Enter ZIP
-        zip_box = wait.until(
-            EC.presence_of_element_located((By.ID, "zipCode"))
-        )
-        zip_box.clear()
-        zip_box.send_keys(zip_code)
 
-        # Click Go
-        go_btn = wait.until(
-            EC.element_to_be_clickable((By.ID, "goButton"))
-        )
-        go_btn.click()
-
-        # 2) Wait for redirect to club alliance
-        wait.until(lambda d: "cluballiance.aaa.com" in d.current_url)
-        print(f"[{zip_code}] After Go: {driver.current_url}")
-
-        # Close cookie banner if present
-        try:
-            cookie_btn = WebDriverWait(driver, 5).until(
-                EC.element_to_be_clickable(
-                    (By.XPATH, "//button[contains(., 'OK') or contains(., 'Accept')]")
-                )
-            )
-            cookie_btn.click()
-        except TimeoutException:
-            pass
-
-        # Scroll to bottom and click Gas Price Finder
-        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-        time.sleep(1)
-
-        gas_link = wait.until(
-            EC.presence_of_element_located((By.LINK_TEXT, "Gas Price Finder"))
-        )
-        driver.execute_script("arguments[0].scrollIntoView(true);", gas_link)
-        time.sleep(0.5)
-        driver.execute_script("arguments[0].click();", gas_link)
-
-        # 3) On gas info page, click Find gas
-        wait.until(EC.url_contains("/public-affairs/gas-information"))
-        print(f"[{zip_code}] Gas info page: {driver.current_url}")
-
-        find_btn = wait.until(
-            EC.element_to_be_clickable(
-                (By.XPATH, "//button[contains(., 'Find gas')]")
-            )
-        )
-        find_btn.click()
-
-        # 4) Wait for legacy fuel finder results page
-        wait.until(lambda d: "aaa.opisnet.com" in d.current_url.lower())
-        time.sleep(2)
-        print(f"[{zip_code}] OPIS page: {driver.current_url}")
-
-        html = driver.page_source
-        print(f"[{zip_code}] Captured HTML")
-
-        return html
-
-    finally:
-        driver.quit()
+def empty_averages_df():
+    return pd.DataFrame(columns=[
+        "search_place",
+        "area_average_price",
+        "area_average_last_week",
+        "area_average_last_month",
+        "area_average_6_months_ago",
+        "area_average_last_year",
+        "tank_average_cost",
+        "tank_average_last_week",
+        "tank_average_last_month",
+        "tank_average_6_months_ago",
+        "tank_average_last_year"
+    ])
 
 
 def parse_fuel_finder_html(html: str):
@@ -105,15 +63,14 @@ def parse_fuel_finder_html(html: str):
         "table",
         id="ctl00_ContentPlaceHolder1_searchResults_stationList_gvResults",
     )
+
     if not grid:
-        raise RuntimeError("Could not find station results table in HTML")
+        return empty_results_df()
 
     records = []
+    rows = (grid.find("tbody") or grid).find_all("tr", recursive=False)
 
-    container = grid.find("tbody") or grid
-    outer_rows = container.find_all("tr", recursive=False)
-
-    for tr in outer_rows:
+    for tr in rows:
         if tr.find("th"):
             continue
 
@@ -121,186 +78,314 @@ def parse_fuel_finder_html(html: str):
         if len(tds) < 5:
             continue
 
-        station_td = tds[0]
-        addr_td = tds[1]
-        reg_td = tds[2]
-        dsl_td = tds[3]
-        svc_td = tds[4]
+        station_td, addr_td, reg_td, dsl_td, svc_td = tds
 
-        # Station
-        station_name = ""
-        brand = ""
+        def get_text(el):
+            return el.get_text(strip=True) if el else ""
 
-        station_name_el = station_td.find("a")
-        if station_name_el:
-            station_name = station_name_el.get_text(strip=True)
-
-        brand_el = station_td.select_one("span[id*='StationBrandName']")
-        if brand_el:
-            brand = brand_el.get_text(strip=True)
-
-        # Address
-        street = ""
-        city_state_zip = ""
-
-        street_el = addr_td.find("a")
-        if street_el:
-            street = street_el.get_text(strip=True)
+        station = get_text(station_td.find("a"))
+        brand = get_text(station_td.select_one("span[id*='StationBrandName']"))
+        street = get_text(addr_td.find("a"))
 
         city_el = addr_td.select_one("span[id*='StationCityState']")
-        if city_el:
-            city_state_zip = " ".join(city_el.get_text(" ", strip=True).split())
+        city = " ".join(city_el.get_text(" ", strip=True).split()) if city_el else ""
 
-        # Regular price
-        reg_price = reg_td.select_one("span.CurrentPrice")
-        reg_date = reg_td.select_one("span.CurrentPriceDate")
-        reg_time = reg_td.select_one("span.CurrentPriceTime")
+        reg_price = get_text(reg_td.select_one("span.CurrentPrice"))
+        reg_date = get_text(reg_td.select_one("span.CurrentPriceDate"))
+        reg_time = get_text(reg_td.select_one("span.CurrentPriceTime"))
 
-        # Diesel price
-        dsl_price = dsl_td.select_one("span.CurrentPrice")
-        dsl_date = dsl_td.select_one("span.CurrentPriceDate")
-        dsl_time = dsl_td.select_one("span.CurrentPriceTime")
+        dsl_price = get_text(dsl_td.select_one("span.CurrentPrice"))
+        dsl_date = get_text(dsl_td.select_one("span.CurrentPriceDate"))
+        dsl_time = get_text(dsl_td.select_one("span.CurrentPriceTime"))
 
-        # Services
-        service_imgs = svc_td.find_all("img")
         services = ", ".join(
-            img.get("title", "") for img in service_imgs if img.get("title")
+            img.get("title", "") for img in svc_td.find_all("img") if img.get("title")
         )
 
-        if not station_name and not street:
+        if not station and not street:
             continue
 
         records.append({
-            "station": station_name,
+            "search_place": "",
+            "station": station,
             "brand": brand,
             "street": street,
-            "city_state_zip": city_state_zip,
-            "regular_price": reg_price.get_text(strip=True) if reg_price else "",
-            "regular_price_date": reg_date.get_text(strip=True) if reg_date else "",
-            "regular_price_time": reg_time.get_text(strip=True) if reg_time else "",
-            "diesel_price": dsl_price.get_text(strip=True) if dsl_price else "",
-            "diesel_price_date": dsl_date.get_text(strip=True) if dsl_date else "",
-            "diesel_price_time": dsl_time.get_text(strip=True) if dsl_time else "",
+            "city_state_zip": city,
+            "regular_price": reg_price,
+            "regular_price_date": reg_date,
+            "regular_price_time": reg_time,
+            "diesel_price": dsl_price,
+            "diesel_price_date": dsl_date,
+            "diesel_price_time": dsl_time,
             "services": services,
         })
 
-    df = pd.DataFrame(records)
-    return records, df
+    return pd.DataFrame(records)
 
 
-def build_top5_from_df(df: pd.DataFrame, freshness_hours: int = 8) -> pd.DataFrame:
-    if df.empty:
-        return df.copy()
+def parse_area_averages_html(html: str, place_name: str):
+    soup = BeautifulSoup(html, "lxml")
 
-    df = df.copy()
-    current_year = pd.Timestamp.now().year
-    now = pd.Timestamp.now()
+    def text_by_id(element_id: str) -> str:
+        el = soup.find(id=element_id)
+        return el.get_text(strip=True) if el else ""
 
-    df["regular_datetime"] = pd.to_datetime(
-        df["regular_price_date"].astype(str).str.strip() + ", "
-        + str(current_year) + " "
-        + df["regular_price_time"].astype(str).str.strip(),
-        format="%b %d, %Y %I:%M %p",
-        errors="coerce"
+    record = {
+        "search_place": place_name,
+        "area_average_price": text_by_id(
+            "ctl00_ContentPlaceHolder1_searchResults_aaaMap_todayAvgLB"
+        ),
+        "area_average_last_week": text_by_id(
+            "ctl00_ContentPlaceHolder1_searchResults_aaaMap_weekAgoAvgLB"
+        ),
+        "area_average_last_month": text_by_id(
+            "ctl00_ContentPlaceHolder1_searchResults_aaaMap_monthAgoAvgLB"
+        ),
+        "area_average_6_months_ago": text_by_id(
+            "ctl00_ContentPlaceHolder1_searchResults_aaaMap_halfYearsAgoAvgLB"
+        ),
+        "area_average_last_year": text_by_id(
+            "ctl00_ContentPlaceHolder1_searchResults_aaaMap_yearAgoAvgLB"
+        ),
+        "tank_average_cost": text_by_id(
+            "ctl00_ContentPlaceHolder1_searchResults_stationList_todayAvgLB"
+        ),
+        "tank_average_last_week": text_by_id(
+            "ctl00_ContentPlaceHolder1_searchResults_stationList_weekAgoAvgLB"
+        ),
+        "tank_average_last_month": text_by_id(
+            "ctl00_ContentPlaceHolder1_searchResults_stationList_monthAgoAvgLB"
+        ),
+        "tank_average_6_months_ago": text_by_id(
+            "ctl00_ContentPlaceHolder1_searchResults_stationList_halfYearsAgoAvgLB"
+        ),
+        "tank_average_last_year": text_by_id(
+            "ctl00_ContentPlaceHolder1_searchResults_stationList_yearAgoAvgLB"
+        ),
+    }
+
+    # If absolutely nothing was found, still return a 1-row dataframe so the place exists in output
+    return pd.DataFrame([record])
+
+
+def open_driver():
+    options = Options()
+    options.add_argument("--headless=new")
+    options.add_argument("--window-size=1920,1080")
+
+    driver = webdriver.Chrome(options=options)
+    wait = WebDriverWait(driver, 20)
+    return driver, wait
+
+
+def navigate_to_fuel_finder(driver, wait):
+    driver.get(START_URL)
+
+    wait.until(EC.presence_of_element_located((By.ID, "zipCode"))).send_keys(ZIP_CODE)
+    wait.until(EC.element_to_be_clickable((By.ID, "goButton"))).click()
+
+    wait.until(lambda d: "cluballiance.aaa.com" in d.current_url.lower())
+
+    try:
+        WebDriverWait(driver, 5).until(
+            EC.element_to_be_clickable((By.XPATH, "//button[contains(., 'Accept')]"))
+        ).click()
+    except Exception:
+        pass
+
+    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+    time.sleep(1)
+
+    gas_link = wait.until(
+        EC.presence_of_element_located((By.LINK_TEXT, "Gas Price Finder"))
+    )
+    driver.execute_script("arguments[0].click();", gas_link)
+
+    wait.until(EC.url_contains("gas-information"))
+
+    wait.until(
+        EC.element_to_be_clickable(
+            (By.XPATH, "//button[contains(., 'Find gas')]")
+        )
+    ).click()
+
+    wait.until(lambda d: "aaa.opisnet.com" in d.current_url.lower())
+
+
+def select_state_pa(driver, wait):
+    Select(
+        wait.until(
+            EC.presence_of_element_located(
+                (By.ID, "ctl00_ContentPlaceHolder1_aaaSearch_ddState")
+            )
+        )
+    ).select_by_value("PA")
+
+    wait.until(
+        lambda d: len(
+            Select(
+                d.find_element(By.ID, "ctl00_ContentPlaceHolder1_aaaSearch_ddCity")
+            ).options
+        ) > 1
     )
 
-    df["regular_price_num"] = pd.to_numeric(
-        df["regular_price"].astype(str).str.replace("$", "", regex=False),
-        errors="coerce"
+
+def wait_for_search_outcome(driver, timeout=6):
+    end = time.time() + timeout
+    while time.time() < end:
+        page = driver.page_source
+        if "searchResults_stationList" in page or "avgBoxTop" in page or "avgBoxBottom" in page:
+            return "table"
+        time.sleep(0.4)
+    return "no_table"
+
+
+def search_and_scrape(driver, wait, place):
+    Select(
+        wait.until(
+            EC.presence_of_element_located(
+                (By.ID, "ctl00_ContentPlaceHolder1_aaaSearch_ddCity")
+            )
+        )
+    ).select_by_value(place)
+
+    wait.until(
+        EC.element_to_be_clickable(
+            (By.ID, "ctl00_ContentPlaceHolder1_aaaSearch_btnSearch")
+        )
+    ).click()
+
+    outcome = wait_for_search_outcome(driver)
+    html = driver.page_source
+
+    if outcome == "table":
+        station_df = parse_fuel_finder_html(html)
+        station_df["search_place"] = place
+
+        averages_df = parse_area_averages_html(html, place)
+        return station_df, averages_df, "table"
+
+    station_df = empty_results_df()
+    averages_df = empty_averages_df()
+
+    if station_df.empty:
+        station_df = pd.DataFrame(columns=station_df.columns)
+
+    averages_df = pd.DataFrame([{
+        "search_place": place,
+        "area_average_price": "",
+        "area_average_last_week": "",
+        "area_average_last_month": "",
+        "area_average_6_months_ago": "",
+        "area_average_last_year": "",
+        "tank_average_cost": "",
+        "tank_average_last_week": "",
+        "tank_average_last_month": "",
+        "tank_average_6_months_ago": "",
+        "tank_average_last_year": ""
+    }])
+
+    return station_df, averages_df, "no_table"
+
+
+def return_to_search(driver, wait):
+    try:
+        driver.find_element(By.XPATH, "//a[contains(@href,'history.back')]").click()
+    except Exception:
+        driver.back()
+
+    wait.until(
+        EC.presence_of_element_located(
+            (By.ID, "ctl00_ContentPlaceHolder1_aaaSearch_ddCity")
+        )
     )
 
-    cutoff = now - pd.Timedelta(hours=freshness_hours)
 
-    top5 = (
-        df.dropna(subset=["regular_datetime", "regular_price_num"])
-          .loc[lambda x: x["regular_datetime"] >= cutoff]
-          .sort_values(
-              by=["regular_price_num", "regular_datetime"],
-              ascending=[True, False]
-          )
-          [[
-              "station",
-              "brand",
-              "street",
-              "city_state_zip",
-              "regular_price",
-              "regular_datetime",
-              "diesel_price",
-              "services",
-          ]]
-          .head(5)
-          .reset_index(drop=True)
-    )
+def main():
+    os.makedirs(OUTPUT_FOLDER, exist_ok=True)
+    os.makedirs(AVERAGES_FOLDER, exist_ok=True)
 
-    return top5
+    driver, wait = open_driver()
+    results = []
+    combined_average_rows = []
 
+    try:
+        navigate_to_fuel_finder(driver, wait)
+        select_state_pa(driver, wait)
 
-def search_aaa_by_zip_selenium(zip_code: str):
-    html = open_fuel_finder(zip_code)
-    stations, df = parse_fuel_finder_html(html)
-    top5 = build_top5_from_df(df)
-    return stations, df, top5
+        for i, place in enumerate(approved_bucks_places):
+            try:
+                station_df, averages_df, outcome = search_and_scrape(driver, wait, place)
 
+                gas_path = os.path.join(OUTPUT_FOLDER, safe_filename(place, "Gas.csv"))
+                station_df.to_csv(gas_path, index=False)
 
-def run_all_zip_scrapes():
-    for config in ZIP_CONFIG:
-        place = config["place"]
-        zip_code = config["zip_code"]
-        output_path = OUTPUT_DIR / config["filename"]
+                avg_path = os.path.join(AVERAGES_FOLDER, safe_filename(place, "Averages.csv"))
+                averages_df.to_csv(avg_path, index=False)
 
-        print(f"\n--- Running {place} ({zip_code}) ---")
+                combined_average_rows.append(averages_df)
 
-        try:
-            stations, df, top5 = search_aaa_by_zip_selenium(zip_code)
+                results.append({
+                    "place_name": place,
+                    "success": True,
+                    "outcome": outcome,
+                    "row_count": len(station_df)
+                })
 
-            # Optional metadata columns
-            top5 = top5.copy()
-            top5["search_zip"] = zip_code
-            top5["place"] = place
+            except Exception as e:
+                error_avg = pd.DataFrame([{
+                    "search_place": place,
+                    "area_average_price": "",
+                    "area_average_last_week": "",
+                    "area_average_last_month": "",
+                    "area_average_6_months_ago": "",
+                    "area_average_last_year": "",
+                    "tank_average_cost": "",
+                    "tank_average_last_week": "",
+                    "tank_average_last_month": "",
+                    "tank_average_6_months_ago": "",
+                    "tank_average_last_year": ""
+                }])
 
-            top5.to_csv(output_path, index=False)
-            print(f"Saved {len(top5)} rows to {output_path}")
+                avg_path = os.path.join(AVERAGES_FOLDER, safe_filename(place, "Averages.csv"))
+                error_avg.to_csv(avg_path, index=False)
+                combined_average_rows.append(error_avg)
 
-        except Exception as e:
-            print(f"Failed for {place} ({zip_code}): {e}")
+                results.append({
+                    "place_name": place,
+                    "success": False,
+                    "outcome": "error",
+                    "row_count": 0,
+                    "error_message": str(e)
+                })
 
-import subprocess
+            if i < len(approved_bucks_places) - 1:
+                return_to_search(driver, wait)
 
-def run_git_command(args):
-    result = subprocess.run(
-        args,
-        cwd=REPO_DIR,
-        capture_output=True,
-        text=True,
-        shell=True
-    )
-    print(result.stdout)
-    if result.returncode != 0:
-        print(result.stderr)
-        raise RuntimeError(f"Git command failed: {' '.join(args)}")
-    return result
+        pd.DataFrame(results).to_csv(
+            os.path.join(OUTPUT_FOLDER, "scrape_summary.csv"),
+            index=False
+        )
 
+        if combined_average_rows:
+            combined_averages = pd.concat(combined_average_rows, ignore_index=True)
+            combined_averages.to_csv(
+                os.path.join(AVERAGES_FOLDER, COMBINED_AVERAGES_FILE),
+                index=False
+            )
 
-def commit_and_push():
-    timestamp = pd.Timestamp.now().strftime("%Y-%m-%d %H:%M:%S")
+        print("Run complete.")
+        print(f"Gas station files written to {OUTPUT_FOLDER}/")
+        print(f"Area average files written to {AVERAGES_FOLDER}/")
 
-    run_git_command(["git", "add", "BucksGasPrices"])
+    finally:
+        driver.quit()
 
-    status = subprocess.run(
-        ["git", "status", "--porcelain"],
-        cwd=REPO_DIR,
-        capture_output=True,
-        text=True,
-        shell=True
-    )
-
-    if not status.stdout.strip():
-        print("No changes to commit.")
-        return
-
-    run_git_command(["git", "commit", "-m", f"Update gas prices {timestamp}"])
-    run_git_command(["git", "push"])
 
 if __name__ == "__main__":
-    run_all_zip_scrapes()
-    commit_and_push()
+    start = time.perf_counter()
+
+    main()
+
+    total = time.perf_counter() - start
+    print(f"TOTAL RUNTIME: {int(total // 60)} min {int(total % 60)} sec")

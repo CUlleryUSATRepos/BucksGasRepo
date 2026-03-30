@@ -1,0 +1,13 @@
+search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
+Mechanicsville,LUKOIL,Lukoil,440 E SWAMP RD,"Doylestown, PA",$3.899,Mar 30,12:38 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Mechanicsville,LIBERTY,Liberty,290 W STATE ST,"Doylestown , PA",$3.899,Mar 29,12:54 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store, Repairs"
+Mechanicsville,N EASTON RD BP,BP,3611 N EASTON RD,"Doylestown , PA",$3.939,Mar 30,02:57 PM,,,,Convenience Store/Grocery Store
+Mechanicsville,LIBERTY MAIN,Liberty,235 N MAIN ST,"Doylestown , PA",$3.939,Mar 30,02:03 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store, Repairs"
+Mechanicsville,SHELL,Shell,4247 W SWAMP RD,"Doylestown, PA",$3.999,Mar 30,03:45 PM,$5.899,Mar 29,07:05 AM,"Bio-Fuels, Convenience Store/Grocery Store"
+Mechanicsville,SUNOCO,Sunoco,610 N MAIN ST,"Doylestown , PA",$3.999,Mar 30,03:46 PM,$5.999,Mar 30,02:04 PM,"Bio-Fuels, Convenience Store/Grocery Store"
+Mechanicsville,DOYLESTOWN EXXON,Exxon,539 N MAIN ST,"Doylestown , PA",$3.999,Mar 30,08:58 AM,,,,Repairs
+Mechanicsville,LIBERTY,Liberty,1019 N EASTON RD,"Doylestown , PA",$3.999,Mar 30,02:00 PM,$5.759,Mar 30,02:22 PM,"Bio-Fuels, Repairs"
+Mechanicsville,SHELL SERVICE STATION,Shell,216 S MAIN ST,"Doylestown , PA",$3.999,Mar 30,11:07 AM,,,,"Bio-Fuels, Repairs"
+Mechanicsville,WAWA #8096,Wawa,3659 N EASTON RD,"Doylestown, PA",$4.199,Mar 30,03:47 PM,$5.999,Mar 30,02:53 PM,Convenience Store/Grocery Store
+Mechanicsville,WAWA #8125,Wawa,425 S MAIN ST,"Doylestown, PA",$4.199,Mar 30,03:37 PM,$5.999,Mar 30,01:32 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Mechanicsville,WAWA #288,Wawa,5854 EASTON RD,"Pipersville, PA",$4.199,Mar 30,01:51 PM,$5.999,Mar 30,12:12 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"

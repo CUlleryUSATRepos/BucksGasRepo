@@ -1,0 +1,59 @@
+search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
+Bristol,Speed Gas,Unbranded,1040 BORDENTOWN RD,"Burlington, NJ",$3.699,Mar 30,02:20 PM,$5.499,Mar 30,07:41 AM,Repairs
+Bristol,DELTA,Delta,1139 COOPER ST,"Beverly , NJ",$3.759,Mar 30,02:41 PM,,,,Repairs
+Bristol,SUPERWAY,Unbranded,4302 ROUTE 130,"Willingboro , NJ",$3.779,Mar 30,12:01 PM,,,,Convenience Store/Grocery Store
+Bristol,SUNOCO,Sunoco,4266 ROUTE 130,"Willingboro , NJ",$3.779,Mar 30,03:00 PM,,,,
+Bristol,SPEEDY GAS,Unbranded,2212 MOUNT HOLLY RD,"Burlington , NJ",$3.799,Mar 30,09:20 AM,,,,
+Bristol,SUNOCO,Sunoco,652 BELLEVUE AVE,"Langhorne, PA",$3.799,Mar 30,03:07 PM,,,,Repairs
+Bristol,BRUCES AUTOMOTIVE,Liberty,3700 OXFORD VALLEY RD,"Levittown , PA",$3.849,Mar 30,02:50 PM,,,,
+Bristol,G FUEL,Unbranded,455 BRISTOL PIKE,"Bristol , PA",$3.859,Mar 30,01:39 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Bristol,LIBERTY,Liberty,58 W ROUTE 130 N,"Burlington , NJ",$3.859,Mar 30,03:31 PM,$5.699,Mar 30,03:42 PM,
+Bristol,USA GAS,Unbranded,5901 MILL CREEK RD,"Levittown , PA",$3.859,Mar 30,10:19 AM,,,,Repairs
+Bristol,BURLINGTON GAS,CITGO,2006 MOUNT HOLLY RD,"Burlington , NJ",$3.879,Mar 29,04:33 PM,,,,Convenience Store/Grocery Store
+Bristol,CORNWELLS HIEGHTS,Unbranded,1360 STREET RD,"Bensalem, PA",$3.879,Mar 30,03:41 PM,$5.899,Mar 30,01:28 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Bristol,BRISTOL 905,Valero,905 ROUTE 13,"Bristol , PA",$3.899,Mar 30,08:47 AM,,,,"Restaurant/Deli/Fast Food, Bio-Fuels, Repairs"
+Bristol,S&P Oil,Unbranded,8029 BRISTOL PIKE,"Levittown, PA",$3.899,Mar 29,03:37 PM,$4.999,Mar 30,06:01 AM,Bio-Fuels
+Bristol,BP,BP,2051 US-130,"Burlington , NJ",$3.899,Mar 30,03:15 PM,$5.799,Mar 30,12:33 PM,
+Bristol,WAWA #921,Wawa,2060 ROUTE 130 N,"Burlington, NJ",$3.899,Mar 30,03:05 PM,,,,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
+Bristol,Conoco,Conoco,2672 BRISTOL PIKE,"Bensalem , PA",$3.899,Mar 30,11:27 AM,$5.799,Mar 30,02:43 PM,Bio-Fuels
+Bristol,Sunoco,Sunoco,2141 US HIGHWAY 130,"Roebling, NJ",$3.899,Mar 30,01:03 PM,,,,
+Bristol,GULF,Gulf,4362 NEW FALLS RD,"Levittown , PA",$3.919,Mar 30,02:04 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Bristol,MILL CREEK GAS,Sunoco,7040 MILL CREEK RD,"Levittown , PA",$3.919,Mar 30,02:09 PM,,,,Convenience Store/Grocery Store
+Bristol,NEW FALLS ROAD EXXON,Exxon,5300 NEW FALLS RD,"Levittown , PA",$3.929,Mar 30,10:58 AM,$5.859,Mar 30,07:05 AM,
+Bristol,SHELL,Shell,7011 NEW FALLS RD,"Levittown , PA",$3.939,Mar 30,02:35 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Bristol,SUNOCO,Sunoco,420 KEIM BLVD,"Burlington, NJ",$3.959,Mar 30,12:59 PM,,,,Convenience Store/Grocery Store
+Bristol,SPEEDWAY #6729,Speedway,2919 STATE ROUTE 413,"Bristol , PA",$3.959,Mar 30,03:22 PM,$5.899,Mar 30,02:39 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Bristol,GIANT #6324,Giant (Ahold),2391 DURHAM RD,"Levittown , PA",$3.959,Mar 29,06:00 PM,,,,Convenience Store/Grocery Store
+Bristol,SHELL BURLINGTON,Shell,814 SUNSET RD,"Burlington, NJ",$3.979,Mar 30,01:50 PM,$5.479,Mar 30,01:43 PM,Convenience Store/Grocery Store
+Bristol,US GASWAY,Unbranded,33 LEVITT PKWY,"Willingboro, NJ",$3.979,Mar 30,07:41 AM,,,,
+Bristol,SINCLAIR,Sinclair,2030 STREET RD,"Bensalem , PA",$3.979,Mar 30,11:53 AM,,,,Convenience Store/Grocery Store
+Bristol,A PLUS MINI MARKET,A Plus,231 ROUTE 13,"Bristol , PA",$3.999,Mar 30,02:40 PM,$5.999,Mar 30,03:08 PM,"Bio-Fuels, Repairs"
+Bristol,SUNOCO,Sunoco,1231 NEW RODGERS RD,"Bristol, PA",$3.999,Mar 30,03:35 PM,$6.199,Mar 30,03:08 PM,"Bio-Fuels, Repairs"
+Bristol,BP,BP,7601 BRISTOL PIKE,"Levittown , PA",$3.999,Mar 30,03:11 PM,$5.899,Mar 30,03:15 PM,"Bio-Fuels, Convenience Store/Grocery Store"
+Bristol,BENSALEM TIGER MART,Exxon,5716 HULMEVILLE RD,"Bensalem , PA",$3.999,Mar 30,01:53 PM,,,,Convenience Store/Grocery Store
+Bristol,A PLUS MINI MARKET,A Plus,1432 STREET RD,"Bensalem , PA",$3.999,Mar 30,03:05 PM,$5.999,Mar 30,11:43 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Bristol,LIBERTY,Liberty,1616 STREET RD,"Bensalem , PA",$3.999,Mar 30,03:07 PM,,,,Repairs
+Bristol,BP,BP,1724 TRENTON RD,"Levittown , PA",$3.999,Mar 30,02:49 PM,,,,Repairs
+Bristol,SUNOCO,Sunoco,1155 BRISTOL OXFORD VALLEY RD,"Levittown , PA",$3.999,Mar 30,05:57 AM,,,,"Bio-Fuels, Repairs"
+Bristol,SUNOCO,Sunoco,7000 BRISTOL PIKE,"Levittown, PA",$4.089,Mar 30,02:24 PM,$5.999,Mar 30,02:08 PM,"Bio-Fuels, Repairs"
+Bristol,USA GAS,Unbranded,357 E FEDERAL ST,"Burlington , NJ",$4.099,Mar 30,02:54 PM,,,,
+Bristol,Sunoco,Sunoco,503 STATE RD,"Croydon , PA",$4.099,Mar 30,02:53 PM,$5.999,Mar 30,02:09 PM,"Bio-Fuels, Convenience Store/Grocery Store"
+Bristol,SUNOCO,Sunoco,3611 HULMEVILLE RD,"Bensalem , PA",$4.099,Mar 30,03:29 PM,,,,Repairs
+Bristol,WAWA #8107,Wawa,3111 STATE RD,"Bristol, PA",$4.199,Mar 30,03:42 PM,$5.999,Mar 30,02:45 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Bristol,WAWA #268,Wawa,5900 BRISTOL PIKE,"Bristol, PA",$4.199,Mar 30,03:22 PM,$5.999,Mar 30,03:41 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
+Bristol,WAWA #8314,Wawa,350 E RT 130 S,"Burlington, NJ",$4.199,Mar 30,03:37 PM,$5.999,Mar 30,03:08 PM,"Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
+Bristol,WAWA #219,Wawa,3260 NEW RODGERS RD,"Bristol, PA",$4.199,Mar 30,03:28 PM,$5.999,Mar 30,02:09 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
+Bristol,Wawa #8163,Wawa,3800 Bristol Oxford Valley Rd,"Levittown, PA",$4.199,Mar 30,03:42 PM,$5.899,Mar 30,08:10 AM,"Open 24 Hours, Convenience Store/Grocery Store"
+Bristol,WAWA #943,Wawa,2003 MOUNT HOLLY RD,"Burlington, NJ",$4.199,Mar 30,03:33 PM,$5.999,Mar 30,02:43 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Bristol,WAWA #382,Wawa,1814 SALEM RD,"Burlington, NJ",$4.199,Mar 30,03:13 PM,$5.999,Mar 30,02:31 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
+Bristol,Wawa #8127,Wawa,225 LEVITTOWN PARKWAY,"Bristol , PA",$4.199,Mar 30,03:40 PM,$5.999,Mar 30,03:21 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Repairs"
+Bristol,WAWA #8004,Wawa,7625 NEW FALLS RD,"Levittown, PA",$4.199,Mar 30,02:39 PM,$5.999,Mar 30,01:01 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Bristol,SUNOCO,Sunoco,1011 NORTH BURLINGTON PIKE,"Burlington , NJ",$4.259,Mar 30,02:45 PM,,,,Convenience Store/Grocery Store
+Bristol,PHILLIPS 66,Phillips 66,319 W ROUTE 130,"Burlington, NJ",,,,,,,Convenience Store/Grocery Store
+Bristol,Burlington NJ Food,Phillips 66,915 HIGH ST,"Burlington, NJ",,,,$5.359,Mar 29,01:29 PM,
+Bristol,CROSSROAD PARK 76,76,2218 MOUNT HOLLY RD,"Burlington , NJ",,,,,,,
+Bristol,BURLINGTON PARKVIEW,Valero,844 COLUMBUS RD,"Burlington , NJ",,,,,,,Repairs
+Bristol,Shell,Shell,629 HIGH ST,"Burlington, NJ",,,,,,,
+Bristol,EASTCOAST,Unbranded,514 BRISTOL PIKE,"Croydon , PA",,,,,,,"Bio-Fuels, Repairs"
+Bristol,SUNOCO,Sunoco,2435 DURHAM RD,"Bristol , PA",,,,,,,"Open 24 Hours, Bio-Fuels"
+Bristol,PENN JERSEY DIESEL & TRAILER,Unbranded,2950 STATE RD,"Bensalem, PA",,,,$6.099,Mar 30,03:15 PM,"Open 24 Hours, Repairs"

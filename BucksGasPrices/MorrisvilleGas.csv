@@ -1,6 +1,78 @@
-station,brand,street,city_state_zip,regular_price,regular_datetime,diesel_price,services,search_zip,place
-SUNOCO,Sunoco,999 W TRENTON AVE,"Morrisville , PA",$3.899,2026-03-30 06:29:00,,"Bio-Fuels, Repairs",19067,Morrisville
-WAWA #8076,Wawa,545 W TRENTON AVE,"Morrisville, PA",$3.959,2026-03-30 09:57:00,$5.899,"Open 24 Hours, Convenience Store/Grocery Store",19067,Morrisville
-BIG OAK CITGO,CITGO,812 BIG OAK RD,"Morrisville , PA",$3.959,2026-03-30 06:03:00,,Repairs,19067,Morrisville
-Wawa  #8168,Wawa,530 LINCOLN HWY,"Fairless Hills, PA",$3.999,2026-03-30 09:54:00,$5.899,Convenience Store/Grocery Store,19067,Morrisville
-A PLUS MINI MARKET,A Plus,8596 NEW FALLS RD,"Levittown , PA",$3.999,2026-03-30 09:52:00,$5.999,"Bio-Fuels, Convenience Store/Grocery Store",19067,Morrisville
+search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
+Morrisville,MORRISVILLE FUELS,Unbranded,299 W TRENTON AVE,"Morrisville , PA",$3.599,Mar 30,01:08 PM,,,,Convenience Store/Grocery Store
+Morrisville,CITGO,CITGO,86 KLOCKNER RD,"Trenton, NJ",$3.649,Mar 30,01:48 PM,,,,Repairs
+Morrisville,PIONEER,Unbranded,2101 S BROAD ST,"Trenton , NJ",$3.659,Mar 28,02:41 PM,,,,Repairs
+Morrisville,LUKOIL,Lukoil,2085 PENNINGTON RD,"Trenton , NJ",$3.679,Mar 29,11:05 AM,,,,Convenience Store/Grocery Store
+Morrisville,SUNOCO,Sunoco,2095 PENNINGTON RD,"Trenton , NJ",$3.679,Mar 30,11:23 AM,,,,Repairs
+Morrisville,COOKS CITGO,CITGO,2098 PENNINGTON RD,"Trenton , NJ",$3.719,Mar 30,11:21 AM,,,,Convenience Store/Grocery Store
+Morrisville,FAST TRAC,Unbranded,1053 S OLDEN AVE,"Trenton , NJ",$3.759,Mar 30,08:31 AM,,,,Repairs
+Morrisville,LAWRENCEVILLE SUNOCO,Sunoco,1720 BRUNSWICK AVE,"Lawrence Township, NJ",$3.759,Mar 30,10:32 AM,,,,Repairs
+Morrisville,EXPRESS FUEL,Unbranded,360 LAWRENCEVILLE RD,"Lawrence Township , NJ",$3.759,Mar 30,02:09 PM,,,,Convenience Store/Grocery Store
+Morrisville,PASMEL,Unbranded,2515 BRUNSWICK AVE,"Lawrence Township, NJ",$3.759,Mar 30,12:37 PM,,,,
+Morrisville,QuickChek #177,QuickChek,704 Sloan Ave,"Trenton, NJ",$3.769,Mar 30,03:26 PM,$5.799,Mar 30,03:31 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Morrisville,DELTA,Delta,1513 PRINCETON AVE,"Trenton, NJ",$3.779,Mar 30,10:24 AM,$5.539,Mar 30,06:58 AM,
+Morrisville,7-ELEVEN #37039,7-Eleven,1601 PRINCETON AVE,"Lawrence Township , NJ",$3.779,Mar 30,11:31 AM,$5.539,Mar 30,01:44 PM,Convenience Store/Grocery Store
+Morrisville,Fuel Station,Unbranded,1496 PENNINGTON RD,"Trenton , NJ",$3.779,Mar 30,01:55 PM,,,,Open 24 Hours
+Morrisville,QUICKCHEK #22,QuickChek,1100 S OLDEN AVE,"Trenton, NJ",$3.779,Mar 30,03:43 PM,$5.799,Mar 30,07:15 AM,"Open 24 Hours, Convenience Store/Grocery Store"
+Morrisville,QUICKCHEK #107,QuickChek,303 BRUNSWICK CIR,"Lawrence Township , NJ",$3.779,Mar 30,03:37 PM,$5.799,Mar 30,02:00 PM,Convenience Store/Grocery Store
+Morrisville,ARENA DRIVE EXXON,Exxon,1511 S OLDEN AVE,"Trenton , NJ",$3.779,Mar 30,01:41 PM,,,,Open 24 Hours
+Morrisville,Broad Street Citgo,CITGO,2596 S BROAD ST,"Trenton, NJ",$3.779,Mar 30,11:47 AM,,,,Repairs
+Morrisville,UNITED,Unbranded,1711 S OLDEN AVE,"Trenton , NJ",$3.779,Mar 30,11:22 AM,,,,
+Morrisville,Liberty,Liberty,1870 KUSER RD,"Trenton, NJ",$3.779,Mar 30,02:33 PM,,,,Repairs
+Morrisville,GULF,Gulf,2 W BRIDGE ST,"Morrisville, PA",$3.799,Mar 30,08:47 AM,,,,"Convenience Store/Grocery Store, Repairs"
+Morrisville,ROADRUNNER,Unbranded,406 BRUNSWICK AVE,"Trenton , NJ",$3.799,Mar 28,08:06 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store, Repairs"
+Morrisville,Shell Service Station,Shell,2042 S BROAD ST,"Trenton , NJ",$3.799,Mar 30,02:06 PM,,,,Repairs
+Morrisville,EWING VALERO,Valero,798 PARKWAY AVE,"Trenton , NJ",$3.799,Mar 30,10:44 AM,,,,
+Morrisville,Romeco Service Center,Unbranded,2243 SPRUCE ST,"Trenton, NJ",$3.799,Mar 30,10:01 AM,,,,Repairs
+Morrisville,LUKOIL,Lukoil,1070 WHITEHORSE AVE,"Trenton, NJ",$3.799,Mar 30,07:47 AM,,,,Repairs
+Morrisville,Fast Trac,Unbranded,102 S OLDEN AVE,"Trenton , NJ",$3.819,Mar 29,06:21 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store, Repairs"
+Morrisville,Fast Trac,Unbranded,334 MULBERRY ST,"Trenton, NJ",$3.819,Mar 30,11:29 AM,,,,"Open 24 Hours, Convenience Store/Grocery Store, Repairs"
+Morrisville,TRENTON VALERO,Valero,2409 NOTTINGHAM WAY,"Trenton , NJ",$3.819,Mar 30,09:01 AM,,,,
+Morrisville,Delta,Delta,1704 GREENWOOD AVE,"Trenton, NJ",$3.839,Mar 28,10:47 AM,,,,"Convenience Store/Grocery Store, Repairs"
+Morrisville,LUKOIL,Lukoil,1590 PARKSIDE AVE,"Trenton, NJ",$3.839,Mar 30,11:47 AM,,,,Repairs
+Morrisville,FAST TRAC,Unbranded,1140 CHAMBERS ST,"Trenton, NJ",$3.859,Mar 29,02:54 PM,,,,Repairs
+Morrisville,DELTA,Delta,1406 CHAMBERS ST,"Trenton , NJ",$3.859,Mar 30,07:52 AM,,,,Repairs
+Morrisville,LUKOIL,Lukoil,571 GRAND AVE,"Trenton, NJ",$3.859,Mar 30,06:08 AM,,,,Repairs
+Morrisville,7-Eleven #41892,7-Eleven,1850 Klockner Rd,"Trenton, NJ",$3.879,Mar 30,11:16 AM,$5.799,Mar 30,11:16 AM,"Open 24 Hours, Convenience Store/Grocery Store"
+Morrisville,Sunoco,Sunoco,907 W TRENTON AVE,"Morrisville , PA",$3.899,Mar 29,03:12 PM,,,,"Bio-Fuels, Repairs"
+Morrisville,SUNOCO,Sunoco,999 W TRENTON AVE,"Morrisville , PA",$3.899,Mar 30,01:18 PM,,,,"Bio-Fuels, Repairs"
+Morrisville,7-ELEVEN #40087,7-Eleven,110 SANHICAN DR,"Trenton , NJ",$3.899,Mar 30,01:00 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
+Morrisville,GREY LION CONOCO,Conoco,1071 PARKWAY AVE,"Trenton, NJ",$3.899,Mar 30,03:03 PM,,,,
+Morrisville,FAIRGROUNDS EXXON,Exxon,1930 NOTTINGHAM WAY,"Trenton , NJ",$3.899,Mar 30,02:26 PM,,,,Convenience Store/Grocery Store
+Morrisville,Uni-Mart,Exxon,1824 WHITEHORSE MERCERVILLE RD,"Trenton , NJ",$3.899,Mar 30,03:09 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
+Morrisville,PHILLIPS 66,Phillips 66,23-33 CALHOUN STREET,"Trenton, NJ",$3.939,Mar 30,02:18 PM,,,,
+Morrisville,US GAS,US Gas,110 CALHOUN STREET,"Trenton , NJ",$3.939,Mar 30,10:34 AM,,,,Convenience Store/Grocery Store
+Morrisville,PENNINGTON AVE FUELS,Gulf,182 PENNINGTON AVE,"Trenton, NJ",$3.939,Mar 28,06:19 PM,,,,Convenience Store/Grocery Store
+Morrisville,CHAMBERS GULF,Gulf,1106 CHAMBERS ST,"Trenton , NJ",$3.959,Mar 30,12:59 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
+Morrisville,BIG OAK CITGO,CITGO,812 BIG OAK RD,"Morrisville , PA",$3.959,Mar 30,06:03 AM,,,,Repairs
+Morrisville,SHELL,Shell,2231 S OLDEN AVE,"Trenton , NJ",$3.989,Mar 30,08:29 AM,,,,Repairs
+Morrisville,RAJS MINI MART,Sunoco,509 S PENNSYLVANIA AVE,"Morrisville, PA",$3.999,Mar 30,03:41 PM,$5.899,Mar 30,03:17 PM,"Bio-Fuels, Convenience Store/Grocery Store"
+Morrisville,LUKOIL #57255,Lukoil,750 GREENWOOD AVE,"Trenton, NJ",$3.999,Mar 30,10:13 AM,,,,Open 24 Hours
+Morrisville,GREENWOOD SHELL FOOD,Shell,800 GREENWOOD AVE,"Trenton , NJ",$3.999,Mar 30,01:07 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
+Morrisville,OLDEN AVENUE EXXON,Exxon,801 N OLDEN AVE,"Trenton , NJ",$3.999,Mar 30,02:50 PM,$5.799,Mar 30,02:17 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Morrisville,EXXON ON THE RUN,Exxon,1500 PENNINGTON RD,"Trenton , NJ",$3.999,Mar 30,03:36 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
+Morrisville,SUNOCO,Sunoco,1685 NOTTINGHAM WAY,"Trenton, NJ",$3.999,Mar 30,01:21 PM,,,,Repairs
+Morrisville,SUNOCO,Sunoco,398 LINCOLN HWY,"Fairless Hills , PA",$3.999,Mar 30,12:46 PM,,,,"Bio-Fuels, Repairs"
+Morrisville,A PLUS MINI MARKET,A Plus,8596 NEW FALLS RD,"Levittown , PA",$3.999,Mar 30,02:53 PM,$5.999,Mar 30,05:19 AM,"Bio-Fuels, Convenience Store/Grocery Store"
+Morrisville,Conoco,Conoco,2551 BRUNSWICK AVE,"Lawrence Township , NJ",$3.999,Mar 30,03:24 PM,,,,Repairs
+Morrisville,LAKESIDE SHELL AUTO,Shell,3750 S BROAD ST,"Trenton , NJ",$3.999,Mar 30,07:14 AM,,,,Repairs
+Morrisville,Sunoco,Sunoco,61 OXFORD VALLEY RD,"Morrisville , PA",$3.999,Mar 30,03:29 PM,$5.999,Mar 30,10:47 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Morrisville,Olden Ave Sinclair,Sinclair,1380 S OLDEN AVE,"Trenton, NJ",$4.069,Mar 30,09:54 AM,$5.799,Mar 30,12:15 PM,Repairs
+Morrisville,VALERO,Valero,410 GREENWOOD AVE,"Trenton, NJ",$4.099,Mar 30,01:51 PM,,,,
+Morrisville,BP,BP,2582 WHITEHORSE MERCERVILLE RD,"Trenton, NJ",$4.099,Mar 30,02:33 PM,$5.999,Mar 30,03:46 PM,Convenience Store/Grocery Store
+Morrisville,WAWA #8076,Wawa,545 W TRENTON AVE,"Morrisville, PA",$4.199,Mar 30,03:40 PM,$5.999,Mar 30,03:02 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Morrisville,Wawa  #8168,Wawa,530 LINCOLN HWY,"Fairless Hills, PA",$4.199,Mar 30,02:06 PM,$5.999,Mar 30,02:06 PM,Convenience Store/Grocery Store
+Morrisville,WAWA #8360,Wawa,1300 SYLVIA STREET,"Trenton, NJ",$4.199,Mar 30,03:38 PM,$5.999,Mar 30,03:18 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Morrisville,Wawa #8452,Wawa,3157 S BROAD ST,"Trenton, NJ",$4.199,Mar 30,03:05 PM,$5.999,Mar 30,02:19 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Morrisville,SHELL,Shell,236 LINCOLN HWY,"Fairless Hills, PA",$4.199,Mar 30,03:05 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Morrisville,SITKOS REPAIR SERVICE,CITGO,40 E AFTON AVE,"Morrisville , PA",$4.219,Mar 30,02:16 PM,,,,Repairs
+Morrisville,LALOR SHELL,Shell,602 LALOR ST,"Trenton , NJ",$4.699,Mar 30,01:28 PM,,,,Repairs
+Morrisville,BJS WHOLESALE CLUB #52,BJ's,360 COMMERCE BLVD,"Fairless Hills , PA",,,,,,,Convenience Store/Grocery Store
+Morrisville,LUKOIL,Lukoil,1497 PROSPECT ST,"Trenton, NJ",,,,,,,Convenience Store/Grocery Store
+Morrisville,PIONEER,Unbranded,700 LALOR ST,"Trenton , NJ",,,,,,,
+Morrisville,Liberty,Liberty,1065 S BROAD ST,"Trenton, NJ",,,,,,,Convenience Store/Grocery Store
+Morrisville,Delta,Delta,579 S BROAD ST,"Trenton , NJ",,,,,,,Repairs
+Morrisville,Al's Gas,Unbranded,135 LAWRENCEVILLE RD,"Lawrence Township , NJ",,,,,,,Repairs
+Morrisville,US GAS,US Gas,2340 S BROAD ST,"Trenton , NJ",,,,,,,Repairs
+Morrisville,LUKOIL,Lukoil,2482 S BROAD ST,"Trenton, NJ",,,,$5.599,Mar 30,10:35 AM,Repairs
+Morrisville,Yardley Service Center,Unbranded,194 S MAIN ST,"Morrisville , PA",,,,,,,Repairs
