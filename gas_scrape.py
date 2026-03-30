@@ -8,6 +8,8 @@ import pandas as pd
 import time
 import os
 import re
+import subprocess
+from datetime import datetime
 
 
 START_URL = "https://www.aaa.com/stop/"
@@ -164,7 +166,6 @@ def parse_area_averages_html(html: str, place_name: str):
         ),
     }
 
-    # If absolutely nothing was found, still return a 1-row dataframe so the place exists in output
     return pd.DataFrame([record])
 
 
@@ -266,10 +267,6 @@ def search_and_scrape(driver, wait, place):
         return station_df, averages_df, "table"
 
     station_df = empty_results_df()
-    averages_df = empty_averages_df()
-
-    if station_df.empty:
-        station_df = pd.DataFrame(columns=station_df.columns)
 
     averages_df = pd.DataFrame([{
         "search_place": place,
@@ -301,6 +298,54 @@ def return_to_search(driver, wait):
     )
 
 
+def run_git_command(args):
+    result = subprocess.run(
+        args,
+        capture_output=True,
+        text=True,
+        shell=True
+    )
+
+    if result.stdout:
+        print(result.stdout.strip())
+    if result.stderr:
+        print(result.stderr.strip())
+
+    return result
+
+
+def push_updates_to_github():
+    print("Starting git update...")
+
+    add_result = run_git_command(["git", "add", "."])
+    if add_result.returncode != 0:
+        print("git add failed.")
+        return
+
+    status_result = run_git_command(["git", "status", "--porcelain"])
+    if status_result.returncode != 0:
+        print("git status failed.")
+        return
+
+    if not status_result.stdout.strip():
+        print("No git changes to commit.")
+        return
+
+    commit_message = f"Auto update gas prices {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
+
+    commit_result = run_git_command(["git", "commit", "-m", commit_message])
+    if commit_result.returncode != 0:
+        print("git commit failed.")
+        return
+
+    push_result = run_git_command(["git", "push", "origin", "main"])
+    if push_result.returncode != 0:
+        print("git push failed.")
+        return
+
+    print("GitHub update complete.")
+
+
 def main():
     os.makedirs(OUTPUT_FOLDER, exist_ok=True)
     os.makedirs(AVERAGES_FOLDER, exist_ok=True)
@@ -316,10 +361,11 @@ def main():
         for i, place in enumerate(approved_bucks_places):
             try:
                 station_df, averages_df, outcome = search_and_scrape(driver, wait, place)
+
                 station_df = station_df[
                     station_df["regular_price"].astype(str).str.contains(r"\$", na=False) &
                     ~station_df["city_state_zip"].astype(str).str.contains(r"NJ|Philadelphia", case=False, na=False)
-                    ].copy()
+                ].copy()
 
                 gas_path = os.path.join(OUTPUT_FOLDER, safe_filename(place, "Gas.csv"))
                 station_df.to_csv(gas_path, index=False)
@@ -384,6 +430,8 @@ def main():
 
     finally:
         driver.quit()
+
+    push_updates_to_github()
 
 
 if __name__ == "__main__":
