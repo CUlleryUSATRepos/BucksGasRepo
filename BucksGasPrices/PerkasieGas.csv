@@ -2,7 +2,7 @@ search_place,station,brand,street,city_state_zip,regular_price,regular_price_dat
 Perkasie,WEIS MARKETS,Gas N Go (Weis),431 W DUBLIN PIKE,"Perkasie, PA",$3.799,Mar 30,01:43 PM,,,,
 Perkasie,CIRCLE K,Circle K,403 N MAIN ST,"Telford, PA",$3.899,Mar 30,02:34 PM,,,,Convenience Store/Grocery Store
 Perkasie,SUNOCO,Sunoco,303 HARLEYSVILLE PIKE,"Souderton , PA",$3.899,Mar 30,03:18 PM,,,,
-Perkasie,MOYER AND SONS,Unbranded,113 E RELIANCE RD,"Souderton , PA",$3.929,Mar 30,09:14 AM,,,,Bio-Fuels
+Perkasie,MOYER AND SONS,Unbranded,113 E RELIANCE RD,"Souderton , PA",$3.929,Mar 30,09:14 AM,$5.769,Mar 30,04:13 PM,Bio-Fuels
 Perkasie,SELLERSVILLE GULF,Gulf,396 N MAIN ST,"Sellersville , PA",$3.959,Mar 30,01:55 PM,,,,Convenience Store/Grocery Store
 Perkasie,BODKINS SUNOCO,Sunoco,928 LAWN AVE,"Sellersville, PA",$3.959,Mar 30,03:36 PM,,,,
 Perkasie,SUNOCO,Sunoco,672 E BROAD ST,"Souderton , PA",$3.959,Mar 30,02:25 PM,,,,Convenience Store/Grocery Store
@@ -10,12 +10,9 @@ Perkasie,US GAS,Unbranded,530 E BROAD ST,"Quakertown , PA",$3.959,Mar 29,03:46 P
 Perkasie,STANS STOP,Unbranded,501 ROUTE 313,"Perkasie , PA",$3.999,Mar 30,02:15 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
 Perkasie,GIANT #6018,Giant (Ahold),786 ROUTE 113,"Souderton , PA",$3.999,Mar 30,12:14 PM,,,,
 Perkasie,US GAS,Unbranded,401 E WALNUT ST,"Perkasie , PA",$4.059,Mar 28,10:20 AM,,,,Repairs
-Perkasie,Sunoco,Sunoco,4802 OLD BETHLEHEM PIKE,"Telford , PA",$4.159,Mar 30,03:19 PM,$5.779,Mar 30,03:38 PM,Bio-Fuels
-Perkasie,WAWA #8008,Wawa,3520 BETHLEHEM PIKE,"Souderton, PA",$4.199,Mar 30,03:27 PM,$5.999,Mar 30,01:20 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
-Perkasie,WAWA #272,Wawa,1095 S WEST END BLVD,"Quakertown, PA",$4.199,Mar 30,03:24 PM,$5.999,Mar 30,03:43 PM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
+Perkasie,Sunoco,Sunoco,4802 OLD BETHLEHEM PIKE,"Telford , PA",$4.159,Mar 30,04:09 PM,$5.779,Mar 30,03:38 PM,Bio-Fuels
+Perkasie,WAWA #8008,Wawa,3520 BETHLEHEM PIKE,"Souderton, PA",$4.199,Mar 30,04:02 PM,$5.999,Mar 30,04:00 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
+Perkasie,WAWA #272,Wawa,1095 S WEST END BLVD,"Quakertown, PA",$4.199,Mar 30,04:13 PM,$5.999,Mar 30,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
 Perkasie,JOES KWIK MARTS #1048,Joes Kwik Mart,515 DUBLIN PIKE,"Perkasie , PA",$4.199,Mar 30,02:26 PM,$5.899,Mar 30,09:58 AM,"Bio-Fuels, Convenience Store/Grocery Store"
-Perkasie,WAWA #8139,Wawa,320 W ROUTE 313,"Perkasie , PA",$4.199,Mar 30,03:48 PM,$5.999,Mar 30,02:34 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Perkasie,WAWA #8139,Wawa,320 W ROUTE 313,"Perkasie , PA",$4.199,Mar 30,04:00 PM,$5.999,Mar 30,04:09 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Perkasie,SHELL,Shell,2301 N 5TH ST,"Perkasie , PA",$4.299,Mar 30,08:36 AM,,,,"Bio-Fuels, Repairs"
-Perkasie,Gas Star,Unbranded,500 N 5TH ST,"Perkasie , PA",,,,,,,
-Perkasie,LANDIS FUEL CENTER,Unbranded,2685 COUNTY LINE RD,"Telford , PA",,,,,,,Open 24 Hours
-Perkasie,LUKOIL,Lukoil,681 E BROAD ST,"Souderton, PA",,,,,,,Repairs

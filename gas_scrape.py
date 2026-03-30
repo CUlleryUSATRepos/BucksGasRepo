@@ -316,6 +316,10 @@ def main():
         for i, place in enumerate(approved_bucks_places):
             try:
                 station_df, averages_df, outcome = search_and_scrape(driver, wait, place)
+                station_df = station_df[
+                    station_df["regular_price"].astype(str).str.contains(r"\$", na=False) &
+                    ~station_df["city_state_zip"].astype(str).str.contains(r"NJ|Philadelphia", case=False, na=False)
+                    ].copy()
 
                 gas_path = os.path.join(OUTPUT_FOLDER, safe_filename(place, "Gas.csv"))
                 station_df.to_csv(gas_path, index=False)
