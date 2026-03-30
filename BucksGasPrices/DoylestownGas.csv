@@ -1,6 +1,6 @@
 station,brand,street,city_state_zip,regular_price,regular_datetime,diesel_price,services,search_zip,place
 United,Unbranded,1405 LOWER STATE RD,"Doylestown , PA",$3.859,2026-03-29 19:40:00,,Repairs,18901,Doylestown
 N EASTON RD BP,BP,3611 N EASTON RD,"Doylestown , PA",$3.939,2026-03-29 19:18:00,,Convenience Store/Grocery Store,18901,Doylestown
+WAWA #8125,Wawa,425 S MAIN ST,"Doylestown, PA",$3.959,2026-03-29 23:05:00,$5.899,"Open 24 Hours, Convenience Store/Grocery Store",18901,Doylestown
 WAWA #8096,Wawa,3659 N EASTON RD,"Doylestown, PA",$3.959,2026-03-29 19:55:00,$5.899,Convenience Store/Grocery Store,18901,Doylestown
-WAWA #8125,Wawa,425 S MAIN ST,"Doylestown, PA",$3.959,2026-03-29 19:11:00,$5.899,"Open 24 Hours, Convenience Store/Grocery Store",18901,Doylestown
 SHELL,Shell,1807 S EASTON RD,"Doylestown , PA",$3.959,2026-03-29 18:58:00,,"Open 24 Hours, Convenience Store/Grocery Store",18901,Doylestown
