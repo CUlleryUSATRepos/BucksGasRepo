@@ -1,10 +1,33 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
+Bristol,BRISTOL 905,Valero,905 ROUTE 13,"Bristol , PA",$3.799,Mar 30,04:25 PM,,,,"Restaurant/Deli/Fast Food, Bio-Fuels, Repairs"
+Bristol,SUNOCO,Sunoco,652 BELLEVUE AVE,"Langhorne, PA",$3.799,Mar 30,03:07 PM,,,,Repairs
+Bristol,BRUCES AUTOMOTIVE,Liberty,3700 OXFORD VALLEY RD,"Levittown , PA",$3.849,Mar 30,02:50 PM,,,,
 Bristol,G FUEL,Unbranded,455 BRISTOL PIKE,"Bristol , PA",$3.859,Mar 30,01:39 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Bristol,BRISTOL 905,Valero,905 ROUTE 13,"Bristol , PA",$3.899,Mar 30,08:47 AM,,,,"Restaurant/Deli/Fast Food, Bio-Fuels, Repairs"
+Bristol,USA GAS,Unbranded,5901 MILL CREEK RD,"Levittown , PA",$3.859,Mar 30,10:19 AM,,,,Repairs
+Bristol,CORNWELLS HIEGHTS,Unbranded,1360 STREET RD,"Bensalem, PA",$3.879,Mar 30,03:41 PM,$5.899,Mar 30,01:28 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Bristol,S&P Oil,Unbranded,8029 BRISTOL PIKE,"Levittown, PA",$3.899,Mar 29,03:37 PM,$4.999,Mar 30,06:01 AM,Bio-Fuels
+Bristol,Conoco,Conoco,2672 BRISTOL PIKE,"Bensalem , PA",$3.899,Mar 30,03:55 PM,$5.799,Mar 30,02:43 PM,Bio-Fuels
+Bristol,GULF,Gulf,4362 NEW FALLS RD,"Levittown , PA",$3.919,Mar 30,02:04 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Bristol,MILL CREEK GAS,Sunoco,7040 MILL CREEK RD,"Levittown , PA",$3.919,Mar 30,04:23 PM,,,,Convenience Store/Grocery Store
+Bristol,NEW FALLS ROAD EXXON,Exxon,5300 NEW FALLS RD,"Levittown , PA",$3.929,Mar 30,04:09 PM,$5.859,Mar 30,07:05 AM,
 Bristol,SPEEDWAY #6729,Speedway,2919 STATE ROUTE 413,"Bristol , PA",$3.959,Mar 30,03:22 PM,$5.899,Mar 30,03:47 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Bristol,GIANT #6324,Giant (Ahold),2391 DURHAM RD,"Levittown , PA",$3.959,Mar 29,06:00 PM,,,,Convenience Store/Grocery Store
+Bristol,SINCLAIR,Sinclair,2030 STREET RD,"Bensalem , PA",$3.979,Mar 30,11:53 AM,,,,Convenience Store/Grocery Store
 Bristol,A PLUS MINI MARKET,A Plus,231 ROUTE 13,"Bristol , PA",$3.999,Mar 30,04:21 PM,$5.999,Mar 30,03:08 PM,"Bio-Fuels, Repairs"
 Bristol,SUNOCO,Sunoco,1231 NEW RODGERS RD,"Bristol, PA",$3.999,Mar 30,03:35 PM,$6.199,Mar 30,03:08 PM,"Bio-Fuels, Repairs"
+Bristol,BP,BP,7601 BRISTOL PIKE,"Levittown , PA",$3.999,Mar 30,03:11 PM,$5.899,Mar 30,03:15 PM,"Bio-Fuels, Convenience Store/Grocery Store"
+Bristol,BENSALEM TIGER MART,Exxon,5716 HULMEVILLE RD,"Bensalem , PA",$3.999,Mar 30,01:53 PM,,,,Convenience Store/Grocery Store
+Bristol,A PLUS MINI MARKET,A Plus,1432 STREET RD,"Bensalem , PA",$3.999,Mar 30,04:38 PM,$5.999,Mar 30,11:43 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Bristol,LIBERTY,Liberty,1616 STREET RD,"Bensalem , PA",$3.999,Mar 30,03:07 PM,,,,Repairs
+Bristol,BP,BP,1724 TRENTON RD,"Levittown , PA",$3.999,Mar 30,02:49 PM,,,,Repairs
+Bristol,SUNOCO,Sunoco,1155 BRISTOL OXFORD VALLEY RD,"Levittown , PA",$3.999,Mar 30,05:57 AM,,,,"Bio-Fuels, Repairs"
+Bristol,SUNOCO,Sunoco,7000 BRISTOL PIKE,"Levittown, PA",$4.089,Mar 30,02:24 PM,$5.999,Mar 30,02:08 PM,"Bio-Fuels, Repairs"
+Bristol,Sunoco,Sunoco,503 STATE RD,"Croydon , PA",$4.099,Mar 30,02:53 PM,$5.999,Mar 30,03:56 PM,"Bio-Fuels, Convenience Store/Grocery Store"
+Bristol,SUNOCO,Sunoco,3611 HULMEVILLE RD,"Bensalem , PA",$4.099,Mar 30,03:29 PM,,,,Repairs
+Bristol,SHELL,Shell,7011 NEW FALLS RD,"Levittown , PA",$4.159,Mar 30,04:09 PM,$5.999,Mar 30,04:11 PM,"Bio-Fuels, Convenience Store/Grocery Store"
 Bristol,WAWA #8107,Wawa,3111 STATE RD,"Bristol, PA",$4.199,Mar 30,04:00 PM,$5.999,Mar 30,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Bristol,WAWA #268,Wawa,5900 BRISTOL PIKE,"Bristol, PA",$4.199,Mar 30,04:07 PM,$5.999,Mar 30,04:07 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
-Bristol,WAWA #219,Wawa,3260 NEW RODGERS RD,"Bristol, PA",$4.199,Mar 30,04:05 PM,$5.999,Mar 30,04:00 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
-Bristol,Wawa #8127,Wawa,225 LEVITTOWN PARKWAY,"Bristol , PA",$4.199,Mar 30,04:12 PM,$5.999,Mar 30,04:08 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Repairs"
+Bristol,WAWA #268,Wawa,5900 BRISTOL PIKE,"Bristol, PA",$4.199,Mar 30,04:31 PM,$5.999,Mar 30,04:07 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
+Bristol,WAWA #219,Wawa,3260 NEW RODGERS RD,"Bristol, PA",$4.199,Mar 30,04:33 PM,$5.999,Mar 30,04:00 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
+Bristol,Wawa #8163,Wawa,3800 Bristol Oxford Valley Rd,"Levittown, PA",$4.199,Mar 30,04:00 PM,$5.999,Mar 30,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Bristol,Wawa #8127,Wawa,225 LEVITTOWN PARKWAY,"Bristol , PA",$4.199,Mar 30,04:34 PM,$5.999,Mar 30,04:08 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Repairs"
+Bristol,WAWA #8004,Wawa,7625 NEW FALLS RD,"Levittown, PA",$4.199,Mar 30,04:26 PM,$5.999,Mar 30,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
