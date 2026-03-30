@@ -1,6 +1,6 @@
 station,brand,street,city_state_zip,regular_price,regular_datetime,diesel_price,services,search_zip,place
-Sunoco,Sunoco,503 STATE RD,"Croydon , PA",$3.899,2026-03-30 07:28:00,$5.759,"Bio-Fuels, Convenience Store/Grocery Store",19020,Bensalem
+Sunoco,Sunoco,503 STATE RD,"Croydon , PA",$3.899,2026-03-30 09:52:00,$5.759,"Bio-Fuels, Convenience Store/Grocery Store",19020,Bensalem
+SHELL,Shell,1214 BRISTOL PIKE,"Bensalem, PA",$3.899,2026-03-30 09:03:00,$5.899,Repairs,19020,Bensalem
+Conoco,Conoco,2672 BRISTOL PIKE,"Bensalem , PA",$3.899,2026-03-30 08:19:00,,Bio-Fuels,19020,Bensalem
 BENSALEM AUTO CARE,Conoco,3585 BRISTOL RD,"Bensalem, PA",$3.899,2026-03-30 07:19:00,,Repairs,19020,Bensalem
-SHELL,Shell,1214 BRISTOL PIKE,"Bensalem, PA",$3.899,2026-03-30 06:50:00,$5.899,Repairs,19020,Bensalem
-Conoco,Conoco,2672 BRISTOL PIKE,"Bensalem , PA",$3.899,2026-03-30 06:12:00,,Bio-Fuels,19020,Bensalem
-BP,BP,3340 BRISTOL RD,"Bensalem , PA",$3.939,2026-03-30 07:39:00,$5.899,"Open 24 Hours, Bio-Fuels, Repairs",19020,Bensalem
+BP,BP,3340 BRISTOL RD,"Bensalem , PA",$3.939,2026-03-30 09:51:00,$5.899,"Open 24 Hours, Bio-Fuels, Repairs",19020,Bensalem
