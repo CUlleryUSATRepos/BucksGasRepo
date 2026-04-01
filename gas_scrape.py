@@ -303,7 +303,7 @@ def run_git_command(args):
         args,
         capture_output=True,
         text=True,
-        shell=True
+        shell=False
     )
 
     if result.stdout:
@@ -317,7 +317,13 @@ def run_git_command(args):
 def push_updates_to_github():
     print("Starting git update...")
 
-    add_result = run_git_command(["git", "add", "."])
+    paths_to_stage = [
+        "gas_scrape.py",
+        OUTPUT_FOLDER,
+        AVERAGES_FOLDER,
+    ]
+
+    add_result = run_git_command(["git", "add", *paths_to_stage])
     if add_result.returncode != 0:
         print("git add failed.")
         return
@@ -327,7 +333,12 @@ def push_updates_to_github():
         print("git status failed.")
         return
 
-    if not status_result.stdout.strip():
+    staged_lines = [
+        line for line in status_result.stdout.splitlines()
+        if not line.startswith("??")
+    ]
+
+    if not staged_lines:
         print("No git changes to commit.")
         return
 
@@ -336,6 +347,11 @@ def push_updates_to_github():
     commit_result = run_git_command(["git", "commit", "-m", commit_message])
     if commit_result.returncode != 0:
         print("git commit failed.")
+        return
+
+    pull_result = run_git_command(["git", "pull", "--rebase", "origin", "main"])
+    if pull_result.returncode != 0:
+        print("git pull --rebase failed.")
         return
 
     push_result = run_git_command(["git", "push", "origin", "main"])
