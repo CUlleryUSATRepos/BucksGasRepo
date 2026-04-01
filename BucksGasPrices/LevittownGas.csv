@@ -1,46 +1,46 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
 Levittown,USA GAS,Unbranded,5901 MILL CREEK RD,"Levittown , PA",$3.759,Mar 31,06:22 AM,,,,Repairs
 Levittown,MORRISVILLE FUELS,Unbranded,299 W TRENTON AVE,"Morrisville , PA",$3.759,Mar 31,10:26 AM,,,,Convenience Store/Grocery Store
-Levittown,BRISTOL 905,Valero,905 ROUTE 13,"Bristol , PA",$3.799,Mar 30,04:25 PM,,,,"Restaurant/Deli/Fast Food, Bio-Fuels, Repairs"
 Levittown,SUNOCO,Sunoco,652 BELLEVUE AVE,"Langhorne, PA",$3.799,Mar 31,12:15 PM,,,,Repairs
 Levittown,GULF,Gulf,2 W BRIDGE ST,"Morrisville, PA",$3.799,Mar 30,08:47 AM,,,,"Convenience Store/Grocery Store, Repairs"
 Levittown,G FUEL,Unbranded,455 BRISTOL PIKE,"Bristol , PA",$3.859,Mar 31,03:50 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Levittown,SUNOCO,Sunoco,999 W TRENTON AVE,"Morrisville , PA",$3.899,Mar 31,03:31 PM,,,,"Bio-Fuels, Repairs"
+Levittown,SUNOCO,Sunoco,999 W TRENTON AVE,"Morrisville , PA",$3.899,Mar 31,05:46 PM,,,,"Bio-Fuels, Repairs"
+Levittown,BRISTOL 905,Valero,905 ROUTE 13,"Bristol , PA",$3.899,Mar 31,08:51 PM,,,,"Restaurant/Deli/Fast Food, Bio-Fuels, Repairs"
 Levittown,GULF,Gulf,4362 NEW FALLS RD,"Levittown , PA",$3.959,Mar 31,03:35 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Levittown,S&P Oil,Unbranded,8029 BRISTOL PIKE,"Levittown, PA",$3.999,Mar 31,09:54 AM,$5.999,Mar 31,03:00 PM,Bio-Fuels
-Levittown,SUNOCO,Sunoco,398 LINCOLN HWY,"Fairless Hills , PA",$3.999,Mar 31,02:57 PM,$5.999,Mar 31,03:00 PM,"Bio-Fuels, Repairs"
-Levittown,BRUCES AUTOMOTIVE,Liberty,3700 OXFORD VALLEY RD,"Levittown , PA",$3.999,Mar 31,01:45 PM,,,,
-Levittown,FOODLE FARMS,Unbranded,1205 E LINCOLN HWY,"Langhorne, PA",$3.999,Mar 31,02:45 PM,$5.879,Mar 31,09:14 AM,"Bio-Fuels, Convenience Store/Grocery Store"
-Levittown,SUNOCO,Sunoco,7000 BRISTOL PIKE,"Levittown, PA",$4.089,Mar 31,12:27 PM,$5.999,Mar 31,08:25 AM,"Bio-Fuels, Repairs"
-Levittown,MILL CREEK GAS,Sunoco,7040 MILL CREEK RD,"Levittown , PA",$4.099,Mar 31,03:30 PM,,,,Convenience Store/Grocery Store
+Levittown,S&P Oil,Unbranded,8029 BRISTOL PIKE,"Levittown, PA",$3.999,Mar 31,04:02 PM,$5.999,Mar 31,03:00 PM,Bio-Fuels
+Levittown,SUNOCO,Sunoco,398 LINCOLN HWY,"Fairless Hills , PA",$3.999,Mar 31,05:59 PM,$5.999,Mar 31,03:00 PM,"Bio-Fuels, Repairs"
+Levittown,BRUCES AUTOMOTIVE,Liberty,3700 OXFORD VALLEY RD,"Levittown , PA",$3.999,Mar 31,07:21 PM,,,,
+Levittown,FOODLE FARMS,Unbranded,1205 E LINCOLN HWY,"Langhorne, PA",$3.999,Mar 31,04:47 PM,$5.879,Mar 31,09:14 AM,"Bio-Fuels, Convenience Store/Grocery Store"
+Levittown,SUNOCO,Sunoco,7000 BRISTOL PIKE,"Levittown, PA",$4.089,Mar 31,09:38 PM,$5.999,Mar 31,08:25 AM,"Bio-Fuels, Repairs"
+Levittown,MILL CREEK GAS,Sunoco,7040 MILL CREEK RD,"Levittown , PA",$4.099,Mar 31,04:03 PM,,,,Convenience Store/Grocery Store
 Levittown,BP,BP,7601 BRISTOL PIKE,"Levittown , PA",$4.099,Mar 31,03:19 PM,$5.899,Mar 30,03:15 PM,"Bio-Fuels, Convenience Store/Grocery Store"
-Levittown,SUNOCO,Sunoco,1155 BRISTOL OXFORD VALLEY RD,"Levittown , PA",$4.099,Mar 31,07:14 AM,,,,"Bio-Fuels, Repairs"
-Levittown,GIANT #6324,Giant (Ahold),2391 DURHAM RD,"Levittown , PA",$4.099,Mar 31,11:00 AM,,,,Convenience Store/Grocery Store
-Levittown,SINCLAIR,Sinclair,452 S BELLEVUE AVE,"Langhorne, PA",$4.099,Mar 31,03:21 PM,,,,
-Levittown,BIG OAK CITGO,CITGO,812 BIG OAK RD,"Morrisville , PA",$4.109,Mar 31,10:37 AM,,,,Repairs
-Levittown,NEW FALLS ROAD EXXON,Exxon,5300 NEW FALLS RD,"Levittown , PA",$4.119,Mar 31,02:28 PM,$5.959,Mar 31,01:50 PM,
+Levittown,GIANT #6324,Giant (Ahold),2391 DURHAM RD,"Levittown , PA",$4.099,Mar 31,06:00 PM,,,,Convenience Store/Grocery Store
+Levittown,SINCLAIR,Sinclair,452 S BELLEVUE AVE,"Langhorne, PA",$4.099,Mar 31,08:31 PM,,,,
+Levittown,SUNOCO,Sunoco,1155 BRISTOL OXFORD VALLEY RD,"Levittown , PA",$4.119,Mar 31,09:50 PM,,,,"Bio-Fuels, Repairs"
+Levittown,NEW FALLS ROAD EXXON,Exxon,5300 NEW FALLS RD,"Levittown , PA",$4.119,Mar 31,07:32 PM,$5.959,Mar 31,01:50 PM,
 Levittown,Sunoco,Sunoco,907 W TRENTON AVE,"Morrisville , PA",$4.159,Mar 31,12:24 PM,,,,"Bio-Fuels, Repairs"
-Levittown,SUNOCO,Sunoco,1231 NEW RODGERS RD,"Bristol, PA",$4.159,Mar 31,03:51 PM,$6.199,Mar 31,11:14 AM,"Bio-Fuels, Repairs"
+Levittown,SUNOCO,Sunoco,1231 NEW RODGERS RD,"Bristol, PA",$4.159,Mar 31,05:25 PM,$6.199,Mar 31,11:14 AM,"Bio-Fuels, Repairs"
 Levittown,LUKOIL,Lukoil,152 E MAPLE AVE,"Langhorne, PA",$4.159,Mar 31,03:57 PM,,,,Convenience Store/Grocery Store
-Levittown,Sunoco,Sunoco,111 E LINCOLN HWY,"Langhorne, PA",$4.179,Mar 31,03:51 PM,$5.979,Mar 31,10:02 AM,"Bio-Fuels, Convenience Store/Grocery Store"
-Levittown,Wawa #8127,Wawa,225 LEVITTOWN PARKWAY,"Bristol , PA",$4.199,Mar 31,03:53 PM,$5.999,Mar 31,03:24 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Repairs"
-Levittown,WAWA #8004,Wawa,7625 NEW FALLS RD,"Levittown, PA",$4.199,Mar 31,12:57 PM,$5.999,Mar 31,03:34 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Levittown,Sunoco,Sunoco,111 E LINCOLN HWY,"Langhorne, PA",$4.179,Mar 31,06:29 PM,$5.979,Mar 31,10:02 AM,"Bio-Fuels, Convenience Store/Grocery Store"
+Levittown,Wawa #8127,Wawa,225 LEVITTOWN PARKWAY,"Bristol , PA",$4.199,Mar 31,10:24 PM,$5.999,Mar 31,05:53 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Repairs"
+Levittown,WAWA #8004,Wawa,7625 NEW FALLS RD,"Levittown, PA",$4.199,Mar 31,07:18 PM,$5.999,Mar 31,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Levittown,A PLUS MINI MARKET,A Plus,8596 NEW FALLS RD,"Levittown , PA",$4.199,Mar 31,12:50 PM,$5.999,Mar 30,05:19 AM,"Bio-Fuels, Convenience Store/Grocery Store"
 Levittown,SHELL,Shell,7011 NEW FALLS RD,"Levittown , PA",$4.199,Mar 31,03:49 PM,$5.999,Mar 30,04:11 PM,"Bio-Fuels, Convenience Store/Grocery Store"
-Levittown,SHELL,Shell,236 LINCOLN HWY,"Fairless Hills, PA",$4.199,Mar 31,03:42 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Levittown,Wawa  #8168,Wawa,530 LINCOLN HWY,"Fairless Hills, PA",$4.199,Mar 31,03:58 PM,$5.999,Mar 31,03:13 PM,Convenience Store/Grocery Store
-Levittown,Wawa #8163,Wawa,3800 Bristol Oxford Valley Rd,"Levittown, PA",$4.199,Mar 31,01:44 PM,$5.999,Mar 31,12:57 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Levittown,WAWA #268,Wawa,5900 BRISTOL PIKE,"Bristol, PA",$4.199,Mar 31,03:40 PM,$5.999,Mar 31,03:11 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
-Levittown,WAWA #8020,Wawa,132 OXFORD VALLEY RD,"Langhorne, PA",$4.199,Mar 31,03:42 PM,$5.999,Mar 31,05:47 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Levittown,WAWA #219,Wawa,3260 NEW RODGERS RD,"Bristol, PA",$4.199,Mar 31,03:55 PM,$5.999,Mar 31,02:28 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
+Levittown,SHELL,Shell,236 LINCOLN HWY,"Fairless Hills, PA",$4.199,Mar 31,09:27 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Levittown,Wawa  #8168,Wawa,530 LINCOLN HWY,"Fairless Hills, PA",$4.199,Mar 31,09:32 PM,$5.999,Mar 31,07:39 PM,Convenience Store/Grocery Store
+Levittown,Wawa #8163,Wawa,3800 Bristol Oxford Valley Rd,"Levittown, PA",$4.199,Mar 31,09:34 PM,$5.999,Mar 31,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Levittown,WAWA #268,Wawa,5900 BRISTOL PIKE,"Bristol, PA",$4.199,Mar 31,11:10 PM,$5.999,Mar 31,04:52 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
+Levittown,WAWA #8020,Wawa,132 OXFORD VALLEY RD,"Langhorne, PA",$4.199,Mar 31,10:26 PM,$5.999,Mar 31,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Levittown,WAWA #219,Wawa,3260 NEW RODGERS RD,"Bristol, PA",$4.199,Mar 31,08:44 PM,$5.999,Mar 31,04:20 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
 Levittown,BP,BP,1724 TRENTON RD,"Levittown , PA",$4.199,Mar 31,02:04 PM,,,,Repairs
-Levittown,SPEEDWAY #6729,Speedway,2919 STATE ROUTE 413,"Bristol , PA",$4.199,Mar 31,03:10 PM,$5.999,Mar 31,03:36 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Levittown,WAWA #8076,Wawa,545 W TRENTON AVE,"Morrisville, PA",$4.199,Mar 31,03:36 PM,$5.999,Mar 31,03:46 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Levittown,WAWA #8157,Wawa,639 E LINCOLN HWY,"Langhorne, PA",$4.199,Mar 31,03:30 PM,$5.999,Mar 31,03:51 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Levittown,A PLUS MINI MARKET,A Plus,231 ROUTE 13,"Bristol , PA",$4.199,Mar 31,03:06 PM,$5.999,Mar 31,03:44 PM,"Bio-Fuels, Repairs"
-Levittown,Joe's Kwik Marts #383,Joes Kwik Mart,1266 OLD LINCOLN HWY,"Langhorne, PA",$4.199,Mar 31,03:53 PM,,,,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Levittown,RAJS MINI MART,Sunoco,509 S PENNSYLVANIA AVE,"Morrisville, PA",$4.199,Mar 31,02:29 PM,$5.959,Mar 31,03:40 PM,"Bio-Fuels, Convenience Store/Grocery Store"
-Levittown,WAWA #8107,Wawa,3111 STATE RD,"Bristol, PA",$4.199,Mar 31,01:23 PM,$5.999,Mar 31,02:40 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Levittown,EXXON,Exxon,123 N PINE ST,"Langhorne , PA",$4.199,Mar 31,10:06 AM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
-Levittown,7-ELEVEN #32639,7-Eleven,527 W LINCOLN HWY,"Langhorne, PA",$4.199,Mar 31,01:26 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
-Levittown,Sunoco,Sunoco,61 OXFORD VALLEY RD,"Morrisville , PA",$4.299,Mar 31,02:55 PM,$5.999,Mar 31,12:55 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Levittown,SPEEDWAY #6729,Speedway,2919 STATE ROUTE 413,"Bristol , PA",$4.199,Mar 31,09:16 PM,$5.999,Mar 31,09:16 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Levittown,WAWA #8076,Wawa,545 W TRENTON AVE,"Morrisville, PA",$4.199,Mar 31,09:39 PM,$5.999,Mar 31,06:16 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Levittown,WAWA #8157,Wawa,639 E LINCOLN HWY,"Langhorne, PA",$4.199,Mar 31,08:37 PM,$5.999,Mar 31,05:13 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Levittown,A PLUS MINI MARKET,A Plus,231 ROUTE 13,"Bristol , PA",$4.199,Mar 31,10:24 PM,$5.999,Mar 31,03:44 PM,"Bio-Fuels, Repairs"
+Levittown,Joe's Kwik Marts #383,Joes Kwik Mart,1266 OLD LINCOLN HWY,"Langhorne, PA",$4.199,Mar 31,08:36 PM,,,,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Levittown,RAJS MINI MART,Sunoco,509 S PENNSYLVANIA AVE,"Morrisville, PA",$4.199,Mar 31,06:37 PM,$5.959,Mar 31,03:40 PM,"Bio-Fuels, Convenience Store/Grocery Store"
+Levittown,WAWA #8107,Wawa,3111 STATE RD,"Bristol, PA",$4.199,Mar 31,09:49 PM,$5.999,Mar 31,10:09 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Levittown,EXXON,Exxon,123 N PINE ST,"Langhorne , PA",$4.199,Mar 31,06:11 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
+Levittown,7-ELEVEN #32639,7-Eleven,527 W LINCOLN HWY,"Langhorne, PA",$4.199,Mar 31,09:16 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
+Levittown,Sunoco,Sunoco,61 OXFORD VALLEY RD,"Morrisville , PA",$4.299,Mar 31,05:31 PM,$5.999,Mar 31,12:55 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Levittown,BIG OAK CITGO,CITGO,812 BIG OAK RD,"Morrisville , PA",$4.309,Mar 31,08:02 PM,,,,Repairs
