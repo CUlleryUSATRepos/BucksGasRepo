@@ -28,7 +28,25 @@ approved_bucks_places = [
     "Woodbourne","Woodside","Yardley"
 ]
 
+REPO_DIR = r"C:\Users\Chris Ullery\data-projects\BucksGasRepo"
 
+def run_git_command(args, timeout=120):
+    result = subprocess.run(
+        args,
+        cwd=REPO_DIR,
+        capture_output=True,
+        text=True,
+        shell=False,
+        timeout=timeout,
+        env={**os.environ, "GIT_TERMINAL_PROMPT": "0"}
+    )
+
+    if result.stdout:
+        print(result.stdout.strip())
+    if result.stderr:
+        print(result.stderr.strip())
+
+    return result
 def safe_filename(place_name: str, suffix: str = "Gas.csv") -> str:
     cleaned = re.sub(r"[^A-Za-z0-9]+", "", place_name)
     return f"{cleaned}{suffix}"
@@ -323,12 +341,16 @@ def push_updates_to_github():
         AVERAGES_FOLDER,
     ]
 
+    print("Running git add...")
     add_result = run_git_command(["git", "add", *paths_to_stage])
+
     if add_result.returncode != 0:
         print("git add failed.")
         return
 
+    print("Running git status...")
     status_result = run_git_command(["git", "status", "--porcelain"])
+
     if status_result.returncode != 0:
         print("git status failed.")
         return
@@ -344,17 +366,23 @@ def push_updates_to_github():
 
     commit_message = f"Auto update gas prices {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
 
+    print("Running git commit...")
     commit_result = run_git_command(["git", "commit", "-m", commit_message])
+
     if commit_result.returncode != 0:
         print("git commit failed.")
         return
 
+    print("Running git pull --rebase...")
     pull_result = run_git_command(["git", "pull", "--rebase", "origin", "main"])
+
     if pull_result.returncode != 0:
         print("git pull --rebase failed.")
         return
 
+    print("Running git push...")
     push_result = run_git_command(["git", "push", "origin", "main"])
+
     if push_result.returncode != 0:
         print("git push failed.")
         return

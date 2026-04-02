@@ -1,5 +1,4 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Hulmeville,BJS WHOLESALE CLUB #52,BJ's,360 COMMERCE BLVD,"Fairless Hills , PA",$3.789,Mar 30,,,,,Convenience Store/Grocery Store
 Hulmeville,G FUEL,Unbranded,455 BRISTOL PIKE,"Bristol , PA",$3.859,Apr 01,03:00 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
 Hulmeville,GULF,Gulf,4362 NEW FALLS RD,"Levittown , PA",$3.959,Apr 01,03:50 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
 Hulmeville,USA GAS,Unbranded,5901 MILL CREEK RD,"Levittown , PA",$3.959,Apr 01,09:20 PM,,,,Repairs
@@ -44,11 +43,11 @@ Hulmeville,SHELL,Shell,7011 NEW FALLS RD,"Levittown , PA",$4.199,Apr 01,06:37 PM
 Hulmeville,SUNOCO,Sunoco,3611 HULMEVILLE RD,"Bensalem , PA",$4.199,Apr 01,05:53 PM,,,,Repairs
 Hulmeville,WAWA #8072,Wawa,3620 STREET RD,"Bensalem, PA",$4.199,Apr 01,10:10 PM,$5.999,Apr 01,08:29 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Hulmeville,A PLUS MINI MARKET,A Plus,3419 STREET RD,"Bensalem , PA",$4.199,Apr 01,04:09 PM,$5.999,Mar 31,06:51 AM,"Bio-Fuels, Convenience Store/Grocery Store"
-Hulmeville,WAWA #8020,Wawa,132 OXFORD VALLEY RD,"Langhorne, PA",$4.199,Apr 01,07:12 PM,$5.999,Apr 01,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Hulmeville,WAWA #8020,Wawa,132 OXFORD VALLEY RD,"Langhorne, PA",$4.199,Apr 02,12:11 AM,$5.999,Apr 01,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Hulmeville,WAWA #8004,Wawa,7625 NEW FALLS RD,"Levittown, PA",$4.199,Apr 01,07:33 PM,$5.999,Apr 01,04:20 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Hulmeville,A PLUS MINI MARKET,A Plus,231 ROUTE 13,"Bristol , PA",$4.199,Apr 01,06:45 PM,$5.999,Apr 01,10:14 PM,"Bio-Fuels, Repairs"
 Hulmeville,WAWA #8107,Wawa,3111 STATE RD,"Bristol, PA",$4.199,Apr 01,07:20 PM,$5.999,Apr 01,09:45 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Hulmeville,WAWA #268,Wawa,5900 BRISTOL PIKE,"Bristol, PA",$4.199,Apr 01,11:28 PM,$5.999,Apr 01,04:29 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
+Hulmeville,WAWA #268,Wawa,5900 BRISTOL PIKE,"Bristol, PA",$4.199,Apr 02,12:08 AM,$5.999,Apr 01,04:29 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
 Hulmeville,A PLUS MINI MARKET,A Plus,2767 LINCOLN HWY,"Feasterville Trevose , PA",$4.199,Apr 01,08:02 PM,$5.999,Apr 01,07:09 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Bio-Fuels, Convenience Store/Grocery Store"
 Hulmeville,A PLUS MINI MARKET,A Plus,1432 STREET RD,"Bensalem , PA",$4.199,Apr 01,09:06 PM,$5.999,Apr 01,03:33 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
 Hulmeville,WAWA #277,Wawa,2250 LINCOLN HWY,"Feasterville Trevose, PA",$4.199,Apr 01,07:41 PM,$5.999,Apr 01,10:52 PM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
@@ -57,6 +56,7 @@ Hulmeville,WAWA #8075,Wawa,601 E STREET RD,"Feasterville Trevose, PA",$4.199,Apr
 Hulmeville,Wawa #8127,Wawa,225 LEVITTOWN PARKWAY,"Bristol , PA",$4.199,Apr 01,09:24 PM,$5.999,Apr 01,05:49 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Repairs"
 Hulmeville,SUNOCO,Sunoco,398 LINCOLN HWY,"Fairless Hills , PA",$4.199,Apr 01,02:56 PM,$5.999,Mar 31,03:00 PM,"Bio-Fuels, Repairs"
 Hulmeville,LIBERTY,Liberty,1616 STREET RD,"Bensalem , PA",$4.209,Apr 01,04:06 PM,,,,Repairs
-Hulmeville,SHELL,Shell,236 LINCOLN HWY,"Fairless Hills, PA",$4.209,Apr 01,07:55 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Hulmeville,SHELL,Shell,236 LINCOLN HWY,"Fairless Hills, PA",$4.209,Apr 01,07:55 PM,$5.999,Mar 31,04:14 PM,"Bio-Fuels, Convenience Store/Grocery Store"
 Hulmeville,Sunoco,Sunoco,61 OXFORD VALLEY RD,"Morrisville , PA",$4.299,Apr 01,05:28 PM,$5.999,Apr 01,03:56 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Hulmeville,SUPER PUMPER,Unbranded,2629 LINCOLN HWY,"Feasterville Trevose, PA",$4.359,Mar 31,01:23 PM,,,,"Open 24 Hours, Bio-Fuels"
 Hulmeville,CLASSIC CAR WASH,Unbranded,2601 LINCOLN HWY,"Feasterville Trevose, PA",$4.359,Mar 31,01:23 PM,,,,"Open 24 Hours, Bio-Fuels"

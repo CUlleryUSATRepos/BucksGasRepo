@@ -1,5 +1,5 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Richboro,COSTCO #1103,Costco,100 VETERANS WAY,"Warminster, PA",$3.769,Apr 01,11:51 PM,,,,Convenience Store/Grocery Store
+Richboro,COSTCO #1103,Costco,100 VETERANS WAY,"Warminster, PA",$3.769,Apr 02,12:10 AM,,,,Convenience Store/Grocery Store
 Richboro,Jacksonville Food Mart,Unbranded,40 E STREET RD,"Warminster , PA",$3.859,Apr 01,07:58 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
 Richboro,WEIS MARKETS,Gas N Go (Weis),1133 YORK RD,"Warminster, PA",$3.899,Apr 01,06:12 PM,$5.899,Apr 01,08:15 AM,
 Richboro,LUKOIL,Lukoil,598 N YORK RD,"Hatboro, PA",$3.899,Apr 01,10:41 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
@@ -11,7 +11,6 @@ Richboro,Shell,Shell,620 E BRISTOL RD,"Feasterville Trevose , PA",$3.979,Apr 01,
 Richboro,RICHBORO FUELS,Liberty,778 2ND STREET PIKE,"Richboro , PA",$3.999,Apr 01,10:24 AM,,,,Repairs
 Richboro,DICK AND RIPS HOLLAND SUNOCO,Sunoco,287 HOLLAND RD,"Southampton , PA",$3.999,Apr 01,05:02 PM,,,,Repairs
 Richboro,Sunoco,Sunoco,190 W STREET RD,"Feasterville Trevose, PA",$3.999,Apr 01,09:24 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Richboro,TOMLINSONS SERVICE,CITGO,496 S STATE ST,"Newtown , PA",$3.999,Mar 30,02:22 PM,$5.999,Apr 01,03:55 PM,"Bio-Fuels, Repairs"
 Richboro,GAS N GO-WEIS MARKETS,Gas N Go (Weis),2100 COUNTY LINE RD,"Huntingdon Valley, PA",$3.999,Mar 31,05:33 PM,,,,
 Richboro,SUNOCO,Sunoco,610 YORK RD,"Warminster, PA",$3.999,Apr 01,08:52 PM,$5.499,Apr 01,04:25 PM,Convenience Store/Grocery Store
 Richboro,SUNOCO,Sunoco,300 E STREET RD,"Feasterville Trevose , PA",$3.999,Apr 01,04:28 PM,$5.999,Apr 01,02:17 PM,"Bio-Fuels, Convenience Store/Grocery Store"

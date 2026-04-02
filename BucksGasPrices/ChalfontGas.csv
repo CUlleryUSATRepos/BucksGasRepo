@@ -1,7 +1,5 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Chalfont,Costco #248,Costco,740 UPPER STATE RD,"North Wales, PA",$3.769,Apr 01,11:51 PM,,,,
-Chalfont,LUKOIL,Lukoil,913 BETHLEHEM PIKE,"North Wales, PA",$3.799,Mar 30,,,,,Convenience Store/Grocery Store
-Chalfont,Redners,Redners,1200 WELSH RD,"North Wales, PA",$3.899,Mar 30,04:32 PM,,,,
+Chalfont,Costco #248,Costco,740 UPPER STATE RD,"North Wales, PA",$3.769,Apr 02,12:10 AM,,,,
 Chalfont,United,Unbranded,1405 LOWER STATE RD,"Doylestown , PA",$3.949,Apr 01,03:56 PM,,,,Repairs
 Chalfont,LUKOIL,Lukoil,1400 EASTON RD,"Warrington , PA",$3.969,Apr 01,12:56 PM,,,,Convenience Store/Grocery Store
 Chalfont,LUKOIL,Lukoil,550 W BUTLER AVE,"Chalfont, PA",$3.999,Apr 01,12:04 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"

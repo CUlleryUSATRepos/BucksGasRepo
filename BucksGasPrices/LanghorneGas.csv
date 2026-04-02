@@ -1,10 +1,8 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Langhorne,BJS WHOLESALE CLUB #52,BJ's,360 COMMERCE BLVD,"Fairless Hills , PA",$3.789,Mar 30,,,,,Convenience Store/Grocery Store
 Langhorne,GULF,Gulf,4362 NEW FALLS RD,"Levittown , PA",$3.959,Apr 01,03:50 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
 Langhorne,USA GAS,Unbranded,5901 MILL CREEK RD,"Levittown , PA",$3.959,Apr 01,09:20 PM,,,,Repairs
 Langhorne,Shell,Shell,620 E BRISTOL RD,"Feasterville Trevose , PA",$3.979,Apr 01,06:55 PM,,,,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
 Langhorne,SUNOCO,Sunoco,652 BELLEVUE AVE,"Langhorne, PA",$3.999,Apr 01,09:04 AM,,,,Repairs
-Langhorne,TOMLINSONS SERVICE,CITGO,496 S STATE ST,"Newtown , PA",$3.999,Mar 30,02:22 PM,$5.999,Apr 01,03:55 PM,"Bio-Fuels, Repairs"
 Langhorne,DICK AND RIPS HOLLAND SUNOCO,Sunoco,287 HOLLAND RD,"Southampton , PA",$3.999,Apr 01,05:02 PM,,,,Repairs
 Langhorne,STREET ROAD LUKOIL,Lukoil,4613 E STREET RD,"Feasterville Trevose , PA",$3.999,Apr 01,04:51 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
 Langhorne,SUNOCO,Sunoco,300 E STREET RD,"Feasterville Trevose , PA",$3.999,Apr 01,04:28 PM,$5.999,Apr 01,02:17 PM,"Bio-Fuels, Convenience Store/Grocery Store"
@@ -26,7 +24,7 @@ Langhorne,Joe's Kwik Marts #383,Joes Kwik Mart,1266 OLD LINCOLN HWY,"Langhorne, 
 Langhorne,WAWA #8157,Wawa,639 E LINCOLN HWY,"Langhorne, PA",$4.199,Apr 01,10:00 PM,$5.999,Apr 01,06:14 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Langhorne,7-ELEVEN #32639,7-Eleven,527 W LINCOLN HWY,"Langhorne, PA",$4.199,Apr 01,09:15 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
 Langhorne,BP,BP,1724 TRENTON RD,"Levittown , PA",$4.199,Apr 01,09:30 PM,,,,Repairs
-Langhorne,WAWA #8020,Wawa,132 OXFORD VALLEY RD,"Langhorne, PA",$4.199,Apr 01,07:12 PM,$5.999,Apr 01,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Langhorne,WAWA #8020,Wawa,132 OXFORD VALLEY RD,"Langhorne, PA",$4.199,Apr 02,12:11 AM,$5.999,Apr 01,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Langhorne,BENSALEM TIGER MART,Exxon,5716 HULMEVILLE RD,"Bensalem , PA",$4.199,Apr 01,03:34 PM,,,,Convenience Store/Grocery Store
 Langhorne,GIANT #6324,Giant (Ahold),2391 DURHAM RD,"Levittown , PA",$4.199,Apr 01,09:35 PM,,,,Convenience Store/Grocery Store
 Langhorne,SUNOCO,Sunoco,549 WASHINGTON AVE,"Newtown, PA",$4.199,Apr 01,06:21 PM,,,,Repairs
@@ -43,10 +41,11 @@ Langhorne,A PLUS MINI MARKET,A Plus,3419 STREET RD,"Bensalem , PA",$4.199,Apr 01
 Langhorne,A PLUS MINI MARKET,A Plus,2767 LINCOLN HWY,"Feasterville Trevose , PA",$4.199,Apr 01,08:02 PM,$5.999,Apr 01,07:09 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Bio-Fuels, Convenience Store/Grocery Store"
 Langhorne,WAWA #8075,Wawa,601 E STREET RD,"Feasterville Trevose, PA",$4.199,Apr 01,09:20 PM,$5.999,Apr 01,09:21 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Langhorne,A PLUS MINI MARKET,A Plus,8596 NEW FALLS RD,"Levittown , PA",$4.199,Apr 01,05:50 PM,$5.999,Apr 01,08:41 AM,"Bio-Fuels, Convenience Store/Grocery Store"
-Langhorne,Wawa  #8168,Wawa,530 LINCOLN HWY,"Fairless Hills, PA",$4.199,Apr 01,09:42 PM,$5.999,Apr 01,07:37 PM,Convenience Store/Grocery Store
+Langhorne,Wawa  #8168,Wawa,530 LINCOLN HWY,"Fairless Hills, PA",$4.199,Apr 01,09:42 PM,$5.999,Apr 02,,Convenience Store/Grocery Store
 Langhorne,WAWA #8136,Wawa,929 BUSTLETON PK,"Feasterville Trevose, PA",$4.199,Apr 01,08:50 PM,$5.999,Apr 01,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Langhorne,WAWA #277,Wawa,2250 LINCOLN HWY,"Feasterville Trevose, PA",$4.199,Apr 01,07:41 PM,$5.999,Apr 01,10:52 PM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
-Langhorne,SHELL,Shell,236 LINCOLN HWY,"Fairless Hills, PA",$4.209,Apr 01,07:55 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Langhorne,SHELL,Shell,236 LINCOLN HWY,"Fairless Hills, PA",$4.209,Apr 01,07:55 PM,$5.999,Mar 31,04:14 PM,"Bio-Fuels, Convenience Store/Grocery Store"
 Langhorne,Sunoco,Sunoco,61 OXFORD VALLEY RD,"Morrisville , PA",$4.299,Apr 01,05:28 PM,$5.999,Apr 01,03:56 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
 Langhorne,LEHIGH GAS CORPORATI,Shell,19 N SYCAMORE ST,"Newtown , PA",$4.299,Apr 01,03:00 PM,,,,
+Langhorne,SUPER PUMPER,Unbranded,2629 LINCOLN HWY,"Feasterville Trevose, PA",$4.359,Mar 31,01:23 PM,,,,"Open 24 Hours, Bio-Fuels"
 Langhorne,CLASSIC CAR WASH,Unbranded,2601 LINCOLN HWY,"Feasterville Trevose, PA",$4.359,Mar 31,01:23 PM,,,,"Open 24 Hours, Bio-Fuels"
