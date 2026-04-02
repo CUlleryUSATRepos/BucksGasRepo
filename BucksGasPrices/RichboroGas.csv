@@ -1,5 +1,5 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Richboro,COSTCO #1103,Costco,100 VETERANS WAY,"Warminster, PA",$3.769,Apr 02,12:20 AM,,,,Convenience Store/Grocery Store
+Richboro,COSTCO #1103,Costco,100 VETERANS WAY,"Warminster, PA",$3.769,Apr 02,01:50 AM,,,,Convenience Store/Grocery Store
 Richboro,Jacksonville Food Mart,Unbranded,40 E STREET RD,"Warminster , PA",$3.859,Apr 01,07:58 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
 Richboro,WEIS MARKETS,Gas N Go (Weis),1133 YORK RD,"Warminster, PA",$3.899,Apr 01,06:12 PM,$5.899,Apr 01,08:15 AM,
 Richboro,LUKOIL,Lukoil,598 N YORK RD,"Hatboro, PA",$3.899,Apr 01,10:41 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
@@ -23,10 +23,10 @@ Richboro,SUNOCO,Sunoco,20 2ND STREET PIKE,"Southampton , PA",$4.099,Apr 01,06:45
 Richboro,GIANT #6257,Giant (Ahold),720 W STREET RD,"Warminster , PA",$4.099,Apr 01,11:44 AM,,,,Convenience Store/Grocery Store
 Richboro,STAR ENTERPIRSE,Shell,400 W STREET RD,"Warminster, PA",$4.159,Apr 01,04:50 PM,$5.999,Apr 01,06:43 AM,"Bio-Fuels, Convenience Store/Grocery Store"
 Richboro,7-ELEVEN #40097,7-Eleven,999 2ND STREET PIKE,"Richboro , PA",$4.199,Apr 01,09:15 PM,$5.999,Apr 01,09:15 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Richboro,WAWA #8121,Wawa,870 2ND STREET PIKE,"Richboro , PA",$4.199,Apr 01,09:30 PM,$5.999,Apr 01,04:22 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Richboro,WAWA #8121,Wawa,870 2ND STREET PIKE,"Richboro , PA",$4.199,Apr 02,01:42 AM,$5.999,Apr 01,04:22 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Richboro,SPEEDWAY #6805,Speedway,724 STREET RD,"Southampton , PA",$4.199,Apr 01,09:15 PM,$5.999,Apr 01,09:15 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
 Richboro,WAWA #149,Wawa,10 DAVISVILLE RD,"Warminster, PA",$4.199,Apr 01,07:45 PM,$5.999,Apr 01,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Richboro,WAWA #8055,Wawa,555 W STREET RD,"Warminster, PA",$4.199,Apr 01,10:45 PM,$5.999,Apr 01,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Richboro,WAWA #8055,Wawa,555 W STREET RD,"Warminster, PA",$4.199,Apr 02,01:10 AM,$5.999,Apr 01,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Richboro,Wawa #8216,Wawa,25 2ND STREET PIKE,"Southampton , PA",$4.199,Apr 01,04:00 PM,$5.999,Apr 01,04:00 PM,
 Richboro,WAWA #8136,Wawa,929 BUSTLETON PK,"Feasterville Trevose, PA",$4.199,Apr 01,08:50 PM,$5.999,Apr 01,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Richboro,A PLUS MINI MARKET,A Plus,3250 E COUNTY LINE RD,"Hatboro , PA",$4.199,Apr 01,08:16 PM,$5.999,Apr 01,05:20 AM,"Bio-Fuels, Convenience Store/Grocery Store"
