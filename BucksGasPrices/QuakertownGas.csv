@@ -1,11 +1,11 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
 Quakertown,US GAS,Unbranded,530 E BROAD ST,"Quakertown , PA",$3.959,Apr 02,09:42 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Quakertown,SUNOCO,Sunoco,2099 QUAKER POINTE DR,"Quakertown , PA",$4.099,Apr 03,06:57 AM,,,,"Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
-Quakertown,309 TRUCK STOP,Unbranded,1720 ROUTE 309,"Coopersburg , PA",$4.099,Apr 02,02:10 PM,$6.099,Apr 03,06:34 AM,"Restaurant/Deli/Fast Food, Bio-Fuels, Convenience Store/Grocery Store"
-Quakertown,WAWA #8021,Wawa,1960 JOHN FRIES HWY,"Quakertown, PA",$4.139,Apr 03,07:57 AM,$5.999,Apr 03,07:32 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Quakertown,WAWA #272,Wawa,1095 S WEST END BLVD,"Quakertown, PA",$4.159,Apr 03,07:51 AM,$5.999,Apr 03,07:28 AM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
-Quakertown,WAWA #8044,Wawa,600 N WEST END BLVD,"Quakertown, PA",$4.159,Apr 03,07:46 AM,$5.999,Apr 03,06:20 AM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
-Quakertown,A PLUS MINI MARKET,A Plus,331 W BROAD ST,"Quakertown , PA",$4.199,Apr 02,06:06 PM,$5.999,Apr 01,08:40 PM,"Bio-Fuels, Convenience Store/Grocery Store"
-Quakertown,SPEEDWAY #6733,Speedway,140 S WEST END BLVD,"Quakertown , PA",$4.199,Apr 03,07:46 AM,$5.999,Apr 02,09:15 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Bio-Fuels, Convenience Store/Grocery Store"
-Quakertown,GIANT #6476,Giant (Ahold),1465 W BROAD ST,"Quakertown , PA",$4.199,Apr 03,06:10 AM,,,,Convenience Store/Grocery Store
-Quakertown,TOP STAR #104,Top Star,2030 JOHN FRIES HWY,"Quakertown, PA",$4.199,Apr 03,07:36 AM,$5.999,Apr 03,07:20 AM,"Restaurant/Deli/Fast Food, Bio-Fuels, Convenience Store/Grocery Store"
+Quakertown,SUNOCO,Sunoco,2099 QUAKER POINTE DR,"Quakertown , PA",$4.099,Apr 03,01:24 PM,,,,"Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
+Quakertown,309 TRUCK STOP,Unbranded,1720 ROUTE 309,"Coopersburg , PA",$4.099,Apr 02,02:10 PM,$6.099,Apr 03,01:49 PM,"Restaurant/Deli/Fast Food, Bio-Fuels, Convenience Store/Grocery Store"
+Quakertown,WAWA #8021,Wawa,1960 JOHN FRIES HWY,"Quakertown, PA",$4.139,Apr 03,01:49 PM,$5.999,Apr 03,01:54 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Quakertown,SPEEDWAY #6733,Speedway,140 S WEST END BLVD,"Quakertown , PA",$4.159,Apr 03,11:51 AM,$5.999,Apr 03,11:16 AM,"Open 24 Hours, Restaurant/Deli/Fast Food, Bio-Fuels, Convenience Store/Grocery Store"
+Quakertown,GIANT #6476,Giant (Ahold),1465 W BROAD ST,"Quakertown , PA",$4.159,Apr 03,11:39 AM,,,,Convenience Store/Grocery Store
+Quakertown,WAWA #272,Wawa,1095 S WEST END BLVD,"Quakertown, PA",$4.159,Apr 03,01:36 PM,$5.999,Apr 03,11:05 AM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
+Quakertown,WAWA #8044,Wawa,600 N WEST END BLVD,"Quakertown, PA",$4.159,Apr 03,01:46 PM,$5.999,Apr 03,09:46 AM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
+Quakertown,A PLUS MINI MARKET,A Plus,331 W BROAD ST,"Quakertown , PA",$4.199,Apr 03,01:49 PM,$5.999,Apr 01,08:40 PM,"Bio-Fuels, Convenience Store/Grocery Store"
+Quakertown,TOP STAR #104,Top Star,2030 JOHN FRIES HWY,"Quakertown, PA",$4.199,Apr 03,01:47 PM,$5.999,Apr 03,12:41 PM,"Restaurant/Deli/Fast Food, Bio-Fuels, Convenience Store/Grocery Store"
