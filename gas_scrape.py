@@ -21,7 +21,7 @@ COMBINED_AVERAGES_FILE = "BucksAreaAverages_All.csv"
 
 approved_bucks_places = [
     "Bensalem","Bristol","Chalfont","Churchville","Croydon","Doylestown","Dublin",
-    "Fairless Hills","Ferndale","Hulmeville","Ivyland","Jamestown","Langhorne",
+    "Fairless Hills","Ferndale","Hulmeville","Ivyland","Langhorne",
     "Levittown","Mechanicsville","Morrisville","New Hope","Newtown","Newtown Grant",
     "Penndel","Perkasie","Quakertown","Richboro","Richlandtown","Riegelsville",
     "Sellersville","Telford","Village Shires","Warminster","Warminster Heights",
