@@ -1,21 +1,21 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Yardley,GULF,Gulf,2 W BRIDGE ST,"Morrisville, PA",$3.799,Apr 08,07:24 AM,,,,"Convenience Store/Grocery Store, Repairs"
+Yardley,GULF,Gulf,2 W BRIDGE ST,"Morrisville, PA",$3.799,Apr 08,09:58 AM,,,,"Convenience Store/Grocery Store, Repairs"
 Yardley,MORRISVILLE FUELS,Unbranded,299 W TRENTON AVE,"Morrisville , PA",$3.899,Apr 08,08:47 AM,,,,Convenience Store/Grocery Store
-Yardley,Wawa #8159,Wawa,91 LOWER SILVER LAKE RD,"Newtown, PA",$4.099,Apr 08,09:14 AM,$5.999,Apr 08,07:53 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Yardley,WAWA #8076,Wawa,545 W TRENTON AVE,"Morrisville, PA",$4.139,Apr 08,09:38 AM,$5.999,Apr 08,08:56 AM,"Open 24 Hours, Convenience Store/Grocery Store"
+Yardley,BP,BP,599 WASHINGTON CROSSING RD,"Newtown , PA",$3.999,Apr 08,01:38 PM,,,,"Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
+Yardley,Sunoco,Sunoco,907 W TRENTON AVE,"Morrisville , PA",$4.099,Apr 08,11:46 AM,,,,"Bio-Fuels, Repairs"
+Yardley,Wawa #8159,Wawa,91 LOWER SILVER LAKE RD,"Newtown, PA",$4.099,Apr 08,01:49 PM,$5.999,Apr 08,12:53 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Yardley,WAWA #8076,Wawa,545 W TRENTON AVE,"Morrisville, PA",$4.139,Apr 08,01:51 PM,$5.999,Apr 08,12:57 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Yardley,Yardley Service Center,Unbranded,194 S MAIN ST,"Morrisville , PA",$4.159,Apr 07,04:57 PM,,,,Repairs
-Yardley,Sunoco,Sunoco,907 W TRENTON AVE,"Morrisville , PA",$4.159,Apr 07,02:57 PM,,,,"Bio-Fuels, Repairs"
-Yardley,SUNOCO,Sunoco,999 W TRENTON AVE,"Morrisville , PA",$4.159,Apr 08,08:05 AM,,,,"Bio-Fuels, Repairs"
-Yardley,Wawa  #8168,Wawa,530 LINCOLN HWY,"Fairless Hills, PA",$4.159,Apr 08,09:38 AM,$5.999,Apr 08,07:58 AM,Convenience Store/Grocery Store
-Yardley,SHELL,Shell,236 LINCOLN HWY,"Fairless Hills, PA",$4.159,Apr 08,09:38 AM,$5.999,Apr 06,04:14 PM,"Bio-Fuels, Convenience Store/Grocery Store"
-Yardley,WAWA #8020,Wawa,132 OXFORD VALLEY RD,"Langhorne, PA",$4.159,Apr 08,08:55 AM,$5.999,Apr 08,06:49 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Yardley,SUNOCO,Sunoco,398 LINCOLN HWY,"Fairless Hills , PA",$4.199,Apr 08,09:35 AM,$5.999,Apr 08,08:41 AM,"Bio-Fuels, Repairs"
-Yardley,SUNOCO,Sunoco,549 WASHINGTON AVE,"Newtown, PA",$4.199,Apr 08,07:42 AM,,,,Repairs
-Yardley,A PLUS MINI MARKET,A Plus,8596 NEW FALLS RD,"Levittown , PA",$4.199,Apr 08,08:42 AM,$5.999,Apr 06,07:38 PM,"Bio-Fuels, Convenience Store/Grocery Store"
-Yardley,RAJS MINI MART,Sunoco,509 S PENNSYLVANIA AVE,"Morrisville, PA",$4.249,Apr 08,09:09 AM,$5.999,Apr 08,08:31 AM,"Bio-Fuels, Convenience Store/Grocery Store"
-Yardley,Sunoco,Sunoco,61 OXFORD VALLEY RD,"Morrisville , PA",$4.299,Apr 08,09:23 AM,$5.999,Apr 08,06:00 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Yardley,BP,BP,599 WASHINGTON CROSSING RD,"Newtown , PA",$4.299,Apr 08,06:19 AM,,,,"Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
-Yardley,RICK STEELES GULF,Gulf,695 NEWTOWN YARDLEY RD,"Newtown , PA",$4.299,Apr 08,07:58 AM,$6.099,Apr 07,08:26 AM,"Bio-Fuels, Repairs"
-Yardley,BIG OAK CITGO,CITGO,812 BIG OAK RD,"Morrisville , PA",$4.309,Apr 08,08:40 AM,,,,Repairs
-Yardley,SITKOS REPAIR SERVICE,CITGO,40 E AFTON AVE,"Morrisville , PA",$4.489,Apr 07,06:21 PM,,,,Repairs
-Yardley,SHELL,Shell,1099 WASHINGTON CROSSING RD,"Washington Crossing , PA",$4.759,Apr 07,03:53 PM,,,,
+Yardley,SUNOCO,Sunoco,999 W TRENTON AVE,"Morrisville , PA",$4.159,Apr 08,12:22 PM,,,,"Bio-Fuels, Repairs"
+Yardley,Wawa  #8168,Wawa,530 LINCOLN HWY,"Fairless Hills, PA",$4.159,Apr 08,01:48 PM,$5.999,Apr 08,01:49 PM,Convenience Store/Grocery Store
+Yardley,SHELL,Shell,236 LINCOLN HWY,"Fairless Hills, PA",$4.159,Apr 08,01:40 PM,$5.999,Apr 06,04:14 PM,"Bio-Fuels, Convenience Store/Grocery Store"
+Yardley,WAWA #8020,Wawa,132 OXFORD VALLEY RD,"Langhorne, PA",$4.159,Apr 08,01:25 PM,$5.999,Apr 08,12:14 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Yardley,SUNOCO,Sunoco,398 LINCOLN HWY,"Fairless Hills , PA",$4.199,Apr 08,01:25 PM,$5.999,Apr 08,08:41 AM,"Bio-Fuels, Repairs"
+Yardley,SUNOCO,Sunoco,549 WASHINGTON AVE,"Newtown, PA",$4.199,Apr 08,09:56 AM,,,,Repairs
+Yardley,A PLUS MINI MARKET,A Plus,8596 NEW FALLS RD,"Levittown , PA",$4.199,Apr 08,11:27 AM,$5.999,Apr 08,10:18 AM,"Bio-Fuels, Convenience Store/Grocery Store"
+Yardley,RAJS MINI MART,Sunoco,509 S PENNSYLVANIA AVE,"Morrisville, PA",$4.249,Apr 08,11:26 AM,$5.999,Apr 08,09:55 AM,"Bio-Fuels, Convenience Store/Grocery Store"
+Yardley,Sunoco,Sunoco,61 OXFORD VALLEY RD,"Morrisville , PA",$4.299,Apr 08,12:47 PM,$5.999,Apr 08,10:18 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Yardley,RICK STEELES GULF,Gulf,695 NEWTOWN YARDLEY RD,"Newtown , PA",$4.299,Apr 08,01:26 PM,$6.099,Apr 07,08:26 AM,"Bio-Fuels, Repairs"
+Yardley,BIG OAK CITGO,CITGO,812 BIG OAK RD,"Morrisville , PA",$4.439,Apr 08,12:00 PM,,,,Repairs
+Yardley,SITKOS REPAIR SERVICE,CITGO,40 E AFTON AVE,"Morrisville , PA",$4.489,Apr 08,07:33 AM,,,,Repairs
+Yardley,SHELL,Shell,1099 WASHINGTON CROSSING RD,"Washington Crossing , PA",$4.759,Apr 08,11:39 AM,,,,
