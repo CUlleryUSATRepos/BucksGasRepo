@@ -452,57 +452,55 @@
     });
   }
 
-  function renderAreaTable() {
-    if (!areaRows.length) {
-      areaTableContainer.innerHTML = "<p>No area comparison data available.</p>";
-      areaTablePagination.innerHTML = "";
-      return;
-    }
+      function renderAreaTable() {
+      if (!areaRows.length) {
+        areaTableContainer.innerHTML = "<p>No area comparison data available.</p>";
+        areaTablePagination.innerHTML = "";
+        return;
+      }
 
-    const start = (currentAreaPage - 1) * areaRowsPerPage;
-    const end = start + areaRowsPerPage;
-    const pageRows = areaRows.slice(start, end);
+      const start = (currentAreaPage - 1) * areaRowsPerPage;
+      const end = start + areaRowsPerPage;
+      const pageRows = areaRows.slice(start, end);
 
-    let html = `
-      <div class="table-wrap">
-        <table>
-          <thead>
-            <tr>
-              <th>Area</th>
-              <th class="numeric-cell">Avg/Gallon</th>
-              <th class="numeric-cell">Last Week</th>
-              <th class="numeric-cell">Last Month</th>
-              <th class="numeric-cell">6 Months Ago</th>
-              <th class="numeric-cell">1 Year Ago</th>
-              <th class="numeric-cell">15-Gal Tank</th>
-            </tr>
-          </thead>
-          <tbody>
-    `;
-
-    pageRows.forEach(row => {
-      html += `
-        <tr>
-          <td class="area-name-cell">${escapeHtml(row.search_place)}</td>
-          <td class="numeric-cell">${formatCurrency(row.area_average_price)}</td>
-          <td class="numeric-cell">${row.area_average_last_week ? formatCurrency(row.area_average_last_week) : "—"}</td>
-          <td class="numeric-cell">${row.area_average_last_month ? formatCurrency(row.area_average_last_month) : "—"}</td>
-          <td class="numeric-cell">${row.area_average_6_months_ago ? formatCurrency(row.area_average_6_months_ago) : "—"}</td>
-          <td class="numeric-cell">${row.area_average_last_year ? formatCurrency(row.area_average_last_year) : "—"}</td>
-          <td class="numeric-cell">${row.tank_average_cost ? formatCurrency(row.tank_average_cost, 2) : "—"}</td>
-        </tr>
+      let html = `
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th class="numeric-cell">15-Gal Tank</th>
+                <th>Area</th>
+                <th class="numeric-cell">Last Week</th>
+                <th class="numeric-cell">Last Month</th>
+                <th class="numeric-cell">6 Months Ago</th>
+                <th class="numeric-cell">1 Year Ago</th>
+              </tr>
+            </thead>
+            <tbody>
       `;
-    });
 
-    html += `
-          </tbody>
-        </table>
-      </div>
-    `;
+      pageRows.forEach(row => {
+        html += `
+          <tr>
+            <td class="numeric-cell">${row.tank_average_cost ? formatCurrency(row.tank_average_cost, 2) : "—"}</td>
+            <td class="area-name-cell">${escapeHtml(row.search_place)}</td>
+            <td class="numeric-cell">${row.tank_average_last_week ? formatCurrency(row.tank_average_last_week, 2) : "—"}</td>
+            <td class="numeric-cell">${row.tank_average_last_month ? formatCurrency(row.tank_average_last_month, 2) : "—"}</td>
+            <td class="numeric-cell">${row.tank_average_6_months_ago ? formatCurrency(row.tank_average_6_months_ago, 2) : "—"}</td>
+            <td class="numeric-cell">${row.tank_average_last_year ? formatCurrency(row.tank_average_last_year, 2) : "—"}</td>
+          </tr>
+        `;
+      });
 
-    areaTableContainer.innerHTML = html;
-    renderAreaTablePagination();
-  }
+      html += `
+            </tbody>
+          </table>
+        </div>
+      `;
+
+      areaTableContainer.innerHTML = html;
+      renderAreaTablePagination();
+    }
 
   async function loadAverages() {
     try {
