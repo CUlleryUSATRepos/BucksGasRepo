@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bucks County Gas Prices</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="page-shell">
+    <div class="page">
+      <header class="hero-banner">
+        <div class="hero-copy">
+          <h1>Bucks County Gas Prices</h1>
+          <p class="subhead">Track the countywide regular unleaded average, compare how prices have changed over time, and browse the lowest reported station prices by area.</p>
+        </div>
+      </header>
+
+      <section class="summary-grid" aria-label="Countywide summary cards">
+        <article class="card summary-card summary-card-primary">
+          <div class="summary-label">County average</div>
+          <div id="countyAverageValue" class="summary-value summary-value-primary">Loading...</div>
+          <p class="summary-note">Regular unleaded average per gallon</p>
+        </article>
+
+        <article class="card summary-card">
+          <div class="summary-label">Compared to last week</div>
+          <div id="weeklyChangeValue" class="summary-value">Loading...</div>
+          <p class="summary-note">Difference from the prior weekly average</p>
+        </article>
+
+        <article class="card summary-card">
+          <div class="summary-label">Compared to 6 months ago</div>
+          <div id="sixMonthChangeValue" class="summary-value">Loading...</div>
+          <p class="summary-note">Percent change from six months earlier</p>
+        </article>
+
+        <article class="card summary-card">
+          <div class="summary-label">Compared to a year ago</div>
+          <div id="yearlyChangeValue" class="summary-value">Loading...</div>
+          <p class="summary-note">How much more or less drivers are paying now</p>
+        </article>
+      </section>
+
+      <section class="card dashboard-section">
+        <div class="section-header">
+          <div>
+            <h2>See what local gas stations are charging</h2>
+          </div>
+        </div>
+
+        <div class="controls-row">
+          <div class="control-group">
+            <label for="placeSelect">Select a Bucks County area</label>
+            <select id="placeSelect"></select>
+          </div>
+
+          <div class="control-group">
+            <label for="searchInput">Search station or address</label>
+            <input id="searchInput" type="text" placeholder="Type to filter this area's stations">
+          </div>
+        </div>
+
+        <div id="tableStatus" class="status">Loading station data...</div>
+        <div id="tableContainer"></div>
+        <div id="pagination" class="pagination"></div>
+      </section>
+
+      <section class="card dashboard-section">
+        <div class="section-header">
+          <div>
+            <h2>See what it costs to fill a 15-gallon tank in Bucks County</h2>
+          </div>
+        </div>
+
+        <div id="areaTableStatus" class="status">Loading area comparison data...</div>
+        <div id="areaTableContainer"></div>
+        <div id="areaTablePagination" class="pagination"></div>
+      </section>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
