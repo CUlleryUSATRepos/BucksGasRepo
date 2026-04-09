@@ -482,8 +482,8 @@
       pageRows.forEach(row => {
         html += `
           <tr>
-            <td class="numeric-cell">${row.tank_average_cost ? formatCurrency(row.tank_average_cost, 2) : "—"}</td>
             <td class="area-name-cell">${escapeHtml(row.search_place)}</td>
+            <td class="numeric-cell">${row.tank_average_cost ? formatCurrency(row.tank_average_cost, 2) : "—"}</td>
             <td class="numeric-cell">${row.tank_average_last_week ? formatCurrency(row.tank_average_last_week, 2) : "—"}</td>
             <td class="numeric-cell">${row.tank_average_last_month ? formatCurrency(row.tank_average_last_month, 2) : "—"}</td>
             <td class="numeric-cell">${row.tank_average_6_months_ago ? formatCurrency(row.tank_average_6_months_ago, 2) : "—"}</td>
