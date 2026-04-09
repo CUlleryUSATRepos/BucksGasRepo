@@ -1,14 +1,14 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Newtown Grant,BP,BP,599 WASHINGTON CROSSING RD,"Newtown , PA",$3.999,Apr 08,01:38 PM,,,,"Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
-Newtown Grant,WAWA #8121,Wawa,870 2ND STREET PIKE,"Richboro , PA",$4.079,Apr 08,01:45 PM,$5.989,Apr 08,11:17 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Newtown Grant,LUKOIL,Lukoil,2 N SYCAMORE ST,"Newtown, PA",$4.099,Apr 08,08:01 AM,,,,
-Newtown Grant,Wawa #8159,Wawa,91 LOWER SILVER LAKE RD,"Newtown, PA",$4.099,Apr 08,01:49 PM,$5.999,Apr 08,12:53 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Newtown Grant,Joe's Kwik Mart #1046,Joes Kwik Mart,1008 2ND STREET PIKE,"Richboro , PA",$4.099,Apr 08,11:09 AM,$5.999,Apr 08,01:31 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Newtown Grant,7-ELEVEN #40097,7-Eleven,999 2ND STREET PIKE,"Richboro , PA",$4.099,Apr 08,11:15 AM,$5.999,Apr 08,11:15 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Newtown Grant,SUNOCO,Sunoco,549 WASHINGTON AVE,"Newtown, PA",$4.199,Apr 08,09:56 AM,,,,Repairs
-Newtown Grant,LEHIGH GAS CORPORATI,Shell,19 N SYCAMORE ST,"Newtown , PA",$4.299,Apr 08,11:58 AM,,,,
-Newtown Grant,TOMLINSONS SERVICE,CITGO,496 S STATE ST,"Newtown , PA",$4.299,Apr 07,07:07 AM,$5.999,Apr 08,07:45 AM,"Bio-Fuels, Repairs"
-Newtown Grant,RICK STEELES GULF,Gulf,695 NEWTOWN YARDLEY RD,"Newtown , PA",$4.299,Apr 08,01:26 PM,$6.099,Apr 07,08:26 AM,"Bio-Fuels, Repairs"
+Newtown Grant,BP,BP,599 WASHINGTON CROSSING RD,"Newtown , PA",$3.999,Apr 08,06:54 PM,,,,"Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
+Newtown Grant,WAWA #8121,Wawa,870 2ND STREET PIKE,"Richboro , PA",$4.069,Apr 08,06:41 PM,$5.989,Apr 08,04:58 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Newtown Grant,7-ELEVEN #40097,7-Eleven,999 2ND STREET PIKE,"Richboro , PA",$4.079,Apr 08,07:15 PM,$5.999,Apr 08,11:15 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Newtown Grant,LUKOIL,Lukoil,2 N SYCAMORE ST,"Newtown, PA",$4.099,Apr 08,05:22 PM,,,,
+Newtown Grant,Wawa #8159,Wawa,91 LOWER SILVER LAKE RD,"Newtown, PA",$4.099,Apr 08,06:23 PM,$5.999,Apr 08,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Newtown Grant,Joe's Kwik Mart #1046,Joes Kwik Mart,1008 2ND STREET PIKE,"Richboro , PA",$4.139,Apr 08,07:09 PM,$5.999,Apr 08,02:06 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Newtown Grant,SUNOCO,Sunoco,549 WASHINGTON AVE,"Newtown, PA",$4.199,Apr 08,06:11 PM,,,,Repairs
+Newtown Grant,LEHIGH GAS CORPORATI,Shell,19 N SYCAMORE ST,"Newtown , PA",$4.299,Apr 08,05:00 PM,,,,
+Newtown Grant,TOMLINSONS SERVICE,CITGO,496 S STATE ST,"Newtown , PA",$4.299,Apr 08,06:59 PM,$5.999,Apr 08,07:45 AM,"Bio-Fuels, Repairs"
+Newtown Grant,RICK STEELES GULF,Gulf,695 NEWTOWN YARDLEY RD,"Newtown , PA",$4.299,Apr 08,05:14 PM,$6.099,Apr 07,08:26 AM,"Bio-Fuels, Repairs"
 Newtown Grant,FERINO BROS SERVICE,Shell,2603 WINDY BUSH RD,"Newtown , PA",$4.399,Apr 07,03:35 PM,,,,"Bio-Fuels, Repairs"
-Newtown Grant,BP,BP,810 DURHAM RD,"Newtown , PA",$4.399,Apr 08,11:23 AM,,,,"Bio-Fuels, Repairs"
-Newtown Grant,SHELL,Shell,1099 WASHINGTON CROSSING RD,"Washington Crossing , PA",$4.759,Apr 08,11:39 AM,,,,
+Newtown Grant,BP,BP,810 DURHAM RD,"Newtown , PA",$4.399,Apr 08,03:41 PM,,,,"Bio-Fuels, Repairs"
+Newtown Grant,SHELL,Shell,1099 WASHINGTON CROSSING RD,"Washington Crossing , PA",$4.759,Apr 08,03:51 PM,,,,

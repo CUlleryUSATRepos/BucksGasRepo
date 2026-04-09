@@ -1,32 +1,32 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
 Woodside,MORRISVILLE FUELS,Unbranded,299 W TRENTON AVE,"Morrisville , PA",$3.899,Apr 08,08:47 AM,,,,Convenience Store/Grocery Store
-Woodside,BP,BP,599 WASHINGTON CROSSING RD,"Newtown , PA",$3.999,Apr 08,01:38 PM,,,,"Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
-Woodside,FOODLE FARMS,Unbranded,1205 E LINCOLN HWY,"Langhorne, PA",$4.059,Apr 08,01:16 PM,$5.879,Apr 07,09:34 AM,"Bio-Fuels, Convenience Store/Grocery Store"
-Woodside,Wawa #8159,Wawa,91 LOWER SILVER LAKE RD,"Newtown, PA",$4.099,Apr 08,01:49 PM,$5.999,Apr 08,12:53 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Woodside,LUKOIL,Lukoil,2 N SYCAMORE ST,"Newtown, PA",$4.099,Apr 08,08:01 AM,,,,
-Woodside,Sunoco,Sunoco,907 W TRENTON AVE,"Morrisville , PA",$4.099,Apr 08,11:46 AM,,,,"Bio-Fuels, Repairs"
-Woodside,Sunoco,Sunoco,111 E LINCOLN HWY,"Langhorne, PA",$4.099,Apr 08,11:39 AM,$5.979,Apr 08,07:41 AM,"Bio-Fuels, Convenience Store/Grocery Store"
-Woodside,WAWA #8076,Wawa,545 W TRENTON AVE,"Morrisville, PA",$4.139,Apr 08,01:51 PM,$5.999,Apr 08,12:57 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Woodside,WAWA #8157,Wawa,639 E LINCOLN HWY,"Langhorne, PA",$4.139,Apr 08,01:39 PM,$5.979,Apr 08,01:52 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Woodside,WAWA #8004,Wawa,7625 NEW FALLS RD,"Levittown, PA",$4.139,Apr 08,12:24 PM,$5.999,Apr 08,06:34 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Woodside,SUNOCO,Sunoco,1155 BRISTOL OXFORD VALLEY RD,"Levittown , PA",$4.149,Apr 08,11:19 AM,$5.959,Apr 07,12:55 PM,"Bio-Fuels, Repairs"
+Woodside,BP,BP,599 WASHINGTON CROSSING RD,"Newtown , PA",$3.999,Apr 08,06:54 PM,,,,"Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
+Woodside,FOODLE FARMS,Unbranded,1205 E LINCOLN HWY,"Langhorne, PA",$4.059,Apr 08,01:16 PM,$5.879,Apr 08,03:38 PM,"Bio-Fuels, Convenience Store/Grocery Store"
+Woodside,Wawa #8159,Wawa,91 LOWER SILVER LAKE RD,"Newtown, PA",$4.099,Apr 08,06:23 PM,$5.999,Apr 08,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Woodside,LUKOIL,Lukoil,2 N SYCAMORE ST,"Newtown, PA",$4.099,Apr 08,05:22 PM,,,,
+Woodside,Sunoco,Sunoco,907 W TRENTON AVE,"Morrisville , PA",$4.099,Apr 08,03:55 PM,,,,"Bio-Fuels, Repairs"
+Woodside,Sunoco,Sunoco,111 E LINCOLN HWY,"Langhorne, PA",$4.099,Apr 08,04:24 PM,$5.979,Apr 08,07:41 AM,"Bio-Fuels, Convenience Store/Grocery Store"
+Woodside,WAWA #8076,Wawa,545 W TRENTON AVE,"Morrisville, PA",$4.139,Apr 08,06:55 PM,$5.999,Apr 08,05:56 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Woodside,WAWA #8157,Wawa,639 E LINCOLN HWY,"Langhorne, PA",$4.139,Apr 08,06:56 PM,$5.979,Apr 08,04:38 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Woodside,WAWA #8004,Wawa,7625 NEW FALLS RD,"Levittown, PA",$4.139,Apr 08,07:47 PM,$5.999,Apr 08,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Woodside,SUNOCO,Sunoco,1155 BRISTOL OXFORD VALLEY RD,"Levittown , PA",$4.149,Apr 08,02:38 PM,$5.959,Apr 07,12:55 PM,"Bio-Fuels, Repairs"
 Woodside,Yardley Service Center,Unbranded,194 S MAIN ST,"Morrisville , PA",$4.159,Apr 07,04:57 PM,,,,Repairs
-Woodside,SHELL,Shell,236 LINCOLN HWY,"Fairless Hills, PA",$4.159,Apr 08,01:40 PM,$5.999,Apr 06,04:14 PM,"Bio-Fuels, Convenience Store/Grocery Store"
-Woodside,WAWA #8020,Wawa,132 OXFORD VALLEY RD,"Langhorne, PA",$4.159,Apr 08,01:25 PM,$5.999,Apr 08,12:14 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Woodside,Wawa  #8168,Wawa,530 LINCOLN HWY,"Fairless Hills, PA",$4.159,Apr 08,01:48 PM,$5.999,Apr 08,01:49 PM,Convenience Store/Grocery Store
-Woodside,SUNOCO,Sunoco,999 W TRENTON AVE,"Morrisville , PA",$4.159,Apr 08,12:22 PM,,,,"Bio-Fuels, Repairs"
-Woodside,LUKOIL,Lukoil,152 E MAPLE AVE,"Langhorne, PA",$4.179,Apr 07,07:23 PM,,,,Convenience Store/Grocery Store
-Woodside,SUNOCO,Sunoco,549 WASHINGTON AVE,"Newtown, PA",$4.199,Apr 08,09:56 AM,,,,Repairs
-Woodside,SUNOCO,Sunoco,398 LINCOLN HWY,"Fairless Hills , PA",$4.199,Apr 08,01:25 PM,$5.999,Apr 08,08:41 AM,"Bio-Fuels, Repairs"
-Woodside,Joe's Kwik Marts #383,Joes Kwik Mart,1266 OLD LINCOLN HWY,"Langhorne, PA",$4.199,Apr 08,01:02 PM,,,,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Woodside,EXXON,Exxon,123 N PINE ST,"Langhorne , PA",$4.199,Apr 08,01:12 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
-Woodside,SINCLAIR,Sinclair,452 S BELLEVUE AVE,"Langhorne, PA",$4.199,Apr 08,01:29 PM,,,,
-Woodside,A PLUS MINI MARKET,A Plus,8596 NEW FALLS RD,"Levittown , PA",$4.199,Apr 08,11:27 AM,$5.999,Apr 08,10:18 AM,"Bio-Fuels, Convenience Store/Grocery Store"
-Woodside,BP,BP,1724 TRENTON RD,"Levittown , PA",$4.199,Apr 08,01:55 PM,,,,Repairs
-Woodside,Sunoco,Sunoco,61 OXFORD VALLEY RD,"Morrisville , PA",$4.299,Apr 08,12:47 PM,$5.999,Apr 08,10:18 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Woodside,RICK STEELES GULF,Gulf,695 NEWTOWN YARDLEY RD,"Newtown , PA",$4.299,Apr 08,01:26 PM,$6.099,Apr 07,08:26 AM,"Bio-Fuels, Repairs"
-Woodside,TOMLINSONS SERVICE,CITGO,496 S STATE ST,"Newtown , PA",$4.299,Apr 07,07:07 AM,$5.999,Apr 08,07:45 AM,"Bio-Fuels, Repairs"
-Woodside,LEHIGH GAS CORPORATI,Shell,19 N SYCAMORE ST,"Newtown , PA",$4.299,Apr 08,11:58 AM,,,,
+Woodside,SHELL,Shell,236 LINCOLN HWY,"Fairless Hills, PA",$4.159,Apr 08,06:34 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Woodside,WAWA #8020,Wawa,132 OXFORD VALLEY RD,"Langhorne, PA",$4.159,Apr 08,07:07 PM,$5.999,Apr 08,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Woodside,Wawa  #8168,Wawa,530 LINCOLN HWY,"Fairless Hills, PA",$4.159,Apr 08,07:41 PM,$5.999,Apr 08,07:40 PM,Convenience Store/Grocery Store
+Woodside,SUNOCO,Sunoco,999 W TRENTON AVE,"Morrisville , PA",$4.159,Apr 08,02:25 PM,,,,"Bio-Fuels, Repairs"
+Woodside,LUKOIL,Lukoil,152 E MAPLE AVE,"Langhorne, PA",$4.179,Apr 08,04:06 PM,,,,Convenience Store/Grocery Store
+Woodside,SUNOCO,Sunoco,549 WASHINGTON AVE,"Newtown, PA",$4.199,Apr 08,06:11 PM,,,,Repairs
+Woodside,SUNOCO,Sunoco,398 LINCOLN HWY,"Fairless Hills , PA",$4.199,Apr 08,03:23 PM,$5.999,Apr 08,08:41 AM,"Bio-Fuels, Repairs"
+Woodside,Joe's Kwik Marts #383,Joes Kwik Mart,1266 OLD LINCOLN HWY,"Langhorne, PA",$4.199,Apr 08,06:32 PM,,,,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Woodside,EXXON,Exxon,123 N PINE ST,"Langhorne , PA",$4.199,Apr 08,04:26 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
+Woodside,SINCLAIR,Sinclair,452 S BELLEVUE AVE,"Langhorne, PA",$4.199,Apr 08,04:33 PM,,,,
+Woodside,A PLUS MINI MARKET,A Plus,8596 NEW FALLS RD,"Levittown , PA",$4.199,Apr 08,07:43 PM,$5.999,Apr 08,07:51 PM,"Bio-Fuels, Convenience Store/Grocery Store"
+Woodside,BP,BP,1724 TRENTON RD,"Levittown , PA",$4.199,Apr 08,05:56 PM,,,,Repairs
+Woodside,Sunoco,Sunoco,61 OXFORD VALLEY RD,"Morrisville , PA",$4.299,Apr 08,06:02 PM,$5.999,Apr 08,10:18 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Woodside,RICK STEELES GULF,Gulf,695 NEWTOWN YARDLEY RD,"Newtown , PA",$4.299,Apr 08,05:14 PM,$6.099,Apr 07,08:26 AM,"Bio-Fuels, Repairs"
+Woodside,TOMLINSONS SERVICE,CITGO,496 S STATE ST,"Newtown , PA",$4.299,Apr 08,06:59 PM,$5.999,Apr 08,07:45 AM,"Bio-Fuels, Repairs"
+Woodside,LEHIGH GAS CORPORATI,Shell,19 N SYCAMORE ST,"Newtown , PA",$4.299,Apr 08,05:00 PM,,,,
 Woodside,BIG OAK CITGO,CITGO,812 BIG OAK RD,"Morrisville , PA",$4.439,Apr 08,12:00 PM,,,,Repairs
 Woodside,SITKOS REPAIR SERVICE,CITGO,40 E AFTON AVE,"Morrisville , PA",$4.489,Apr 08,07:33 AM,,,,Repairs
-Woodside,SHELL,Shell,1099 WASHINGTON CROSSING RD,"Washington Crossing , PA",$4.759,Apr 08,11:39 AM,,,,
+Woodside,SHELL,Shell,1099 WASHINGTON CROSSING RD,"Washington Crossing , PA",$4.759,Apr 08,03:51 PM,,,,
