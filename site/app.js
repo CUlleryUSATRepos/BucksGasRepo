@@ -468,8 +468,8 @@
           <table>
             <thead>
               <tr>
-                <th class="numeric-cell">15-Gal Tank</th>
                 <th>Area</th>
+                <th class="numeric-cell">15-Gal Tank</th>
                 <th class="numeric-cell">Last Week</th>
                 <th class="numeric-cell">Last Month</th>
                 <th class="numeric-cell">6 Months Ago</th>
