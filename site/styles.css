@@ -68,6 +68,26 @@ body {
   align-items: stretch;
 }
 
+/* Source attribution line */
+.source-line {
+  font-family: "Futura Today", Futura, Arial, sans-serif;
+  font-size: 0.78rem;
+  color: var(--muted);
+  margin: 4px 4px 18px;
+  letter-spacing: 0.04em;
+}
+
+.source-line a {
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px solid var(--border-strong);
+  transition: all 0.15s ease;
+}
+
+.source-line a:hover {
+  color: var(--text);
+  border-bottom: 1px solid var(--text);
+
 .card {
   background: var(--card-bg);
   border: 1px solid var(--border);
