@@ -1,47 +1,48 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Fairless Hills,USA GAS,Unbranded,5901 MILL CREEK RD,"Levittown , PA",$3.799,Apr 16,05:57 AM,,,,Repairs
-Fairless Hills,FOODLE FARMS,Unbranded,1205 E LINCOLN HWY,"Langhorne, PA",$3.859,Apr 16,07:31 AM,$5.779,Apr 16,04:23 AM,"Bio-Fuels, Convenience Store/Grocery Store"
-Fairless Hills,S&P Oil,Unbranded,8029 BRISTOL PIKE,"Levittown, PA",$3.859,Apr 16,07:35 AM,$5.899,Apr 16,07:37 AM,Bio-Fuels
-Fairless Hills,BRUCES AUTOMOTIVE,Liberty,3700 OXFORD VALLEY RD,"Levittown , PA",$3.859,Apr 16,08:21 AM,,,,
+Fairless Hills,USA GAS,Unbranded,5901 MILL CREEK RD,"Levittown , PA",$3.799,Apr 16,12:41 PM,,,,Repairs
+Fairless Hills,FOODLE FARMS,Unbranded,1205 E LINCOLN HWY,"Langhorne, PA",$3.859,Apr 16,02:18 PM,$5.779,Apr 16,12:32 PM,"Bio-Fuels, Convenience Store/Grocery Store"
+Fairless Hills,S&P Oil,Unbranded,8029 BRISTOL PIKE,"Levittown, PA",$3.859,Apr 16,07:35 AM,$5.899,Apr 16,11:47 AM,Bio-Fuels
+Fairless Hills,BRUCES AUTOMOTIVE,Liberty,3700 OXFORD VALLEY RD,"Levittown , PA",$3.859,Apr 16,01:56 PM,,,,
 Fairless Hills,G FUEL,Unbranded,455 BRISTOL PIKE,"Bristol , PA",$3.859,Apr 15,04:16 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Fairless Hills,Wawa #8163,Wawa,3800 Bristol Oxford Valley Rd,"Levittown, PA",$3.899,Apr 16,08:23 AM,$5.999,Apr 16,07:58 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Fairless Hills,GIANT #6324,Giant (Ahold),2391 DURHAM RD,"Levittown , PA",$3.899,Apr 16,06:10 AM,,,,Convenience Store/Grocery Store
-Fairless Hills,WAWA #219,Wawa,3260 NEW RODGERS RD,"Bristol, PA",$3.899,Apr 16,07:43 AM,$5.949,Apr 16,08:20 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
+Fairless Hills,Wawa #8163,Wawa,3800 Bristol Oxford Valley Rd,"Levittown, PA",$3.899,Apr 16,01:57 PM,$5.999,Apr 16,02:15 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Fairless Hills,GIANT #6324,Giant (Ahold),2391 DURHAM RD,"Levittown , PA",$3.899,Apr 16,11:00 AM,,,,Convenience Store/Grocery Store
+Fairless Hills,WAWA #219,Wawa,3260 NEW RODGERS RD,"Bristol, PA",$3.899,Apr 16,01:57 PM,$5.949,Apr 16,02:25 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
 Fairless Hills,MORRISVILLE FUELS,Unbranded,299 W TRENTON AVE,"Morrisville , PA",$3.899,Apr 16,07:08 AM,,,,Convenience Store/Grocery Store
-Fairless Hills,SPEEDWAY #6729,Speedway,2919 STATE ROUTE 413,"Bristol , PA",$3.899,Apr 16,08:21 AM,$5.959,Apr 16,07:25 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Fairless Hills,SUNOCO,Sunoco,652 BELLEVUE AVE,"Langhorne, PA",$3.919,Apr 16,07:39 AM,,,,Repairs
-Fairless Hills,Sunoco,Sunoco,111 E LINCOLN HWY,"Langhorne, PA",$3.929,Apr 16,08:16 AM,$5.879,Apr 16,05:36 AM,"Bio-Fuels, Convenience Store/Grocery Store"
-Fairless Hills,NEW FALLS ROAD EXXON,Exxon,5300 NEW FALLS RD,"Levittown , PA",$3.939,Apr 16,08:21 AM,$5.979,Apr 16,07:09 AM,
-Fairless Hills,GULF,Gulf,4362 NEW FALLS RD,"Levittown , PA",$3.939,Apr 16,08:22 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Fairless Hills,SHELL,Shell,7011 NEW FALLS RD,"Levittown , PA",$3.959,Apr 16,06:54 AM,$5.999,Apr 14,02:08 PM,"Bio-Fuels, Convenience Store/Grocery Store"
-Fairless Hills,MILL CREEK GAS,Sunoco,7040 MILL CREEK RD,"Levittown , PA",$3.959,Apr 16,07:18 AM,$5.939,Apr 14,07:00 PM,Convenience Store/Grocery Store
-Fairless Hills,WAWA #268,Wawa,5900 BRISTOL PIKE,"Bristol, PA",$3.959,Apr 16,08:17 AM,$5.959,Apr 16,08:11 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
-Fairless Hills,Wawa #8127,Wawa,225 LEVITTOWN PARKWAY,"Bristol , PA",$3.969,Apr 16,08:09 AM,$5.899,Apr 16,07:28 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Repairs"
-Fairless Hills,Joe's Kwik Marts #383,Joes Kwik Mart,1266 OLD LINCOLN HWY,"Langhorne, PA",$3.969,Apr 16,08:11 AM,,,,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Fairless Hills,WAWA #8157,Wawa,639 E LINCOLN HWY,"Langhorne, PA",$3.969,Apr 16,08:25 AM,$5.899,Apr 16,08:02 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Fairless Hills,7-ELEVEN #32639,7-Eleven,527 W LINCOLN HWY,"Langhorne, PA",$3.969,Apr 16,06:41 AM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
-Fairless Hills,LUKOIL,Lukoil,152 E MAPLE AVE,"Langhorne, PA",$3.979,Apr 16,06:12 AM,,,,Convenience Store/Grocery Store
-Fairless Hills,WAWA #8004,Wawa,7625 NEW FALLS RD,"Levittown, PA",$3.989,Apr 16,07:46 AM,$5.959,Apr 16,07:36 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Fairless Hills,SHELL,Shell,236 LINCOLN HWY,"Fairless Hills, PA",$3.999,Apr 16,06:56 AM,$5.999,Apr 14,04:05 PM,"Bio-Fuels, Convenience Store/Grocery Store"
-Fairless Hills,WAWA #8020,Wawa,132 OXFORD VALLEY RD,"Langhorne, PA",$3.999,Apr 16,07:45 AM,$5.929,Apr 16,07:39 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Fairless Hills,SUNOCO,Sunoco,1155 BRISTOL OXFORD VALLEY RD,"Levittown , PA",$3.999,Apr 16,08:03 AM,,,,"Bio-Fuels, Repairs"
-Fairless Hills,Wawa  #8168,Wawa,530 LINCOLN HWY,"Fairless Hills, PA",$3.999,Apr 16,07:49 AM,$5.999,Apr 16,07:34 AM,Convenience Store/Grocery Store
+Fairless Hills,SPEEDWAY #6729,Speedway,2919 STATE ROUTE 413,"Bristol , PA",$3.899,Apr 16,01:35 PM,$5.959,Apr 16,01:35 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Fairless Hills,SUNOCO,Sunoco,652 BELLEVUE AVE,"Langhorne, PA",$3.919,Apr 16,09:06 AM,,,,Repairs
+Fairless Hills,Sunoco,Sunoco,111 E LINCOLN HWY,"Langhorne, PA",$3.929,Apr 16,02:15 PM,$5.879,Apr 16,05:36 AM,"Bio-Fuels, Convenience Store/Grocery Store"
+Fairless Hills,NEW FALLS ROAD EXXON,Exxon,5300 NEW FALLS RD,"Levittown , PA",$3.939,Apr 16,10:59 AM,$5.979,Apr 16,07:09 AM,
+Fairless Hills,GULF,Gulf,4362 NEW FALLS RD,"Levittown , PA",$3.939,Apr 16,01:33 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Fairless Hills,SHELL,Shell,7011 NEW FALLS RD,"Levittown , PA",$3.959,Apr 16,01:43 PM,$5.899,Apr 16,09:02 AM,"Bio-Fuels, Convenience Store/Grocery Store"
+Fairless Hills,MILL CREEK GAS,Sunoco,7040 MILL CREEK RD,"Levittown , PA",$3.959,Apr 16,01:38 PM,$5.939,Apr 14,07:00 PM,Convenience Store/Grocery Store
+Fairless Hills,WAWA #268,Wawa,5900 BRISTOL PIKE,"Bristol, PA",$3.959,Apr 16,02:05 PM,$5.939,Apr 16,01:07 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
+Fairless Hills,Wawa #8127,Wawa,225 LEVITTOWN PARKWAY,"Bristol , PA",$3.969,Apr 16,01:43 PM,$5.899,Apr 16,12:01 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Repairs"
+Fairless Hills,Joe's Kwik Marts #383,Joes Kwik Mart,1266 OLD LINCOLN HWY,"Langhorne, PA",$3.969,Apr 16,02:07 PM,,,,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Fairless Hills,WAWA #8157,Wawa,639 E LINCOLN HWY,"Langhorne, PA",$3.969,Apr 16,02:04 PM,$5.899,Apr 16,11:28 AM,"Open 24 Hours, Convenience Store/Grocery Store"
+Fairless Hills,7-ELEVEN #32639,7-Eleven,527 W LINCOLN HWY,"Langhorne, PA",$3.969,Apr 16,11:15 AM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
+Fairless Hills,LUKOIL,Lukoil,152 E MAPLE AVE,"Langhorne, PA",$3.979,Apr 16,09:02 AM,,,,Convenience Store/Grocery Store
+Fairless Hills,WAWA #8004,Wawa,7625 NEW FALLS RD,"Levittown, PA",$3.989,Apr 16,01:26 PM,$5.959,Apr 16,08:25 AM,"Open 24 Hours, Convenience Store/Grocery Store"
+Fairless Hills,WAWA #8020,Wawa,132 OXFORD VALLEY RD,"Langhorne, PA",$3.999,Apr 16,01:55 PM,$5.929,Apr 16,09:46 AM,"Open 24 Hours, Convenience Store/Grocery Store"
+Fairless Hills,SUNOCO,Sunoco,1155 BRISTOL OXFORD VALLEY RD,"Levittown , PA",$3.999,Apr 16,11:41 AM,$5.959,Apr 16,08:52 AM,"Bio-Fuels, Repairs"
+Fairless Hills,Wawa  #8168,Wawa,530 LINCOLN HWY,"Fairless Hills, PA",$3.999,Apr 16,02:17 PM,$5.999,Apr 16,02:20 PM,Convenience Store/Grocery Store
+Fairless Hills,BP,BP,1724 TRENTON RD,"Levittown , PA",$3.999,Apr 16,11:16 AM,,,,Repairs
 Fairless Hills,BP,BP,7601 BRISTOL PIKE,"Levittown , PA",$3.999,Apr 16,07:51 AM,$5.899,Apr 16,08:17 AM,"Bio-Fuels, Convenience Store/Grocery Store"
-Fairless Hills,WAWA #8076,Wawa,545 W TRENTON AVE,"Morrisville, PA",$3.999,Apr 16,07:43 AM,$5.979,Apr 16,06:04 AM,"Open 24 Hours, Convenience Store/Grocery Store"
+Fairless Hills,WAWA #8076,Wawa,545 W TRENTON AVE,"Morrisville, PA",$3.999,Apr 16,01:43 PM,$5.979,Apr 16,12:38 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Fairless Hills,Sunoco,Sunoco,907 W TRENTON AVE,"Morrisville , PA",$3.999,Apr 16,06:17 AM,,,,"Bio-Fuels, Repairs"
-Fairless Hills,SINCLAIR,Sinclair,452 S BELLEVUE AVE,"Langhorne, PA",$3.999,Apr 16,07:52 AM,,,,
+Fairless Hills,SINCLAIR,Sinclair,452 S BELLEVUE AVE,"Langhorne, PA",$3.999,Apr 16,02:03 PM,,,,
 Fairless Hills,GULF,Gulf,2 W BRIDGE ST,"Morrisville, PA",$3.999,Apr 14,03:27 PM,,,,"Convenience Store/Grocery Store, Repairs"
-Fairless Hills,Wawa #8159,Wawa,91 LOWER SILVER LAKE RD,"Newtown, PA",$3.999,Apr 16,08:21 AM,$5.999,Apr 16,08:08 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Fairless Hills,SUNOCO,Sunoco,999 W TRENTON AVE,"Morrisville , PA",$4.039,Apr 16,08:11 AM,,,,"Bio-Fuels, Repairs"
-Fairless Hills,A PLUS MINI MARKET,A Plus,8596 NEW FALLS RD,"Levittown , PA",$4.099,Apr 16,07:04 AM,$5.999,Apr 16,08:21 AM,"Bio-Fuels, Convenience Store/Grocery Store"
-Fairless Hills,BP,BP,1724 TRENTON RD,"Levittown , PA",$4.099,Apr 16,07:01 AM,,,,Repairs
-Fairless Hills,SUNOCO,Sunoco,7000 BRISTOL PIKE,"Levittown, PA",$4.099,Apr 16,07:29 AM,,,,"Bio-Fuels, Repairs"
-Fairless Hills,EXXON,Exxon,123 N PINE ST,"Langhorne , PA",$4.099,Apr 15,04:38 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
-Fairless Hills,SUNOCO,Sunoco,1231 NEW RODGERS RD,"Bristol, PA",$4.099,Apr 16,07:46 AM,$5.999,Apr 16,06:36 AM,"Bio-Fuels, Repairs"
-Fairless Hills,A PLUS MINI MARKET,A Plus,231 ROUTE 13,"Bristol , PA",$4.099,Apr 16,07:54 AM,$5.999,Apr 16,05:41 AM,"Bio-Fuels, Repairs"
-Fairless Hills,RAJS MINI MART,Sunoco,509 S PENNSYLVANIA AVE,"Morrisville, PA",$4.149,Apr 16,08:15 AM,$5.899,Apr 15,06:42 PM,"Bio-Fuels, Convenience Store/Grocery Store"
-Fairless Hills,BIG OAK CITGO,CITGO,812 BIG OAK RD,"Morrisville , PA",$4.159,Apr 16,08:00 AM,,,,Repairs
-Fairless Hills,SUNOCO,Sunoco,398 LINCOLN HWY,"Fairless Hills , PA",$4.199,Apr 15,01:18 PM,$5.999,Apr 14,01:59 PM,"Bio-Fuels, Repairs"
-Fairless Hills,BENSALEM TIGER MART,Exxon,5716 HULMEVILLE RD,"Bensalem , PA",$4.199,Apr 15,03:25 PM,,,,Convenience Store/Grocery Store
-Fairless Hills,Sunoco,Sunoco,61 OXFORD VALLEY RD,"Morrisville , PA",$4.299,Apr 16,07:53 AM,$5.999,Apr 16,08:23 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Fairless Hills,SITKOS REPAIR SERVICE,CITGO,40 E AFTON AVE,"Morrisville , PA",$4.489,Apr 15,03:04 PM,,,,Repairs
+Fairless Hills,Wawa #8159,Wawa,91 LOWER SILVER LAKE RD,"Newtown, PA",$3.999,Apr 16,02:18 PM,$5.999,Apr 16,08:25 AM,"Open 24 Hours, Convenience Store/Grocery Store"
+Fairless Hills,SHELL,Shell,236 LINCOLN HWY,"Fairless Hills, PA",$4.009,Apr 16,02:18 PM,$5.999,Apr 14,04:05 PM,"Bio-Fuels, Convenience Store/Grocery Store"
+Fairless Hills,EXXON,Exxon,123 N PINE ST,"Langhorne , PA",$4.029,Apr 16,11:58 AM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
+Fairless Hills,SUNOCO,Sunoco,999 W TRENTON AVE,"Morrisville , PA",$4.039,Apr 16,01:07 PM,,,,"Bio-Fuels, Repairs"
+Fairless Hills,A PLUS MINI MARKET,A Plus,8596 NEW FALLS RD,"Levittown , PA",$4.099,Apr 16,11:43 AM,$5.999,Apr 16,08:21 AM,"Bio-Fuels, Convenience Store/Grocery Store"
+Fairless Hills,SUNOCO,Sunoco,7000 BRISTOL PIKE,"Levittown, PA",$4.099,Apr 16,12:12 PM,$5.899,Apr 16,09:56 AM,"Bio-Fuels, Repairs"
+Fairless Hills,SUNOCO,Sunoco,1231 NEW RODGERS RD,"Bristol, PA",$4.099,Apr 16,01:28 PM,$5.999,Apr 16,12:16 PM,"Bio-Fuels, Repairs"
+Fairless Hills,A PLUS MINI MARKET,A Plus,231 ROUTE 13,"Bristol , PA",$4.099,Apr 16,01:27 PM,$5.999,Apr 16,01:28 PM,"Bio-Fuels, Repairs"
+Fairless Hills,RAJS MINI MART,Sunoco,509 S PENNSYLVANIA AVE,"Morrisville, PA",$4.149,Apr 16,01:13 PM,$5.899,Apr 15,06:42 PM,"Bio-Fuels, Convenience Store/Grocery Store"
+Fairless Hills,BIG OAK CITGO,CITGO,812 BIG OAK RD,"Morrisville , PA",$4.159,Apr 16,01:27 PM,,,,Repairs
+Fairless Hills,Yardley Service Center,Unbranded,194 S MAIN ST,"Morrisville , PA",$4.159,Apr 16,09:47 AM,,,,Repairs
+Fairless Hills,SUNOCO,Sunoco,398 LINCOLN HWY,"Fairless Hills , PA",$4.199,Apr 15,01:18 PM,,,,"Bio-Fuels, Repairs"
+Fairless Hills,BENSALEM TIGER MART,Exxon,5716 HULMEVILLE RD,"Bensalem , PA",$4.199,Apr 16,01:54 PM,,,,Convenience Store/Grocery Store
+Fairless Hills,Sunoco,Sunoco,61 OXFORD VALLEY RD,"Morrisville , PA",$4.299,Apr 16,02:22 PM,$5.999,Apr 16,11:42 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Fairless Hills,SITKOS REPAIR SERVICE,CITGO,40 E AFTON AVE,"Morrisville , PA",$4.489,Apr 16,10:07 AM,,,,Repairs
