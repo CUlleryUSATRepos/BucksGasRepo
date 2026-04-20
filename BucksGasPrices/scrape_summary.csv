@@ -1,10 +1,10 @@
 place_name,success,outcome,row_count
 Bensalem,True,table,40
 Bristol,True,table,28
-Chalfont,True,table,23
+Chalfont,True,table,24
 Churchville,True,table,0
 Croydon,True,table,35
-Doylestown,True,table,16
+Doylestown,True,table,17
 Dublin,True,table,12
 Fairless Hills,True,table,43
 Ferndale,True,table,2
@@ -12,7 +12,7 @@ Hulmeville,True,table,54
 Ivyland,True,table,38
 Langhorne,True,table,46
 Levittown,True,table,40
-Mechanicsville,True,table,10
+Mechanicsville,True,table,11
 Morrisville,True,table,14
 New Hope,True,table,1
 Newtown,True,table,20
