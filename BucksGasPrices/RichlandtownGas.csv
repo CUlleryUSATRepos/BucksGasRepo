@@ -1,11 +1,13 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Richlandtown,SUNOCO,Sunoco,308 N 3RD ST,"Coopersburg, PA",$3.799,Apr 20,07:15 AM,$5.759,Apr 20,06:25 AM,"Open 24 Hours, Restaurant/Deli/Fast Food, Bio-Fuels, Convenience Store/Grocery Store"
+Richlandtown,SUNOCO,Sunoco,308 N 3RD ST,"Coopersburg, PA",$3.799,Apr 20,07:15 AM,$5.759,Apr 20,12:33 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Bio-Fuels, Convenience Store/Grocery Store"
+Richlandtown,309 TRUCK STOP,Unbranded,1720 ROUTE 309,"Coopersburg , PA",$3.899,Apr 20,12:16 PM,$5.899,Apr 20,12:41 PM,"Restaurant/Deli/Fast Food, Bio-Fuels, Convenience Store/Grocery Store"
 Richlandtown,US GAS,Unbranded,530 E BROAD ST,"Quakertown , PA",$3.959,Apr 18,11:05 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Richlandtown,TURKEY HILL MINIT MARKET #950262,Turkey Hill,106 S 3RD ST,"Coopersburg, PA",$3.959,Apr 18,02:05 PM,,,,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
-Richlandtown,GIANT #6314,Giant (Ahold),216 E FAIRMOUNT ST,"Coopersburg , PA",$3.959,Apr 20,06:10 AM,,,,Convenience Store/Grocery Store
-Richlandtown,GIANT #6476,Giant (Ahold),1465 W BROAD ST,"Quakertown , PA",$3.979,Apr 20,06:46 AM,,,,Convenience Store/Grocery Store
-Richlandtown,WAWA #8044,Wawa,600 N WEST END BLVD,"Quakertown, PA",$3.979,Apr 20,07:55 AM,$5.899,Apr 20,07:59 AM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
-Richlandtown,SPEEDWAY #6733,Speedway,140 S WEST END BLVD,"Quakertown , PA",$3.979,Apr 20,06:59 AM,$5.999,Apr 19,09:15 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Bio-Fuels, Convenience Store/Grocery Store"
-Richlandtown,A PLUS MINI MARKET,A Plus,331 W BROAD ST,"Quakertown , PA",$3.999,Apr 20,07:00 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Richlandtown,WAWA #272,Wawa,1095 S WEST END BLVD,"Quakertown, PA",$3.999,Apr 20,08:15 AM,$5.899,Apr 20,06:39 AM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
+Richlandtown,TURKEY HILL MINIT MARKET #950262,Turkey Hill,106 S 3RD ST,"Coopersburg, PA",$3.959,Apr 20,09:26 AM,,,,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
+Richlandtown,GIANT #6314,Giant (Ahold),216 E FAIRMOUNT ST,"Coopersburg , PA",$3.959,Apr 20,11:00 AM,,,,Convenience Store/Grocery Store
+Richlandtown,GIANT #6476,Giant (Ahold),1465 W BROAD ST,"Quakertown , PA",$3.979,Apr 20,12:31 PM,,,,Convenience Store/Grocery Store
+Richlandtown,WAWA #8044,Wawa,600 N WEST END BLVD,"Quakertown, PA",$3.979,Apr 20,01:57 PM,$5.859,Apr 20,12:35 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
+Richlandtown,SPEEDWAY #6733,Speedway,140 S WEST END BLVD,"Quakertown , PA",$3.979,Apr 20,01:00 PM,$5.899,Apr 20,12:43 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Bio-Fuels, Convenience Store/Grocery Store"
+Richlandtown,A PLUS MINI MARKET,A Plus,331 W BROAD ST,"Quakertown , PA",$3.999,Apr 20,12:57 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Richlandtown,QUAKERTOWN FOOD MART,Unbranded,1610 N OLD BETHLEHEM PIKE,"Quakertown , PA",$3.999,Apr 20,08:42 AM,,,,Convenience Store/Grocery Store
+Richlandtown,WAWA #272,Wawa,1095 S WEST END BLVD,"Quakertown, PA",$3.999,Apr 20,01:53 PM,$5.899,Apr 20,12:47 PM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
 Richlandtown,Top Star,Top Star,318 S 3RD ST,"Coopersburg, PA",$4.039,Apr 20,07:52 AM,,,,"Restaurant/Deli/Fast Food, Bio-Fuels, Convenience Store/Grocery Store"
