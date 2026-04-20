@@ -1,24 +1,24 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Chalfont,Costco #248,Costco,740 UPPER STATE RD,"North Wales, PA",$3.739,Apr 20,02:19 AM,,,,
-Chalfont,United,Unbranded,1405 LOWER STATE RD,"Doylestown , PA",$3.859,Apr 19,03:10 PM,,,,Repairs
-Chalfont,GULF,Gulf,1901 N BROAD ST,"Lansdale, PA",$3.859,Apr 19,07:16 PM,,,,Convenience Store/Grocery Store
+Chalfont,Costco #248,Costco,740 UPPER STATE RD,"North Wales, PA",$3.739,Apr 20,07:50 AM,,,,
+Chalfont,United,Unbranded,1405 LOWER STATE RD,"Doylestown , PA",$3.859,Apr 20,07:36 AM,,,,Repairs
+Chalfont,GULF,Gulf,1901 N BROAD ST,"Lansdale, PA",$3.859,Apr 20,07:29 AM,,,,Convenience Store/Grocery Store
 Chalfont,SHELL,Shell,1807 S EASTON RD,"Doylestown , PA",$3.879,Apr 19,08:03 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
-Chalfont,SUNOCO,Sunoco,291 N BROAD ST,"Lansdale , PA",$3.889,Apr 19,09:25 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Chalfont,WAWA #8125,Wawa,425 S MAIN ST,"Doylestown, PA",$3.899,Apr 19,10:25 PM,$5.899,Apr 19,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Chalfont,SUNOCO,Sunoco,291 N BROAD ST,"Lansdale , PA",$3.889,Apr 20,07:37 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Chalfont,WAWA #8125,Wawa,425 S MAIN ST,"Doylestown, PA",$3.899,Apr 20,07:53 AM,$5.899,Apr 20,05:50 AM,"Open 24 Hours, Convenience Store/Grocery Store"
 Chalfont,LIBERTY MAIN,Liberty,235 N MAIN ST,"Doylestown , PA",$3.899,Apr 18,04:56 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store, Repairs"
-Chalfont,SPARTA,Unbranded,1233 EASTON RD,"Warrington, PA",$3.899,Apr 19,02:42 PM,,,,
-Chalfont,Wawa #8149,Wawa,1900 N BROAD ST,"Lansdale, PA",$3.919,Apr 19,11:52 PM,$5.899,Apr 19,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store, Repairs"
-Chalfont,SHELL,Shell,194 W BUTLER AVE,"Doylestown, PA",$3.959,Apr 19,04:12 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Chalfont,WAWA #8147,Wawa,525 W BUTLER AVE,"Chalfont, PA",$3.979,Apr 19,06:15 PM,$5.899,Apr 19,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Chalfont,Global,Global,549 DOYLESTOWN RD,"Lansdale, PA",$3.979,Apr 19,01:08 PM,,,,Convenience Store/Grocery Store
-Chalfont,SUNOCO,Sunoco,610 N MAIN ST,"Doylestown , PA",$3.979,Apr 19,09:15 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Chalfont,WAWA #8018,Wawa,119 BETHLEHEM PIKE,"Colmar, PA",$3.999,Apr 19,07:47 PM,$5.899,Apr 19,04:00 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Chalfont,A PLUS MINI MARKET,A Plus,1501 BETHLEHEM PIKE,"Line Lexington , PA",$3.999,Apr 19,11:24 PM,$5.999,Apr 19,11:40 PM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food, Bio-Fuels"
+Chalfont,SPARTA,Unbranded,1233 EASTON RD,"Warrington, PA",$3.899,Apr 20,05:47 AM,$5.879,Apr 20,05:44 AM,
+Chalfont,Wawa #8149,Wawa,1900 N BROAD ST,"Lansdale, PA",$3.919,Apr 20,07:44 AM,$5.899,Apr 20,06:52 AM,"Open 24 Hours, Convenience Store/Grocery Store, Repairs"
+Chalfont,SHELL,Shell,194 W BUTLER AVE,"Doylestown, PA",$3.959,Apr 20,07:26 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Chalfont,WAWA #8147,Wawa,525 W BUTLER AVE,"Chalfont, PA",$3.979,Apr 20,07:55 AM,$5.899,Apr 20,07:11 AM,"Open 24 Hours, Convenience Store/Grocery Store"
+Chalfont,Global,Global,549 DOYLESTOWN RD,"Lansdale, PA",$3.979,Apr 20,07:47 AM,,,,Convenience Store/Grocery Store
+Chalfont,SUNOCO,Sunoco,610 N MAIN ST,"Doylestown , PA",$3.979,Apr 20,06:09 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Chalfont,WAWA #8018,Wawa,119 BETHLEHEM PIKE,"Colmar, PA",$3.999,Apr 20,07:41 AM,$5.899,Apr 20,07:43 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Chalfont,A PLUS MINI MARKET,A Plus,1501 BETHLEHEM PIKE,"Line Lexington , PA",$3.999,Apr 20,07:31 AM,$5.999,Apr 20,07:51 AM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food, Bio-Fuels"
 Chalfont,7-Eleven #24555,7-Eleven,791 HORSHAM RD,"North Wales, PA",$3.999,Apr 19,09:15 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
-Chalfont,Joe's Kwik Mart #1037,Joes Kwik Mart,747 BETHLEHEM PIKE,"Montgomeryville , PA",$3.999,Apr 19,07:20 PM,,,,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Chalfont,WAWA #8056,Wawa,2480 BETHLEHEM PIKE,"Hatfield, PA",$3.999,Apr 19,05:19 PM,$5.899,Apr 19,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Chalfont,GIANT #6445,Giant (Ahold),1540 COWPATH RD,"Hatfield , PA",$3.999,Apr 19,06:00 PM,,,,Convenience Store/Grocery Store
-Chalfont,WAWA #8101,Wawa,1008 BETHLEHEM PIKE,"Montgomeryville, PA",$3.999,Apr 19,04:00 PM,$5.899,Apr 19,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Chalfont,ROYAL FARMS #240,Royal Farms,935 BETHLEHEM PIKE,"Colmar, PA",$4.099,Apr 19,02:07 PM,,,,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
+Chalfont,Joe's Kwik Mart #1037,Joes Kwik Mart,747 BETHLEHEM PIKE,"Montgomeryville , PA",$3.999,Apr 20,07:36 AM,,,,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Chalfont,WAWA #8056,Wawa,2480 BETHLEHEM PIKE,"Hatfield, PA",$3.999,Apr 20,07:43 AM,$5.899,Apr 20,07:47 AM,"Open 24 Hours, Convenience Store/Grocery Store"
+Chalfont,GIANT #6445,Giant (Ahold),1540 COWPATH RD,"Hatfield , PA",$3.999,Apr 20,06:10 AM,,,,Convenience Store/Grocery Store
+Chalfont,WAWA #8101,Wawa,1008 BETHLEHEM PIKE,"Montgomeryville, PA",$3.999,Apr 20,07:52 AM,$5.899,Apr 20,07:56 AM,"Open 24 Hours, Convenience Store/Grocery Store"
+Chalfont,ROYAL FARMS #240,Royal Farms,935 BETHLEHEM PIKE,"Colmar, PA",$4.099,Apr 20,07:45 AM,$5.999,Apr 20,07:25 AM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
 Chalfont,DOYLESTOWN EXXON,Exxon,539 N MAIN ST,"Doylestown , PA",$4.149,Apr 19,07:18 PM,,,,Repairs
 Chalfont,S&P Oil,Sunoco,1770 S EASTON RD,"Doylestown , PA",$4.159,Apr 18,01:44 PM,,,,"Bio-Fuels, Repairs"
