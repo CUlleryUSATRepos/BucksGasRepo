@@ -11,7 +11,7 @@ Bensalem,SPEEDWAY #6729,Speedway,2919 STATE ROUTE 413,"Bristol , PA",$3.899,Apr 
 Bensalem,GIANT #6324,Giant (Ahold),2391 DURHAM RD,"Levittown , PA",$3.899,Apr 20,06:00 PM,,,,Convenience Store/Grocery Store
 Bensalem,WAWA #219,Wawa,3260 NEW RODGERS RD,"Bristol, PA",$3.899,Apr 20,07:15 PM,$5.899,Apr 20,04:06 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
 Bensalem,Wawa #8163,Wawa,3800 Bristol Oxford Valley Rd,"Levittown, PA",$3.899,Apr 20,06:10 PM,$5.899,Apr 20,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Bensalem,A PLUS MINI MARKET,A Plus,231 ROUTE 13,"Bristol , PA",$3.909,Apr 20,06:10 PM,$5.999,Apr 20,03:36 PM,"Bio-Fuels, Repairs"
+Bensalem,A PLUS MINI MARKET,A Plus,231 ROUTE 13,"Bristol , PA",$3.909,Apr 20,06:10 PM,$5.999,Apr 20,07:55 PM,"Bio-Fuels, Repairs"
 Bensalem,SINCLAIR,Sinclair,2030 STREET RD,"Bensalem , PA",$3.919,Apr 20,04:57 PM,,,,Convenience Store/Grocery Store
 Bensalem,A PLUS MINI MARKET,A Plus,1432 STREET RD,"Bensalem , PA",$3.919,Apr 20,07:49 PM,$5.899,Apr 20,03:38 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
 Bensalem,WAWA #8107,Wawa,3111 STATE RD,"Bristol, PA",$3.919,Apr 20,05:09 PM,$5.899,Apr 20,07:39 PM,"Open 24 Hours, Convenience Store/Grocery Store"
@@ -23,17 +23,17 @@ Bensalem,GULF,Gulf,4362 NEW FALLS RD,"Levittown , PA",$3.939,Apr 20,11:53 AM,,,,
 Bensalem,NEW FALLS ROAD EXXON,Exxon,5300 NEW FALLS RD,"Levittown , PA",$3.939,Apr 20,07:54 PM,$5.859,Apr 20,10:52 AM,
 Bensalem,STREET ROAD LUKOIL,Lukoil,4613 E STREET RD,"Feasterville Trevose , PA",$3.959,Apr 18,11:41 AM,$5.799,Apr 20,12:04 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Bensalem,SUNOCO,Sunoco,300 E STREET RD,"Feasterville Trevose , PA",$3.959,Apr 20,04:55 PM,$5.799,Apr 20,06:05 PM,"Bio-Fuels, Convenience Store/Grocery Store"
-Bensalem,WAWA #8157,Wawa,639 E LINCOLN HWY,"Langhorne, PA",$3.959,Apr 20,06:58 PM,$5.879,Apr 20,05:12 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Bensalem,WAWA #8157,Wawa,639 E LINCOLN HWY,"Langhorne, PA",$3.959,Apr 20,08:07 PM,$5.879,Apr 20,05:12 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Bensalem,KNIGHTS ROAD,Conoco,2700 KNIGHTS RD,"Bensalem, PA",$3.999,Apr 19,03:07 PM,,,,Repairs
 Bensalem,GIANT FUEL #6046,Giant (Ahold),2711 STREET RD,"Bensalem, PA",$3.999,Apr 20,06:34 PM,,,,
 Bensalem,LIBERTY,Liberty,1616 STREET RD,"Bensalem , PA",$3.999,Apr 20,03:44 PM,,,,Repairs
 Bensalem,WAWA #8072,Wawa,3620 STREET RD,"Bensalem, PA",$3.999,Apr 20,06:37 PM,$5.899,Apr 20,05:17 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Bensalem,BENSALEM AUTO CARE,Conoco,3585 BRISTOL RD,"Bensalem, PA",$3.999,Apr 20,07:10 PM,,,,Repairs
 Bensalem,SUNOCO,Sunoco,1231 NEW RODGERS RD,"Bristol, PA",$3.999,Apr 20,07:03 PM,$5.899,Apr 20,03:44 PM,"Bio-Fuels, Repairs"
-Bensalem,WAWA #8136,Wawa,929 BUSTLETON PK,"Feasterville Trevose, PA",$3.999,Apr 20,06:12 PM,$5.899,Apr 20,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Bensalem,WAWA #8136,Wawa,929 BUSTLETON PK,"Feasterville Trevose, PA",$3.999,Apr 20,08:15 PM,$5.899,Apr 20,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Bensalem,Sunoco,Sunoco,190 W STREET RD,"Feasterville Trevose, PA",$3.999,Apr 20,07:24 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
 Bensalem,BP,BP,1724 TRENTON RD,"Levittown , PA",$3.999,Apr 20,06:49 PM,,,,Repairs
-Bensalem,SINCLAIR,Sinclair,452 S BELLEVUE AVE,"Langhorne, PA",$3.999,Apr 20,05:56 PM,,,,
+Bensalem,SINCLAIR,Sinclair,452 S BELLEVUE AVE,"Langhorne, PA",$3.999,Apr 20,08:10 PM,,,,
 Bensalem,BP,BP,3340 BRISTOL RD,"Bensalem , PA",$4.039,Apr 20,07:05 PM,$5.799,Apr 20,08:04 AM,"Open 24 Hours, Bio-Fuels, Repairs"
 Bensalem,A PLUS MINI MARKET,A Plus,3419 STREET RD,"Bensalem , PA",$4.059,Apr 20,04:11 PM,$5.899,Apr 20,01:08 PM,"Bio-Fuels, Convenience Store/Grocery Store"
 Bensalem,WAWA #8075,Wawa,601 E STREET RD,"Feasterville Trevose, PA",$4.059,Apr 20,07:28 PM,$5.899,Apr 20,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
@@ -41,4 +41,4 @@ Bensalem,A PLUS MINI MARKET,A Plus,2767 LINCOLN HWY,"Feasterville Trevose , PA",
 Bensalem,WAWA #277,Wawa,2250 LINCOLN HWY,"Feasterville Trevose, PA",$4.099,Apr 20,07:18 PM,$5.899,Apr 20,05:01 PM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
 Bensalem,BENSALEM TIGER MART,Exxon,5716 HULMEVILLE RD,"Bensalem , PA",$4.159,Apr 20,06:26 PM,,,,Convenience Store/Grocery Store
 Bensalem,Shell,Shell,2506 LINCOLN HWY,"Feasterville Trevose, PA",$4.179,Apr 20,05:12 PM,,,,"Open 24 Hours, Bio-Fuels"
-Bensalem,SUNOCO,Sunoco,3611 HULMEVILLE RD,"Bensalem , PA",$4.199,Apr 20,03:20 PM,,,,Repairs
+Bensalem,SUNOCO,Sunoco,3611 HULMEVILLE RD,"Bensalem , PA",$4.199,Apr 20,08:08 PM,,,,Repairs
