@@ -1,14 +1,14 @@
 place_name,success,outcome,row_count
-Bensalem,True,table,42
+Bensalem,True,table,43
 Bristol,True,table,32
 Chalfont,True,table,27
 Churchville,True,table,0
-Croydon,True,table,37
+Croydon,True,table,38
 Doylestown,True,table,18
 Dublin,True,table,14
 Fairless Hills,True,table,48
 Ferndale,True,table,3
-Hulmeville,True,table,58
+Hulmeville,True,table,59
 Ivyland,True,table,44
 Langhorne,True,table,49
 Levittown,True,table,45
@@ -17,7 +17,7 @@ Morrisville,True,table,14
 New Hope,True,table,1
 Newtown,True,table,21
 Newtown Grant,True,table,13
-Penndel,True,table,60
+Penndel,True,table,61
 Perkasie,True,table,17
 Quakertown,True,table,11
 Richboro,True,table,35
