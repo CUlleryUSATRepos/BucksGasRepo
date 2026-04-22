@@ -1,22 +1,22 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Newtown,FOODLE FARMS,Unbranded,1205 E LINCOLN HWY,"Langhorne, PA",$3.859,Apr 21,01:22 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Newtown,7-ELEVEN #40097,7-Eleven,999 2ND STREET PIKE,"Richboro , PA",$3.899,Apr 21,02:01 PM,$5.899,Apr 21,11:15 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Newtown,Joe's Kwik Mart #1046,Joes Kwik Mart,1008 2ND STREET PIKE,"Richboro , PA",$3.899,Apr 21,11:50 AM,$5.899,Apr 21,06:06 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Newtown,WAWA #8121,Wawa,870 2ND STREET PIKE,"Richboro , PA",$3.899,Apr 21,02:08 PM,$5.899,Apr 21,01:06 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Newtown,DICK AND RIPS HOLLAND SUNOCO,Sunoco,287 HOLLAND RD,"Southampton , PA",$3.899,Apr 21,12:44 PM,,,,Repairs
-Newtown,LUKOIL,Lukoil,2 N SYCAMORE ST,"Newtown, PA",$3.959,Apr 21,12:37 PM,,,,
-Newtown,Joe's Kwik Marts #383,Joes Kwik Mart,1266 OLD LINCOLN HWY,"Langhorne, PA",$3.959,Apr 21,02:00 PM,,,,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Newtown,WAWA #8157,Wawa,639 E LINCOLN HWY,"Langhorne, PA",$3.959,Apr 21,02:07 PM,$5.879,Apr 21,02:19 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Newtown,Wawa #8159,Wawa,91 LOWER SILVER LAKE RD,"Newtown, PA",$3.979,Apr 21,01:53 PM,$5.899,Apr 21,01:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Newtown,LUKOIL,Lukoil,152 E MAPLE AVE,"Langhorne, PA",$3.979,Apr 21,09:46 AM,,,,Convenience Store/Grocery Store
-Newtown,WAWA #8020,Wawa,132 OXFORD VALLEY RD,"Langhorne, PA",$3.989,Apr 21,02:16 PM,$5.859,Apr 21,07:53 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Newtown,SUNOCO,Sunoco,549 WASHINGTON AVE,"Newtown, PA",$3.999,Apr 21,02:02 PM,,,,Repairs
+Newtown,FOODLE FARMS,Unbranded,1205 E LINCOLN HWY,"Langhorne, PA",$3.859,Apr 21,05:44 PM,$5.779,Apr 21,03:37 PM,"Bio-Fuels, Convenience Store/Grocery Store"
+Newtown,7-ELEVEN #40097,7-Eleven,999 2ND STREET PIKE,"Richboro , PA",$3.899,Apr 21,07:04 PM,$5.899,Apr 21,02:29 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Newtown,Joe's Kwik Mart #1046,Joes Kwik Mart,1008 2ND STREET PIKE,"Richboro , PA",$3.899,Apr 21,04:36 PM,$5.899,Apr 21,06:06 AM,"Open 24 Hours, Convenience Store/Grocery Store"
+Newtown,WAWA #8121,Wawa,870 2ND STREET PIKE,"Richboro , PA",$3.899,Apr 21,05:31 PM,$5.899,Apr 21,05:37 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Newtown,DICK AND RIPS HOLLAND SUNOCO,Sunoco,287 HOLLAND RD,"Southampton , PA",$3.899,Apr 21,06:26 PM,,,,Repairs
+Newtown,LUKOIL,Lukoil,2 N SYCAMORE ST,"Newtown, PA",$3.959,Apr 21,06:02 PM,,,,
+Newtown,Joe's Kwik Marts #383,Joes Kwik Mart,1266 OLD LINCOLN HWY,"Langhorne, PA",$3.959,Apr 21,07:03 PM,,,,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Newtown,WAWA #8157,Wawa,639 E LINCOLN HWY,"Langhorne, PA",$3.959,Apr 21,07:22 PM,$5.879,Apr 21,07:13 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Newtown,Wawa #8159,Wawa,91 LOWER SILVER LAKE RD,"Newtown, PA",$3.979,Apr 21,05:40 PM,$5.899,Apr 21,04:14 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Newtown,LUKOIL,Lukoil,152 E MAPLE AVE,"Langhorne, PA",$3.979,Apr 21,07:35 PM,,,,Convenience Store/Grocery Store
+Newtown,WAWA #8020,Wawa,132 OXFORD VALLEY RD,"Langhorne, PA",$3.989,Apr 21,07:03 PM,$5.859,Apr 21,07:24 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Newtown,SUNOCO,Sunoco,549 WASHINGTON AVE,"Newtown, PA",$3.999,Apr 21,06:55 PM,,,,Repairs
 Newtown,RICK STEELES GULF,Gulf,695 NEWTOWN YARDLEY RD,"Newtown , PA",$3.999,Apr 20,05:26 PM,,,,"Bio-Fuels, Repairs"
-Newtown,BP,BP,599 WASHINGTON CROSSING RD,"Newtown , PA",$3.999,Apr 21,01:32 PM,,,,"Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
-Newtown,SINCLAIR,Sinclair,452 S BELLEVUE AVE,"Langhorne, PA",$3.999,Apr 21,09:31 AM,,,,
+Newtown,BP,BP,599 WASHINGTON CROSSING RD,"Newtown , PA",$3.999,Apr 21,05:14 PM,,,,"Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
+Newtown,SINCLAIR,Sinclair,452 S BELLEVUE AVE,"Langhorne, PA",$3.999,Apr 21,06:08 PM,,,,
 Newtown,EXXON,Exxon,123 N PINE ST,"Langhorne , PA",$4.029,Apr 21,02:11 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
-Newtown,LEHIGH GAS CORPORATI,Shell,19 N SYCAMORE ST,"Newtown , PA",$4.299,Apr 21,12:31 PM,,,,
-Newtown,TOMLINSONS SERVICE,CITGO,496 S STATE ST,"Newtown , PA",$4.299,Apr 20,07:03 AM,$5.999,Apr 20,12:58 PM,"Bio-Fuels, Repairs"
-Newtown,Sunoco,Sunoco,61 OXFORD VALLEY RD,"Morrisville , PA",$4.299,Apr 21,12:01 PM,$5.999,Apr 21,07:02 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Newtown,FERINO BROS SERVICE,Shell,2603 WINDY BUSH RD,"Newtown , PA",$4.299,Apr 21,08:45 AM,,,,"Bio-Fuels, Repairs"
-Newtown,BP,BP,810 DURHAM RD,"Newtown , PA",$4.299,Apr 21,01:24 PM,,,,"Bio-Fuels, Repairs"
+Newtown,LEHIGH GAS CORPORATI,Shell,19 N SYCAMORE ST,"Newtown , PA",$4.299,Apr 21,05:05 PM,,,,
+Newtown,TOMLINSONS SERVICE,CITGO,496 S STATE ST,"Newtown , PA",$4.299,Apr 21,04:00 PM,$5.999,Apr 20,12:58 PM,"Bio-Fuels, Repairs"
+Newtown,Sunoco,Sunoco,61 OXFORD VALLEY RD,"Morrisville , PA",$4.299,Apr 21,07:37 PM,$5.999,Apr 21,07:02 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Newtown,FERINO BROS SERVICE,Shell,2603 WINDY BUSH RD,"Newtown , PA",$4.299,Apr 21,05:01 PM,,,,"Bio-Fuels, Repairs"
+Newtown,BP,BP,810 DURHAM RD,"Newtown , PA",$4.299,Apr 21,06:38 PM,,,,"Bio-Fuels, Repairs"
