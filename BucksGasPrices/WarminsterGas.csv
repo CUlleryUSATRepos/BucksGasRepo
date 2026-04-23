@@ -1,5 +1,5 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Warminster,COSTCO #1103,Costco,100 VETERANS WAY,"Warminster, PA",$3.739,Apr 23,01:49 AM,,,,Convenience Store/Grocery Store
+Warminster,COSTCO #1103,Costco,100 VETERANS WAY,"Warminster, PA",$3.739,Apr 23,02:18 AM,,,,Convenience Store/Grocery Store
 Warminster,WILLOW GROVE AMERA,Unbranded,2800 EASTON RD,"Willow Grove, PA",$3.739,Apr 22,09:51 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
 Warminster,SAMS CLUB #6676,Sams Club,3925 WELSH RD,"Willow Grove , PA",$3.739,Apr 22,06:30 PM,,,,Convenience Store/Grocery Store
 Warminster,SHELL,Shell,2818 EASTON RD,"Willow Grove , PA",$3.759,Apr 22,09:37 PM,$5.699,Apr 21,03:11 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
@@ -16,7 +16,7 @@ Warminster,Jacksonville Food Mart,Unbranded,40 E STREET RD,"Warminster , PA",$3.
 Warminster,SUNOCO,Sunoco,555 N YORK RD,"Hatboro , PA",$3.899,Apr 22,07:18 PM,,,,Bio-Fuels
 Warminster,US GAS,US Gas,405 W COUNTY LINE RD,"Hatboro, PA",$3.899,Apr 22,09:50 AM,,,,"Convenience Store/Grocery Store, Repairs"
 Warminster,A PLUS MINI MARKET,A Plus,3250 E COUNTY LINE RD,"Hatboro , PA",$3.899,Apr 22,04:44 PM,$5.999,Apr 22,02:34 PM,"Bio-Fuels, Convenience Store/Grocery Store"
-Warminster,WAWA #285,Wawa,1510 EASTON RD,"Horsham, PA",$3.899,Apr 22,11:00 PM,$5.899,Apr 22,05:21 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
+Warminster,WAWA #285,Wawa,1510 EASTON RD,"Horsham, PA",$3.899,Apr 22,11:00 PM,$5.899,Apr 23,02:21 AM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
 Warminster,WAWA #8122,Wawa,412 S YORK RD,"Hatboro, PA",$3.899,Apr 22,08:30 PM,$5.859,Apr 22,04:28 PM,Convenience Store/Grocery Store
 Warminster,Sunoco,Sunoco,300 EASTON RD,"Horsham, PA",$3.899,Apr 22,10:50 AM,,,,Convenience Store/Grocery Store
 Warminster,Wawa #8117,Wawa,550 Easton Rd,"Warrington, PA",$3.899,Apr 22,09:03 PM,$5.879,Apr 22,05:11 PM,Convenience Store/Grocery Store
@@ -40,7 +40,7 @@ Warminster,GIANT FUEL #6089,Giant (Ahold),314 HORSHAM RD,"Horsham, PA",$3.979,Ap
 Warminster,WAWA #271,Wawa,535 HORSHAM RD,"Horsham, PA",$3.979,Apr 22,05:08 PM,$5.899,Apr 22,06:53 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
 Warminster,WAWA #8022,Wawa,1937 YORK RD,"Jamison, PA",$3.979,Apr 22,11:09 PM,$5.899,Apr 22,09:13 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Warminster,Wawa #8156,Wawa,132 WELSH ROAD,"Horsham, PA",$3.979,Apr 22,08:21 PM,$5.819,Apr 22,11:52 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Warminster,WAWA #148,Wawa,1139 HORSHAM RD,"Ambler, PA",$3.979,Apr 23,12:08 AM,$5.899,Apr 22,04:00 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Bio-Fuels, Convenience Store/Grocery Store"
+Warminster,WAWA #148,Wawa,1139 HORSHAM RD,"Ambler, PA",$3.979,Apr 23,02:19 AM,$5.899,Apr 22,04:00 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Bio-Fuels, Convenience Store/Grocery Store"
 Warminster,SUNOCO,Sunoco,1146 LIMEKILN PIKE,"Ambler , PA",$3.979,Apr 22,04:32 PM,$5.899,Apr 22,06:35 AM,"Bio-Fuels, Convenience Store/Grocery Store"
 Warminster,SUNOCO,Sunoco,610 YORK RD,"Warminster, PA",$3.999,Apr 22,03:14 PM,$5.859,Apr 22,10:16 AM,Convenience Store/Grocery Store
 Warminster,SUNOCO,Sunoco,890 E STREET RD,"Warminster , PA",$3.999,Apr 22,04:59 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
