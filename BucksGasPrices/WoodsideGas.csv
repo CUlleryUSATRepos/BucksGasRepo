@@ -1,6 +1,6 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
 Woodside,MORRISVILLE FUELS,Unbranded,299 W TRENTON AVE,"Morrisville , PA",$3.799,Apr 24,03:54 PM,,,,Convenience Store/Grocery Store
-Woodside,FOODLE FARMS,Unbranded,1205 E LINCOLN HWY,"Langhorne, PA",$3.859,Apr 24,02:32 PM,$5.779,Apr 23,09:32 AM,"Bio-Fuels, Convenience Store/Grocery Store"
+Woodside,FOODLE FARMS,Unbranded,1205 E LINCOLN HWY,"Langhorne, PA",$3.859,Apr 25,07:58 AM,$5.779,Apr 23,09:32 AM,"Bio-Fuels, Convenience Store/Grocery Store"
 Woodside,Sunoco,Sunoco,907 W TRENTON AVE,"Morrisville , PA",$3.899,Apr 24,05:45 PM,$5.899,Apr 24,03:08 PM,"Bio-Fuels, Repairs"
 Woodside,WAWA #8157,Wawa,639 E LINCOLN HWY,"Langhorne, PA",$3.959,Apr 25,06:51 AM,$5.879,Apr 25,06:36 AM,"Open 24 Hours, Convenience Store/Grocery Store"
 Woodside,Wawa #8159,Wawa,91 LOWER SILVER LAKE RD,"Newtown, PA",$3.979,Apr 25,07:28 AM,$5.899,Apr 24,08:49 PM,"Open 24 Hours, Convenience Store/Grocery Store"
@@ -14,8 +14,8 @@ Woodside,WAWA #8004,Wawa,7625 NEW FALLS RD,"Levittown, PA",$3.999,Apr 25,06:53 A
 Woodside,Sunoco,Sunoco,111 E LINCOLN HWY,"Langhorne, PA",$3.999,Apr 24,07:21 PM,$5.879,Apr 25,05:22 AM,"Bio-Fuels, Convenience Store/Grocery Store"
 Woodside,SUNOCO,Sunoco,549 WASHINGTON AVE,"Newtown, PA",$4.099,Apr 24,07:09 PM,,,,Repairs
 Woodside,LUKOIL,Lukoil,2 N SYCAMORE ST,"Newtown, PA",$4.099,Apr 24,03:46 PM,,,,
-Woodside,SUNOCO,Sunoco,1155 BRISTOL OXFORD VALLEY RD,"Levittown , PA",$4.099,Apr 25,07:43 AM,,,,"Bio-Fuels, Repairs"
-Woodside,A PLUS MINI MARKET,A Plus,8596 NEW FALLS RD,"Levittown , PA",$4.099,Apr 24,11:19 AM,$5.999,Apr 24,08:12 AM,"Bio-Fuels, Convenience Store/Grocery Store"
+Woodside,SUNOCO,Sunoco,1155 BRISTOL OXFORD VALLEY RD,"Levittown , PA",$4.099,Apr 25,08:06 AM,,,,"Bio-Fuels, Repairs"
+Woodside,A PLUS MINI MARKET,A Plus,8596 NEW FALLS RD,"Levittown , PA",$4.099,Apr 25,08:02 AM,$5.999,Apr 24,08:12 AM,"Bio-Fuels, Convenience Store/Grocery Store"
 Woodside,Yardley Service Center,Unbranded,194 S MAIN ST,"Morrisville , PA",$4.159,Apr 23,05:18 PM,,,,Repairs
 Woodside,LUKOIL,Lukoil,152 E MAPLE AVE,"Langhorne, PA",$4.159,Apr 24,04:52 PM,,,,Convenience Store/Grocery Store
 Woodside,Joe's Kwik Marts #383,Joes Kwik Mart,1266 OLD LINCOLN HWY,"Langhorne, PA",$4.199,Apr 24,08:55 PM,,,,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
