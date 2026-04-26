@@ -1,7 +1,7 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
 Richboro,COUNTRY FARMS,Unbranded,287 YORK RD,"Warminster , PA",$3.849,Apr 25,11:14 AM,,,,Convenience Store/Grocery Store
 Richboro,DELTA,Delta,288 YORK RD,"Warminster , PA",$3.849,Apr 26,04:54 AM,$5.599,Apr 24,11:14 AM,Bio-Fuels
-Richboro,COSTCO #1103,Costco,100 VETERANS WAY,"Warminster, PA",$3.889,Apr 26,07:49 AM,,,,Convenience Store/Grocery Store
+Richboro,COSTCO #1103,Costco,100 VETERANS WAY,"Warminster, PA",$3.889,Apr 26,08:19 AM,,,,Convenience Store/Grocery Store
 Richboro,Jacksonville Food Mart,Unbranded,40 E STREET RD,"Warminster , PA",$3.899,Apr 26,07:51 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
 Richboro,GAS N GO-WEIS MARKETS,Gas N Go (Weis),2100 COUNTY LINE RD,"Huntingdon Valley, PA",$3.899,Apr 24,04:36 PM,,,,
 Richboro,WEIS MARKETS,Gas N Go (Weis),1133 YORK RD,"Warminster, PA",$3.899,Apr 25,12:33 PM,,,,
@@ -20,7 +20,7 @@ Richboro,DICK AND RIPS HOLLAND SUNOCO,Sunoco,287 HOLLAND RD,"Southampton , PA",$
 Richboro,GIANT #6095,Giant (Ahold),466 2ND STREET PIKE,"Southampton , PA",$3.999,Apr 26,06:10 AM,,,,Convenience Store/Grocery Store
 Richboro,Sunoco,Sunoco,190 W STREET RD,"Feasterville Trevose, PA",$3.999,Apr 26,06:52 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
 Richboro,WAWA #149,Wawa,10 DAVISVILLE RD,"Warminster, PA",$3.999,Apr 25,04:10 PM,$5.899,Apr 25,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Richboro,WAWA #8136,Wawa,929 BUSTLETON PK,"Feasterville Trevose, PA",$3.999,Apr 26,07:45 AM,$5.899,Apr 25,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Richboro,WAWA #8136,Wawa,929 BUSTLETON PK,"Feasterville Trevose, PA",$3.999,Apr 26,08:07 AM,$5.899,Apr 25,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Richboro,SUNOCO,Sunoco,610 YORK RD,"Warminster, PA",$3.999,Apr 25,09:26 AM,$5.859,Apr 24,04:42 PM,Convenience Store/Grocery Store
 Richboro,Sunoco,Sunoco,2140 YORK RD,"Jamison, PA",$3.999,Apr 25,06:52 PM,,,,"Convenience Store/Grocery Store, Repairs"
 Richboro,SUNOCO,Sunoco,300 E STREET RD,"Feasterville Trevose , PA",$3.999,Apr 25,05:55 PM,$5.799,Apr 24,10:11 AM,"Bio-Fuels, Convenience Store/Grocery Store"
