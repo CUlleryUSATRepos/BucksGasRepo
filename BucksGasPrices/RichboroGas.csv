@@ -1,7 +1,7 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
 Richboro,COUNTRY FARMS,Unbranded,287 YORK RD,"Warminster , PA",$3.849,Apr 25,11:14 AM,,,,Convenience Store/Grocery Store
 Richboro,DELTA,Delta,288 YORK RD,"Warminster , PA",$3.849,Apr 25,10:30 AM,$5.599,Apr 24,11:14 AM,Bio-Fuels
-Richboro,COSTCO #1103,Costco,100 VETERANS WAY,"Warminster, PA",$3.889,Apr 25,07:49 PM,,,,Convenience Store/Grocery Store
+Richboro,COSTCO #1103,Costco,100 VETERANS WAY,"Warminster, PA",$3.889,Apr 25,08:19 PM,,,,Convenience Store/Grocery Store
 Richboro,Jacksonville Food Mart,Unbranded,40 E STREET RD,"Warminster , PA",$3.899,Apr 24,03:42 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
 Richboro,GAS N GO-WEIS MARKETS,Gas N Go (Weis),2100 COUNTY LINE RD,"Huntingdon Valley, PA",$3.899,Apr 24,04:36 PM,,,,
 Richboro,WEIS MARKETS,Gas N Go (Weis),1133 YORK RD,"Warminster, PA",$3.899,Apr 25,12:33 PM,,,,
@@ -11,7 +11,7 @@ Richboro,DICK AND RIPS TRUCK AND AUTO REPAIR,Exxon,299 E STREET RD,"Warminster ,
 Richboro,SUNOCO,Sunoco,20 2ND STREET PIKE,"Southampton , PA",$3.959,Apr 25,05:48 PM,$5.899,Apr 25,12:42 PM,"Bio-Fuels, Repairs"
 Richboro,Wawa #8216,Wawa,25 2ND STREET PIKE,"Southampton , PA",$3.959,Apr 25,04:00 PM,$5.899,Apr 25,04:00 PM,
 Richboro,WAWA #8022,Wawa,1937 YORK RD,"Jamison, PA",$3.979,Apr 25,06:05 PM,$5.899,Apr 25,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Richboro,7-ELEVEN #40097,7-Eleven,999 2ND STREET PIKE,"Richboro , PA",$3.999,Apr 25,07:09 PM,$5.899,Apr 25,11:15 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Richboro,7-ELEVEN #40097,7-Eleven,999 2ND STREET PIKE,"Richboro , PA",$3.999,Apr 25,08:23 PM,$5.899,Apr 25,11:15 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
 Richboro,WAWA #8121,Wawa,870 2ND STREET PIKE,"Richboro , PA",$3.999,Apr 25,05:30 PM,$5.899,Apr 25,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Richboro,RICHBORO FUELS,Liberty,778 2ND STREET PIKE,"Richboro , PA",$3.999,Apr 24,09:30 AM,,,,Repairs
 Richboro,SUNOCO,Sunoco,890 E STREET RD,"Warminster , PA",$3.999,Apr 24,03:43 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
