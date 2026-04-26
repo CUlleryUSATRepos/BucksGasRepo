@@ -1,37 +1,37 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
 Richboro,COUNTRY FARMS,Unbranded,287 YORK RD,"Warminster , PA",$3.849,Apr 25,11:14 AM,,,,Convenience Store/Grocery Store
 Richboro,DELTA,Delta,288 YORK RD,"Warminster , PA",$3.849,Apr 25,10:30 AM,$5.599,Apr 24,11:14 AM,Bio-Fuels
-Richboro,COSTCO #1103,Costco,100 VETERANS WAY,"Warminster, PA",$3.859,Apr 25,02:19 PM,,,,Convenience Store/Grocery Store
+Richboro,COSTCO #1103,Costco,100 VETERANS WAY,"Warminster, PA",$3.889,Apr 25,07:49 PM,,,,Convenience Store/Grocery Store
 Richboro,Jacksonville Food Mart,Unbranded,40 E STREET RD,"Warminster , PA",$3.899,Apr 24,03:42 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
 Richboro,GAS N GO-WEIS MARKETS,Gas N Go (Weis),2100 COUNTY LINE RD,"Huntingdon Valley, PA",$3.899,Apr 24,04:36 PM,,,,
 Richboro,WEIS MARKETS,Gas N Go (Weis),1133 YORK RD,"Warminster, PA",$3.899,Apr 25,12:33 PM,,,,
 Richboro,SUNOCO,Sunoco,555 N YORK RD,"Hatboro , PA",$3.899,Apr 25,01:21 PM,,,,Bio-Fuels
 Richboro,United Southampton,Unbranded,17 STREET RD,"Southampton , PA",$3.959,Apr 25,12:00 PM,$5.559,Apr 24,04:05 PM,Bio-Fuels
 Richboro,DICK AND RIPS TRUCK AND AUTO REPAIR,Exxon,299 E STREET RD,"Warminster , PA",$3.959,Apr 24,06:26 AM,,,,"Bio-Fuels, Repairs"
-Richboro,GIANT #6095,Giant (Ahold),466 2ND STREET PIKE,"Southampton , PA",$3.959,Apr 25,06:10 AM,,,,Convenience Store/Grocery Store
-Richboro,SUNOCO,Sunoco,20 2ND STREET PIKE,"Southampton , PA",$3.959,Apr 25,01:44 PM,$5.899,Apr 25,12:42 PM,"Bio-Fuels, Repairs"
-Richboro,Wawa #8216,Wawa,25 2ND STREET PIKE,"Southampton , PA",$3.959,Apr 24,01:43 PM,$5.899,Apr 24,06:50 AM,
-Richboro,SUNOCO,Sunoco,300 E STREET RD,"Feasterville Trevose , PA",$3.959,Apr 25,10:03 AM,$5.799,Apr 24,10:11 AM,"Bio-Fuels, Convenience Store/Grocery Store"
-Richboro,WAWA #8022,Wawa,1937 YORK RD,"Jamison, PA",$3.979,Apr 25,11:37 AM,$5.899,Apr 25,07:10 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Richboro,7-ELEVEN #40097,7-Eleven,999 2ND STREET PIKE,"Richboro , PA",$3.999,Apr 25,01:49 PM,$5.899,Apr 25,11:15 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Richboro,WAWA #8121,Wawa,870 2ND STREET PIKE,"Richboro , PA",$3.999,Apr 25,01:46 PM,$5.899,Apr 24,01:20 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Richboro,SUNOCO,Sunoco,20 2ND STREET PIKE,"Southampton , PA",$3.959,Apr 25,05:48 PM,$5.899,Apr 25,12:42 PM,"Bio-Fuels, Repairs"
+Richboro,Wawa #8216,Wawa,25 2ND STREET PIKE,"Southampton , PA",$3.959,Apr 25,04:00 PM,$5.899,Apr 25,04:00 PM,
+Richboro,WAWA #8022,Wawa,1937 YORK RD,"Jamison, PA",$3.979,Apr 25,06:05 PM,$5.899,Apr 25,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Richboro,7-ELEVEN #40097,7-Eleven,999 2ND STREET PIKE,"Richboro , PA",$3.999,Apr 25,07:09 PM,$5.899,Apr 25,11:15 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Richboro,WAWA #8121,Wawa,870 2ND STREET PIKE,"Richboro , PA",$3.999,Apr 25,05:30 PM,$5.899,Apr 25,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Richboro,RICHBORO FUELS,Liberty,778 2ND STREET PIKE,"Richboro , PA",$3.999,Apr 24,09:30 AM,,,,Repairs
 Richboro,SUNOCO,Sunoco,890 E STREET RD,"Warminster , PA",$3.999,Apr 24,03:43 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
 Richboro,SPEEDWAY #6805,Speedway,724 STREET RD,"Southampton , PA",$3.999,Apr 25,11:15 AM,$5.899,Apr 25,11:15 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
 Richboro,DICK AND RIPS HOLLAND SUNOCO,Sunoco,287 HOLLAND RD,"Southampton , PA",$3.999,Apr 25,08:24 AM,,,,Repairs
-Richboro,Sunoco,Sunoco,190 W STREET RD,"Feasterville Trevose, PA",$3.999,Apr 25,01:37 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Richboro,WAWA #149,Wawa,10 DAVISVILLE RD,"Warminster, PA",$3.999,Apr 25,01:51 PM,$5.899,Apr 25,11:33 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Richboro,WAWA #8136,Wawa,929 BUSTLETON PK,"Feasterville Trevose, PA",$3.999,Apr 25,02:25 PM,$5.899,Apr 25,10:21 AM,"Open 24 Hours, Convenience Store/Grocery Store"
+Richboro,GIANT #6095,Giant (Ahold),466 2ND STREET PIKE,"Southampton , PA",$3.999,Apr 25,06:00 PM,,,,Convenience Store/Grocery Store
+Richboro,Sunoco,Sunoco,190 W STREET RD,"Feasterville Trevose, PA",$3.999,Apr 25,04:32 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Richboro,WAWA #149,Wawa,10 DAVISVILLE RD,"Warminster, PA",$3.999,Apr 25,04:10 PM,$5.899,Apr 25,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Richboro,WAWA #8136,Wawa,929 BUSTLETON PK,"Feasterville Trevose, PA",$3.999,Apr 25,04:15 PM,$5.899,Apr 25,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Richboro,SUNOCO,Sunoco,610 YORK RD,"Warminster, PA",$3.999,Apr 25,09:26 AM,$5.859,Apr 24,04:42 PM,Convenience Store/Grocery Store
-Richboro,GIANT #6257,Giant (Ahold),720 W STREET RD,"Warminster , PA",$3.999,Apr 24,06:00 PM,,,,Convenience Store/Grocery Store
-Richboro,Shell,Shell,620 E BRISTOL RD,"Feasterville Trevose , PA",$4.079,Apr 25,11:26 AM,$5.809,Apr 24,12:21 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Richboro,Sunoco,Sunoco,2140 YORK RD,"Jamison, PA",$3.999,Apr 25,06:52 PM,,,,"Convenience Store/Grocery Store, Repairs"
+Richboro,SUNOCO,Sunoco,300 E STREET RD,"Feasterville Trevose , PA",$3.999,Apr 25,05:55 PM,$5.799,Apr 24,10:11 AM,"Bio-Fuels, Convenience Store/Grocery Store"
+Richboro,Shell,Shell,620 E BRISTOL RD,"Feasterville Trevose , PA",$4.079,Apr 25,12:13 PM,$5.809,Apr 24,12:21 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
 Richboro,Joe's Kwik Mart #1046,Joes Kwik Mart,1008 2ND STREET PIKE,"Richboro , PA",$4.099,Apr 25,01:10 PM,$5.899,Apr 24,04:10 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Richboro,STAR ENTERPIRSE,Shell,400 W STREET RD,"Warminster, PA",$4.099,Apr 24,03:31 PM,$5.859,Apr 24,01:04 PM,"Bio-Fuels, Convenience Store/Grocery Store"
-Richboro,LUKOIL,Lukoil,2 N SYCAMORE ST,"Newtown, PA",$4.099,Apr 24,03:46 PM,,,,
-Richboro,WAWA #8055,Wawa,555 W STREET RD,"Warminster, PA",$4.099,Apr 25,01:59 PM,$5.859,Apr 25,12:13 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Richboro,SUNOCO,Sunoco,549 WASHINGTON AVE,"Newtown, PA",$4.099,Apr 25,12:39 PM,,,,Repairs
-Richboro,A PLUS MINI MARKET,A Plus,3250 E COUNTY LINE RD,"Hatboro , PA",$4.259,Apr 25,02:15 PM,$5.999,Apr 25,02:21 PM,"Bio-Fuels, Convenience Store/Grocery Store"
-Richboro,Sunoco,Sunoco,2140 YORK RD,"Jamison, PA",$4.299,Apr 25,12:09 PM,,,,"Convenience Store/Grocery Store, Repairs"
-Richboro,LEHIGH GAS CORPORATI,Shell,19 N SYCAMORE ST,"Newtown , PA",$4.399,Apr 25,12:48 PM,,,,
+Richboro,LUKOIL,Lukoil,2 N SYCAMORE ST,"Newtown, PA",$4.099,Apr 25,07:14 PM,,,,
+Richboro,WAWA #8055,Wawa,555 W STREET RD,"Warminster, PA",$4.099,Apr 25,05:59 PM,$5.859,Apr 25,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Richboro,GIANT #6257,Giant (Ahold),720 W STREET RD,"Warminster , PA",$4.099,Apr 25,06:00 PM,,,,Convenience Store/Grocery Store
+Richboro,SUNOCO,Sunoco,549 WASHINGTON AVE,"Newtown, PA",$4.099,Apr 25,06:33 PM,,,,Repairs
+Richboro,A PLUS MINI MARKET,A Plus,3250 E COUNTY LINE RD,"Hatboro , PA",$4.259,Apr 25,07:05 PM,$5.999,Apr 25,02:21 PM,"Bio-Fuels, Convenience Store/Grocery Store"
+Richboro,LEHIGH GAS CORPORATI,Shell,19 N SYCAMORE ST,"Newtown , PA",$4.399,Apr 25,01:47 PM,,,,
 Richboro,FERINO BROS SERVICE,Shell,2603 WINDY BUSH RD,"Newtown , PA",$4.499,Apr 25,12:39 PM,,,,"Bio-Fuels, Repairs"
-Richboro,BP,BP,810 DURHAM RD,"Newtown , PA",$4.499,Apr 25,08:13 AM,,,,"Bio-Fuels, Repairs"
+Richboro,BP,BP,810 DURHAM RD,"Newtown , PA",$4.499,Apr 25,02:16 PM,,,,"Bio-Fuels, Repairs"
