@@ -2,19 +2,19 @@ search_place,station,brand,street,city_state_zip,regular_price,regular_price_dat
 Ivyland,COUNTRY FARMS,Unbranded,287 YORK RD,"Warminster , PA",$3.849,Apr 26,12:44 PM,,,,Convenience Store/Grocery Store
 Ivyland,DELTA,Delta,288 YORK RD,"Warminster , PA",$3.849,Apr 26,04:54 AM,,,,Bio-Fuels
 Ivyland,SHELL,Shell,2818 EASTON RD,"Willow Grove , PA",$3.879,Apr 26,05:58 PM,,,,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Ivyland,SAMS CLUB #6676,Sams Club,3925 WELSH RD,"Willow Grove , PA",$3.889,Apr 26,11:47 AM,,,,Convenience Store/Grocery Store
 Ivyland,Jacksonville Food Mart,Unbranded,40 E STREET RD,"Warminster , PA",$3.899,Apr 26,07:51 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
 Ivyland,SUNOCO,Sunoco,555 N YORK RD,"Hatboro , PA",$3.899,Apr 26,06:25 PM,,,,Bio-Fuels
 Ivyland,GAS N GO-WEIS MARKETS,Gas N Go (Weis),2100 COUNTY LINE RD,"Huntingdon Valley, PA",$3.899,Apr 24,04:36 PM,,,,
 Ivyland,CONOCO,Conoco,714 EASTON RD,"Willow Grove, PA",$3.939,Apr 26,03:23 PM,$5.699,Apr 25,10:30 AM,"Bio-Fuels, Repairs"
 Ivyland,WAWA #8063,Wawa,201 YORK RD,"Willow Grove, PA",$3.939,Apr 26,04:00 PM,$5.799,Apr 26,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Ivyland,COSTCO #1103,Costco,100 VETERANS WAY,"Warminster, PA",$3.959,Apr 26,07:48 PM,,,,Convenience Store/Grocery Store
+Ivyland,COSTCO #1103,Costco,100 VETERANS WAY,"Warminster, PA",$3.959,Apr 26,08:19 PM,,,,Convenience Store/Grocery Store
 Ivyland,DICK AND RIPS TRUCK AND AUTO REPAIR,Exxon,299 E STREET RD,"Warminster , PA",$3.959,Apr 26,08:38 AM,,,,"Bio-Fuels, Repairs"
 Ivyland,United Southampton,Unbranded,17 STREET RD,"Southampton , PA",$3.959,Apr 26,02:22 PM,,,,Bio-Fuels
-Ivyland,WAWA #285,Wawa,1510 EASTON RD,"Horsham, PA",$3.959,Apr 26,07:36 PM,$5.899,Apr 26,04:00 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
+Ivyland,WAWA #285,Wawa,1510 EASTON RD,"Horsham, PA",$3.959,Apr 26,08:12 PM,$5.899,Apr 26,04:00 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
 Ivyland,SUNOCO,Sunoco,20 2ND STREET PIKE,"Southampton , PA",$3.959,Apr 26,05:22 PM,$5.899,Apr 26,02:23 PM,"Bio-Fuels, Repairs"
 Ivyland,Wawa #8216,Wawa,25 2ND STREET PIKE,"Southampton , PA",$3.959,Apr 26,04:00 PM,$5.899,Apr 26,04:00 PM,
-Ivyland,WAWA #8022,Wawa,1937 YORK RD,"Jamison, PA",$3.979,Apr 26,07:10 PM,$5.899,Apr 26,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Ivyland,SAMS CLUB #6676,Sams Club,3925 WELSH RD,"Willow Grove , PA",$3.959,Apr 26,08:03 PM,,,,Convenience Store/Grocery Store
+Ivyland,WAWA #8022,Wawa,1937 YORK RD,"Jamison, PA",$3.979,Apr 26,08:06 PM,$5.899,Apr 26,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Ivyland,US GAS,US Gas,982 EASTON RD,"Horsham , PA",$3.979,Apr 24,12:22 PM,,,,Convenience Store/Grocery Store
 Ivyland,Sunoco,Sunoco,2500 EASTON RD,"Willow Grove , PA",$3.979,Apr 26,06:42 PM,,,,Convenience Store/Grocery Store
 Ivyland,SUNOCO,Sunoco,610 YORK RD,"Warminster, PA",$3.999,Apr 26,12:10 PM,,,,Convenience Store/Grocery Store
@@ -29,7 +29,7 @@ Ivyland,WAWA #8122,Wawa,412 S YORK RD,"Hatboro, PA",$3.999,Apr 26,04:34 PM,$5.85
 Ivyland,WAWA #8121,Wawa,870 2ND STREET PIKE,"Richboro , PA",$3.999,Apr 26,05:55 PM,$5.899,Apr 26,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Ivyland,7-ELEVEN #40097,7-Eleven,999 2ND STREET PIKE,"Richboro , PA",$3.999,Apr 26,01:10 PM,$5.899,Apr 26,11:15 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
 Ivyland,Sunoco,Sunoco,300 EASTON RD,"Horsham, PA",$3.999,Apr 26,10:55 AM,,,,Convenience Store/Grocery Store
-Ivyland,Wawa #8117,Wawa,550 Easton Rd,"Warrington, PA",$3.999,Apr 26,07:35 PM,$5.879,Apr 26,04:00 PM,Convenience Store/Grocery Store
+Ivyland,Wawa #8117,Wawa,550 Easton Rd,"Warrington, PA",$3.999,Apr 26,08:04 PM,$5.879,Apr 26,04:00 PM,Convenience Store/Grocery Store
 Ivyland,WAWA #8088,Wawa,101 EASTON RD,"Horsham, PA",$3.999,Apr 26,07:01 PM,$5.799,Apr 26,04:52 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Ivyland,WAWA #271,Wawa,535 HORSHAM RD,"Horsham, PA",$3.999,Apr 26,04:00 PM,$5.899,Apr 26,04:00 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
 Ivyland,SPARTA,Unbranded,1233 EASTON RD,"Warrington, PA",$3.999,Apr 26,09:05 AM,,,,
