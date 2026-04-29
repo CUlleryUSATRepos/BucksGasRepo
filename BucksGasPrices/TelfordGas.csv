@@ -1,21 +1,21 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Telford,BERGEYS,Unbranded,436 HARLEYSVILLE PIKE,"Souderton , PA",$4.159,Apr 29,07:13 AM,$5.759,Apr 29,07:28 AM,"Open 24 Hours, Bio-Fuels, Repairs"
-Telford,MOYER AND SONS,Unbranded,113 E RELIANCE RD,"Souderton , PA",$4.219,Apr 29,05:28 AM,$5.479,Apr 28,04:04 PM,Bio-Fuels
-Telford,SUNOCO,Sunoco,303 HARLEYSVILLE PIKE,"Souderton , PA",$4.259,Apr 29,06:47 AM,,,,
-Telford,CIRCLE K,Circle K,403 N MAIN ST,"Telford, PA",$4.299,Apr 29,07:55 AM,,,,Convenience Store/Grocery Store
-Telford,SUNOCO,Sunoco,672 E BROAD ST,"Souderton , PA",$4.299,Apr 29,07:42 AM,,,,Convenience Store/Grocery Store
-Telford,Sunoco,Sunoco,4802 OLD BETHLEHEM PIKE,"Telford , PA",$4.359,Apr 29,06:54 AM,$5.739,Apr 29,07:34 AM,Bio-Fuels
-Telford,BODKINS SUNOCO,Sunoco,928 LAWN AVE,"Sellersville, PA",$4.359,Apr 29,01:55 AM,,,,
+Telford,MOYER AND SONS,Unbranded,113 E RELIANCE RD,"Souderton , PA",$4.119,Apr 29,09:51 AM,$5.759,Apr 29,12:23 PM,Bio-Fuels
+Telford,BERGEYS,Unbranded,436 HARLEYSVILLE PIKE,"Souderton , PA",$4.159,Apr 29,11:40 AM,$5.759,Apr 29,12:17 PM,"Open 24 Hours, Bio-Fuels, Repairs"
+Telford,SUNOCO,Sunoco,303 HARLEYSVILLE PIKE,"Souderton , PA",$4.259,Apr 29,10:12 AM,,,,
+Telford,CIRCLE K,Circle K,403 N MAIN ST,"Telford, PA",$4.299,Apr 29,11:03 AM,,,,Convenience Store/Grocery Store
+Telford,SUNOCO,Sunoco,672 E BROAD ST,"Souderton , PA",$4.299,Apr 29,01:20 PM,,,,Convenience Store/Grocery Store
+Telford,Sunoco,Sunoco,4802 OLD BETHLEHEM PIKE,"Telford , PA",$4.359,Apr 29,01:47 PM,$5.739,Apr 29,12:14 PM,Bio-Fuels
+Telford,BODKINS SUNOCO,Sunoco,928 LAWN AVE,"Sellersville, PA",$4.359,Apr 29,10:27 AM,,,,
 Telford,SELLERSVILLE GULF,Gulf,396 N MAIN ST,"Sellersville , PA",$4.359,Apr 29,04:49 AM,,,,Convenience Store/Grocery Store
 Telford,US GAS,Unbranded,401 E WALNUT ST,"Perkasie , PA",$4.359,Apr 28,05:33 PM,,,,Repairs
-Telford,Sunoco,Sunoco,495 MAIN ST,"Harleysville, PA",$4.359,Apr 28,05:55 PM,,,,Repairs
-Telford,Uni-Mart,Uni-Mart,590 MAIN ST,"Harleysville , PA",$4.359,Apr 29,07:46 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Telford,SUNOCO,Sunoco,161 MAIN ST,"Harleysville , PA",$4.359,Apr 29,07:47 AM,$5.699,Apr 29,07:50 AM,"Bio-Fuels, Convenience Store/Grocery Store"
-Telford,GIANT #6018,Giant (Ahold),786 ROUTE 113,"Souderton , PA",$4.399,Apr 28,02:54 PM,,,,
-Telford,WAWA #8008,Wawa,3520 BETHLEHEM PIKE,"Souderton, PA",$4.399,Apr 29,07:54 AM,$5.899,Apr 29,07:44 AM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
-Telford,WAWA #8056,Wawa,2480 BETHLEHEM PIKE,"Hatfield, PA",$4.399,Apr 29,07:40 AM,$5.899,Apr 29,07:55 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Telford,GIANT #6445,Giant (Ahold),1540 COWPATH RD,"Hatfield , PA",$4.399,Apr 29,06:10 AM,,,,Convenience Store/Grocery Store
-Telford,WAWA #8050,Wawa,200 FORTY FOOT RD,"Hatfield, PA",$4.399,Apr 29,07:50 AM,$5.879,Apr 29,07:47 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Telford,A PLUS MINI MARKET,A Plus,1501 BETHLEHEM PIKE,"Line Lexington , PA",$4.399,Apr 29,07:00 AM,$5.999,Apr 29,07:34 AM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food, Bio-Fuels"
-Telford,ROYAL FARMS #240,Royal Farms,935 BETHLEHEM PIKE,"Colmar, PA",$4.399,Apr 29,07:45 AM,$5.899,Apr 28,05:42 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
-Telford,WAWA #8135,Wawa,201 MAIN ST,"Harleysville, PA",$4.399,Apr 29,07:54 AM,$5.899,Apr 29,07:51 AM,"Open 24 Hours, Convenience Store/Grocery Store"
+Telford,Sunoco,Sunoco,495 MAIN ST,"Harleysville, PA",$4.359,Apr 29,09:26 AM,,,,Repairs
+Telford,Uni-Mart,Uni-Mart,590 MAIN ST,"Harleysville , PA",$4.359,Apr 29,01:53 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Telford,SUNOCO,Sunoco,161 MAIN ST,"Harleysville , PA",$4.359,Apr 29,01:35 PM,$5.699,Apr 29,12:48 PM,"Bio-Fuels, Convenience Store/Grocery Store"
+Telford,GIANT #6018,Giant (Ahold),786 ROUTE 113,"Souderton , PA",$4.399,Apr 29,01:21 PM,,,,
+Telford,WAWA #8008,Wawa,3520 BETHLEHEM PIKE,"Souderton, PA",$4.399,Apr 29,01:43 PM,$5.899,Apr 29,11:51 AM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
+Telford,WAWA #8056,Wawa,2480 BETHLEHEM PIKE,"Hatfield, PA",$4.399,Apr 29,01:42 PM,$5.899,Apr 29,11:32 AM,"Open 24 Hours, Convenience Store/Grocery Store"
+Telford,GIANT #6445,Giant (Ahold),1540 COWPATH RD,"Hatfield , PA",$4.399,Apr 29,11:00 AM,,,,Convenience Store/Grocery Store
+Telford,WAWA #8050,Wawa,200 FORTY FOOT RD,"Hatfield, PA",$4.399,Apr 29,01:44 PM,$5.879,Apr 29,01:31 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Telford,A PLUS MINI MARKET,A Plus,1501 BETHLEHEM PIKE,"Line Lexington , PA",$4.399,Apr 29,12:37 PM,$5.999,Apr 29,12:52 PM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food, Bio-Fuels"
+Telford,ROYAL FARMS #240,Royal Farms,935 BETHLEHEM PIKE,"Colmar, PA",$4.399,Apr 29,01:39 PM,$5.899,Apr 29,12:24 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
+Telford,WAWA #8135,Wawa,201 MAIN ST,"Harleysville, PA",$4.399,Apr 29,01:53 PM,$5.899,Apr 29,11:35 AM,"Open 24 Hours, Convenience Store/Grocery Store"
