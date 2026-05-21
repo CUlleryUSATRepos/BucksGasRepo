@@ -1,13 +1,11 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Woodbourne,Yardley Service Center,Unbranded,194 S MAIN ST,"Morrisville , PA",$4.159,May 18,06:08 PM,,,,Repairs
-Woodbourne,BRUCES AUTOMOTIVE,Liberty,3700 OXFORD VALLEY RD,"Levittown , PA",$4.299,May 20,04:03 PM,,,,
-Woodbourne,USA GAS,Unbranded,5901 MILL CREEK RD,"Levittown , PA",$4.359,May 18,07:21 PM,,,,Repairs
-Woodbourne,SUNOCO,Sunoco,2435 DURHAM RD,"Bristol , PA",$4.399,May 20,06:35 PM,,,,"Open 24 Hours, Bio-Fuels"
+Woodbourne,BRUCES AUTOMOTIVE,Liberty,3700 OXFORD VALLEY RD,"Levittown , PA",$4.299,May 20,09:50 PM,,,,
+Woodbourne,SUNOCO,Sunoco,2435 DURHAM RD,"Bristol , PA",$4.399,May 20,08:14 PM,,,,"Open 24 Hours, Bio-Fuels"
 Woodbourne,SUNOCO,Sunoco,652 BELLEVUE AVE,"Langhorne, PA",$4.439,May 20,07:45 AM,,,,Repairs
 Woodbourne,Shell,Shell,620 E BRISTOL RD,"Feasterville Trevose , PA",$4.479,May 20,06:17 PM,,,,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
 Woodbourne,Sunoco,Sunoco,907 W TRENTON AVE,"Morrisville , PA",$4.499,May 20,07:13 PM,$5.899,May 20,02:59 PM,"Bio-Fuels, Repairs"
 Woodbourne,FOODLE FARMS,Unbranded,1205 E LINCOLN HWY,"Langhorne, PA",$4.559,May 20,05:32 PM,$5.679,May 20,01:18 PM,"Bio-Fuels, Convenience Store/Grocery Store"
-Woodbourne,SUNOCO,Sunoco,999 W TRENTON AVE,"Morrisville , PA",$4.559,May 20,03:37 PM,,,,"Bio-Fuels, Repairs"
+Woodbourne,SUNOCO,Sunoco,999 W TRENTON AVE,"Morrisville , PA",$4.559,May 20,05:00 PM,,,,"Bio-Fuels, Repairs"
 Woodbourne,BENSALEM AUTO CARE,Conoco,3585 BRISTOL RD,"Bensalem, PA",$4.559,May 20,06:12 PM,,,,Repairs
 Woodbourne,GULF,Gulf,4362 NEW FALLS RD,"Levittown , PA",$4.579,May 20,05:28 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
 Woodbourne,SHELL,Shell,7011 NEW FALLS RD,"Levittown , PA",$4.599,May 20,04:41 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
@@ -17,27 +15,27 @@ Woodbourne,MILL CREEK GAS,Sunoco,7040 MILL CREEK RD,"Levittown , PA",$4.599,May 
 Woodbourne,BP,BP,3340 BRISTOL RD,"Bensalem , PA",$4.599,May 20,06:45 PM,$5.899,May 20,03:24 PM,"Open 24 Hours, Bio-Fuels, Repairs"
 Woodbourne,SUNOCO,Sunoco,1155 BRISTOL OXFORD VALLEY RD,"Levittown , PA",$4.639,May 20,05:31 PM,,,,"Bio-Fuels, Repairs"
 Woodbourne,Sunoco,Sunoco,111 E LINCOLN HWY,"Langhorne, PA",$4.639,May 20,06:13 PM,$5.729,May 20,05:05 PM,"Bio-Fuels, Convenience Store/Grocery Store"
-Woodbourne,Wawa #8159,Wawa,91 LOWER SILVER LAKE RD,"Newtown, PA",$4.639,May 20,06:31 PM,$5.799,May 20,05:29 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Woodbourne,NEW FALLS ROAD EXXON,Exxon,5300 NEW FALLS RD,"Levittown , PA",$4.639,May 20,05:33 PM,$5.779,May 20,05:53 AM,
-Woodbourne,Joe's Kwik Marts #383,Joes Kwik Mart,1266 OLD LINCOLN HWY,"Langhorne, PA",$4.659,May 20,05:46 PM,,,,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Woodbourne,WAWA #8020,Wawa,132 OXFORD VALLEY RD,"Langhorne, PA",$4.659,May 20,07:13 PM,$5.819,May 20,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Woodbourne,SHELL,Shell,236 LINCOLN HWY,"Fairless Hills, PA",$4.659,May 20,07:09 PM,$5.899,May 18,08:57 PM,"Bio-Fuels, Convenience Store/Grocery Store"
+Woodbourne,Wawa #8159,Wawa,91 LOWER SILVER LAKE RD,"Newtown, PA",$4.639,May 20,10:50 PM,$5.799,May 20,05:29 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Woodbourne,NEW FALLS ROAD EXXON,Exxon,5300 NEW FALLS RD,"Levittown , PA",$4.639,May 20,08:10 PM,$5.779,May 20,05:53 AM,
+Woodbourne,Joe's Kwik Marts #383,Joes Kwik Mart,1266 OLD LINCOLN HWY,"Langhorne, PA",$4.659,May 20,08:48 PM,,,,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Woodbourne,WAWA #8020,Wawa,132 OXFORD VALLEY RD,"Langhorne, PA",$4.659,May 21,12:36 AM,$5.819,May 20,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Woodbourne,SHELL,Shell,236 LINCOLN HWY,"Fairless Hills, PA",$4.659,May 20,07:09 PM,$5.899,May 19,08:44 PM,"Bio-Fuels, Convenience Store/Grocery Store"
 Woodbourne,WAWA #8157,Wawa,639 E LINCOLN HWY,"Langhorne, PA",$4.659,May 20,05:37 PM,$5.739,May 20,05:11 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Woodbourne,Wawa  #8168,Wawa,530 LINCOLN HWY,"Fairless Hills, PA",$4.659,May 20,07:31 PM,$5.899,May 20,07:37 PM,Convenience Store/Grocery Store
-Woodbourne,7-ELEVEN #32639,7-Eleven,527 W LINCOLN HWY,"Langhorne, PA",$4.659,May 20,04:16 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
-Woodbourne,WAWA #8004,Wawa,7625 NEW FALLS RD,"Levittown, PA",$4.659,May 20,06:33 PM,$5.849,May 20,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Woodbourne,Wawa  #8168,Wawa,530 LINCOLN HWY,"Fairless Hills, PA",$4.659,May 20,09:40 PM,$5.899,May 20,07:37 PM,Convenience Store/Grocery Store
+Woodbourne,7-ELEVEN #32639,7-Eleven,527 W LINCOLN HWY,"Langhorne, PA",$4.659,May 20,09:15 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
+Woodbourne,WAWA #8004,Wawa,7625 NEW FALLS RD,"Levittown, PA",$4.659,May 20,10:58 PM,$5.849,May 20,10:39 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Woodbourne,Wawa #8163,Wawa,3800 Bristol Oxford Valley Rd,"Levittown, PA",$4.659,May 20,06:14 PM,$5.779,May 20,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Woodbourne,WAWA #219,Wawa,3260 NEW RODGERS RD,"Bristol, PA",$4.659,May 20,05:07 PM,$5.859,May 20,04:00 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
-Woodbourne,WAWA #8076,Wawa,545 W TRENTON AVE,"Morrisville, PA",$4.659,May 20,07:07 PM,$5.899,May 20,07:28 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Woodbourne,Wawa #8127,Wawa,225 LEVITTOWN PARKWAY,"Bristol , PA",$4.659,May 20,07:03 PM,$5.849,May 20,04:00 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Repairs"
+Woodbourne,WAWA #219,Wawa,3260 NEW RODGERS RD,"Bristol, PA",$4.659,May 20,10:38 PM,$5.859,May 20,09:41 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
+Woodbourne,WAWA #8076,Wawa,545 W TRENTON AVE,"Morrisville, PA",$4.659,May 20,09:02 PM,$5.899,May 20,08:22 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Woodbourne,Wawa #8127,Wawa,225 LEVITTOWN PARKWAY,"Bristol , PA",$4.659,May 21,12:10 AM,$5.849,May 20,04:00 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Repairs"
 Woodbourne,LUKOIL,Lukoil,152 E MAPLE AVE,"Langhorne, PA",$4.679,May 20,10:15 AM,,,,Convenience Store/Grocery Store
-Woodbourne,Sunoco,Sunoco,61 OXFORD VALLEY RD,"Morrisville , PA",$4.699,May 20,05:36 PM,$6.399,May 20,07:26 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Woodbourne,EXXON,Exxon,123 N PINE ST,"Langhorne , PA",$4.699,May 20,04:50 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
+Woodbourne,Sunoco,Sunoco,61 OXFORD VALLEY RD,"Morrisville , PA",$4.699,May 20,10:28 PM,$6.399,May 20,07:26 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Woodbourne,EXXON,Exxon,123 N PINE ST,"Langhorne , PA",$4.699,May 20,09:03 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
 Woodbourne,SINCLAIR,Sinclair,452 S BELLEVUE AVE,"Langhorne, PA",$4.699,May 20,04:51 PM,,,,
 Woodbourne,BP,BP,1724 TRENTON RD,"Levittown , PA",$4.699,May 20,01:01 PM,,,,Repairs
 Woodbourne,SUNOCO,Sunoco,398 LINCOLN HWY,"Fairless Hills , PA",$4.699,May 20,03:50 PM,$5.999,May 20,06:23 AM,"Bio-Fuels, Repairs"
 Woodbourne,SUNOCO,Sunoco,549 WASHINGTON AVE,"Newtown, PA",$4.699,May 20,04:29 PM,,,,Repairs
-Woodbourne,A PLUS MINI MARKET,A Plus,8596 NEW FALLS RD,"Levittown , PA",$4.699,May 20,07:25 PM,$5.999,May 20,04:06 PM,"Bio-Fuels, Convenience Store/Grocery Store"
+Woodbourne,A PLUS MINI MARKET,A Plus,8596 NEW FALLS RD,"Levittown , PA",$4.699,May 20,10:44 PM,$5.999,May 20,04:06 PM,"Bio-Fuels, Convenience Store/Grocery Store"
 Woodbourne,BENSALEM TIGER MART,Exxon,5716 HULMEVILLE RD,"Bensalem , PA",$4.699,May 20,04:33 PM,,,,Convenience Store/Grocery Store
 Woodbourne,BP,BP,599 WASHINGTON CROSSING RD,"Newtown , PA",$4.699,May 20,06:27 PM,,,,"Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
 Woodbourne,BIG OAK CITGO,CITGO,812 BIG OAK RD,"Morrisville , PA",$4.709,May 20,06:55 PM,,,,Repairs
