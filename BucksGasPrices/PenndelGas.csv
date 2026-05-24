@@ -1,6 +1,6 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
 Penndel,BRUCES AUTOMOTIVE,Liberty,3700 OXFORD VALLEY RD,"Levittown , PA",$4.299,May 23,09:53 PM,,,,
-Penndel,GIANT #6324,Giant (Ahold),2391 DURHAM RD,"Levittown , PA",$4.359,May 23,06:00 PM,,,,Convenience Store/Grocery Store
+Penndel,GIANT #6324,Giant (Ahold),2391 DURHAM RD,"Levittown , PA",$4.359,May 24,06:10 AM,,,,Convenience Store/Grocery Store
 Penndel,SUNOCO,Sunoco,2435 DURHAM RD,"Bristol , PA",$4.359,May 23,05:38 PM,,,,"Open 24 Hours, Bio-Fuels"
 Penndel,USA GAS,Unbranded,5901 MILL CREEK RD,"Levittown , PA",$4.359,May 23,08:12 PM,,,,Repairs
 Penndel,G FUEL,Unbranded,455 BRISTOL PIKE,"Bristol , PA",$4.359,May 22,01:27 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
@@ -15,41 +15,41 @@ Penndel,GULF,Gulf,4362 NEW FALLS RD,"Levittown , PA",$4.539,May 22,04:18 PM,,,,"
 Penndel,NEW FALLS ROAD EXXON,Exxon,5300 NEW FALLS RD,"Levittown , PA",$4.539,May 23,01:43 PM,$5.759,May 22,11:33 AM,
 Penndel,Wawa #8163,Wawa,3800 Bristol Oxford Valley Rd,"Levittown, PA",$4.539,May 23,05:26 PM,$5.779,May 23,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Penndel,SHELL,Shell,7011 NEW FALLS RD,"Levittown , PA",$4.539,May 23,09:58 AM,$5.799,May 22,11:30 AM,"Bio-Fuels, Convenience Store/Grocery Store"
-Penndel,Shell,Shell,620 E BRISTOL RD,"Feasterville Trevose , PA",$4.539,May 23,05:24 PM,$5.759,May 23,11:54 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Penndel,Shell,Shell,620 E BRISTOL RD,"Feasterville Trevose , PA",$4.539,May 24,07:02 AM,$5.759,May 23,11:54 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
 Penndel,DICK AND RIPS HOLLAND SUNOCO,Sunoco,287 HOLLAND RD,"Southampton , PA",$4.539,May 23,01:55 PM,,,,Repairs
-Penndel,CORNWELLS HIEGHTS,Unbranded,1360 STREET RD,"Bensalem, PA",$4.539,May 23,06:22 PM,$5.799,May 22,06:46 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Penndel,Wawa #8127,Wawa,225 LEVITTOWN PARKWAY,"Bristol , PA",$4.539,May 23,08:10 PM,$5.849,May 23,04:00 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Repairs"
+Penndel,CORNWELLS HIEGHTS,Unbranded,1360 STREET RD,"Bensalem, PA",$4.539,May 23,06:22 PM,,,,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Penndel,Wawa #8127,Wawa,225 LEVITTOWN PARKWAY,"Bristol , PA",$4.539,May 24,07:34 AM,$5.849,May 24,06:01 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Repairs"
 Penndel,7-ELEVEN #32639,7-Eleven,527 W LINCOLN HWY,"Langhorne, PA",$4.559,May 23,09:16 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
-Penndel,WAWA #8157,Wawa,639 E LINCOLN HWY,"Langhorne, PA",$4.559,May 24,01:50 AM,$5.739,May 23,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Penndel,WAWA #8157,Wawa,639 E LINCOLN HWY,"Langhorne, PA",$4.559,May 24,01:50 AM,$5.739,May 24,06:35 AM,"Open 24 Hours, Convenience Store/Grocery Store"
 Penndel,BENSALEM AUTO CARE,Conoco,3585 BRISTOL RD,"Bensalem, PA",$4.559,May 23,07:16 PM,,,,Repairs
-Penndel,WAWA #8004,Wawa,7625 NEW FALLS RD,"Levittown, PA",$4.559,May 23,04:00 PM,$5.849,May 23,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Penndel,WAWA #8072,Wawa,3620 STREET RD,"Bensalem, PA",$4.559,May 24,12:47 AM,$5.799,May 23,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Penndel,WAWA #8004,Wawa,7625 NEW FALLS RD,"Levittown, PA",$4.559,May 24,07:24 AM,$5.849,May 23,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Penndel,WAWA #8072,Wawa,3620 STREET RD,"Bensalem, PA",$4.559,May 24,07:28 AM,$5.759,May 24,06:09 AM,"Open 24 Hours, Convenience Store/Grocery Store"
 Penndel,GIANT FUEL #6046,Giant (Ahold),2711 STREET RD,"Bensalem, PA",$4.559,May 23,06:00 PM,$5.799,May 23,06:00 PM,
 Penndel,WAWA #8075,Wawa,601 E STREET RD,"Feasterville Trevose, PA",$4.559,May 23,10:03 PM,$5.799,May 23,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Penndel,WAWA #268,Wawa,5900 BRISTOL PIKE,"Bristol, PA",$4.559,May 23,06:54 PM,$5.829,May 23,04:00 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
-Penndel,SUNOCO,Sunoco,300 E STREET RD,"Feasterville Trevose , PA",$4.559,May 23,02:57 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Penndel,SUNOCO,Sunoco,300 E STREET RD,"Feasterville Trevose , PA",$4.559,May 24,03:30 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
 Penndel,Sunoco,Sunoco,503 STATE RD,"Croydon , PA",$4.559,May 23,11:33 PM,$5.699,May 22,05:37 PM,"Bio-Fuels, Convenience Store/Grocery Store"
+Penndel,WAWA #8136,Wawa,929 BUSTLETON PK,"Feasterville Trevose, PA",$4.559,May 24,07:34 AM,$5.799,May 24,06:40 AM,"Open 24 Hours, Convenience Store/Grocery Store"
 Penndel,Joe's Kwik Marts #383,Joes Kwik Mart,1266 OLD LINCOLN HWY,"Langhorne, PA",$4.579,May 23,09:52 PM,,,,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Penndel,WAWA #219,Wawa,3260 NEW RODGERS RD,"Bristol, PA",$4.579,May 23,10:03 PM,$5.819,May 23,04:00 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
-Penndel,WAWA #8020,Wawa,132 OXFORD VALLEY RD,"Langhorne, PA",$4.579,May 23,10:09 PM,$5.819,May 23,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Penndel,SPEEDWAY #6729,Speedway,2919 STATE ROUTE 413,"Bristol , PA",$4.579,May 24,01:10 AM,$5.859,May 24,01:10 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Penndel,WAWA #219,Wawa,3260 NEW RODGERS RD,"Bristol, PA",$4.579,May 24,07:24 AM,$5.819,May 23,04:00 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
+Penndel,WAWA #8020,Wawa,132 OXFORD VALLEY RD,"Langhorne, PA",$4.579,May 24,06:01 AM,$5.819,May 23,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Penndel,SPEEDWAY #6729,Speedway,2919 STATE ROUTE 413,"Bristol , PA",$4.579,May 24,04:53 AM,$5.859,May 24,01:10 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
 Penndel,SINCLAIR,Sinclair,2030 STREET RD,"Bensalem , PA",$4.579,May 23,12:05 PM,,,,Convenience Store/Grocery Store
-Penndel,Wawa  #8168,Wawa,530 LINCOLN HWY,"Fairless Hills, PA",$4.579,May 23,10:36 PM,$5.899,May 23,04:00 PM,Convenience Store/Grocery Store
-Penndel,SINCLAIR,Sinclair,452 S BELLEVUE AVE,"Langhorne, PA",$4.599,May 23,06:31 PM,,,,
+Penndel,Wawa  #8168,Wawa,530 LINCOLN HWY,"Fairless Hills, PA",$4.579,May 24,06:17 AM,$5.899,May 23,04:00 PM,Convenience Store/Grocery Store
+Penndel,SINCLAIR,Sinclair,452 S BELLEVUE AVE,"Langhorne, PA",$4.599,May 24,02:51 AM,,,,
 Penndel,BP,BP,3340 BRISTOL RD,"Bensalem , PA",$4.599,May 23,10:31 PM,$5.899,May 23,11:32 AM,"Open 24 Hours, Bio-Fuels, Repairs"
 Penndel,A PLUS MINI MARKET,A Plus,3419 STREET RD,"Bensalem , PA",$4.599,May 23,03:10 PM,$5.899,May 22,09:36 AM,"Bio-Fuels, Convenience Store/Grocery Store"
-Penndel,A PLUS MINI MARKET,A Plus,8596 NEW FALLS RD,"Levittown , PA",$4.599,May 23,12:44 PM,$5.999,May 22,11:04 AM,"Bio-Fuels, Convenience Store/Grocery Store"
-Penndel,WAWA #277,Wawa,2250 LINCOLN HWY,"Feasterville Trevose, PA",$4.599,May 23,07:59 PM,$5.859,May 23,05:13 PM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
+Penndel,A PLUS MINI MARKET,A Plus,8596 NEW FALLS RD,"Levittown , PA",$4.599,May 24,06:01 AM,$5.999,May 22,11:04 AM,"Bio-Fuels, Convenience Store/Grocery Store"
+Penndel,WAWA #277,Wawa,2250 LINCOLN HWY,"Feasterville Trevose, PA",$4.599,May 24,04:00 AM,$5.859,May 23,05:13 PM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
 Penndel,A PLUS MINI MARKET,A Plus,231 ROUTE 13,"Bristol , PA",$4.599,May 23,07:28 PM,$5.899,May 22,03:11 PM,"Bio-Fuels, Repairs"
-Penndel,SUNOCO,Sunoco,398 LINCOLN HWY,"Fairless Hills , PA",$4.599,May 23,12:10 PM,$5.999,May 22,01:41 PM,"Bio-Fuels, Repairs"
-Penndel,WAWA #8107,Wawa,3111 STATE RD,"Bristol, PA",$4.599,May 23,07:25 PM,$5.739,May 23,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Penndel,WAWA #8136,Wawa,929 BUSTLETON PK,"Feasterville Trevose, PA",$4.599,May 23,05:49 PM,$5.799,May 23,07:32 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Penndel,A PLUS MINI MARKET,A Plus,1432 STREET RD,"Bensalem , PA",$4.599,May 23,10:14 PM,$5.899,May 22,03:29 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Penndel,SUNOCO,Sunoco,398 LINCOLN HWY,"Fairless Hills , PA",$4.599,May 24,07:51 AM,$5.999,May 22,01:41 PM,"Bio-Fuels, Repairs"
+Penndel,WAWA #8107,Wawa,3111 STATE RD,"Bristol, PA",$4.599,May 24,06:53 AM,$5.739,May 23,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Penndel,A PLUS MINI MARKET,A Plus,1432 STREET RD,"Bensalem , PA",$4.599,May 24,07:07 AM,$5.899,May 22,03:29 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
 Penndel,SUNOCO,Sunoco,1155 BRISTOL OXFORD VALLEY RD,"Levittown , PA",$4.639,May 23,07:41 AM,,,,"Bio-Fuels, Repairs"
 Penndel,SHELL,Shell,236 LINCOLN HWY,"Fairless Hills, PA",$4.659,May 23,05:14 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Penndel,A PLUS MINI MARKET,A Plus,2767 LINCOLN HWY,"Feasterville Trevose , PA",$4.659,May 23,08:18 PM,$5.899,May 23,01:56 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Bio-Fuels, Convenience Store/Grocery Store"
-Penndel,Shell,Shell,2506 LINCOLN HWY,"Feasterville Trevose, PA",$4.659,May 23,07:03 PM,,,,"Open 24 Hours, Bio-Fuels"
-Penndel,KNIGHTS ROAD,Conoco,2700 KNIGHTS RD,"Bensalem, PA",$4.659,May 22,07:08 PM,,,,Repairs
+Penndel,A PLUS MINI MARKET,A Plus,2767 LINCOLN HWY,"Feasterville Trevose , PA",$4.659,May 24,07:47 AM,$5.899,May 23,01:56 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Bio-Fuels, Convenience Store/Grocery Store"
+Penndel,Shell,Shell,2506 LINCOLN HWY,"Feasterville Trevose, PA",$4.659,May 24,05:45 AM,,,,"Open 24 Hours, Bio-Fuels"
+Penndel,KNIGHTS ROAD,Conoco,2700 KNIGHTS RD,"Bensalem, PA",$4.659,May 24,05:08 AM,,,,Repairs
 Penndel,SUNOCO,Sunoco,7000 BRISTOL PIKE,"Levittown, PA",$4.659,May 22,12:34 PM,$5.789,May 22,10:24 AM,"Bio-Fuels, Repairs"
 Penndel,LUKOIL,Lukoil,152 E MAPLE AVE,"Langhorne, PA",$4.679,May 22,09:03 AM,,,,Convenience Store/Grocery Store
 Penndel,BP,BP,1724 TRENTON RD,"Levittown , PA",$4.699,May 22,09:03 AM,,,,Repairs
