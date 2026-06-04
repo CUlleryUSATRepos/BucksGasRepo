@@ -1,14 +1,15 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
+Morrisville,Yardley Service Center,Unbranded,194 S MAIN ST,"Morrisville , PA",$4.159,Jun 03,05:32 PM,,,,Repairs
 Morrisville,GULF,Gulf,2 W BRIDGE ST,"Morrisville, PA",$4.199,Jun 03,10:58 AM,,,,"Convenience Store/Grocery Store, Repairs"
 Morrisville,MORRISVILLE FUELS,Unbranded,299 W TRENTON AVE,"Morrisville , PA",$4.199,Jun 03,07:21 AM,,,,Convenience Store/Grocery Store
 Morrisville,Sunoco,Sunoco,907 W TRENTON AVE,"Morrisville , PA",$4.299,Jun 03,01:01 PM,$5.499,Jun 02,07:32 AM,"Bio-Fuels, Repairs"
-Morrisville,SUNOCO,Sunoco,999 W TRENTON AVE,"Morrisville , PA",$4.299,Jun 03,12:16 PM,,,,"Bio-Fuels, Repairs"
-Morrisville,A PLUS MINI MARKET,A Plus,8596 NEW FALLS RD,"Levittown , PA",$4.299,Jun 03,01:49 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Morrisville,Wawa  #8168,Wawa,530 LINCOLN HWY,"Fairless Hills, PA",$4.319,Jun 03,01:44 PM,$5.649,Jun 03,12:39 PM,Convenience Store/Grocery Store
-Morrisville,SUNOCO,Sunoco,398 LINCOLN HWY,"Fairless Hills , PA",$4.359,Jun 03,01:18 PM,$5.999,Jun 03,05:33 AM,"Bio-Fuels, Repairs"
-Morrisville,SHELL,Shell,236 LINCOLN HWY,"Fairless Hills, PA",$4.369,Jun 03,01:44 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Morrisville,RAJS MINI MART,Sunoco,509 S PENNSYLVANIA AVE,"Morrisville, PA",$4.399,Jun 03,11:40 AM,$5.699,Jun 03,11:36 AM,"Bio-Fuels, Convenience Store/Grocery Store"
-Morrisville,BIG OAK CITGO,CITGO,812 BIG OAK RD,"Morrisville , PA",$4.459,Jun 03,12:49 PM,,,,Repairs
-Morrisville,WAWA #8076,Wawa,545 W TRENTON AVE,"Morrisville, PA",$4.499,Jun 03,01:23 PM,$5.759,Jun 03,10:34 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Morrisville,SITKOS REPAIR SERVICE,CITGO,40 E AFTON AVE,"Morrisville , PA",$4.649,Jun 03,08:50 AM,,,,Repairs
-Morrisville,Sunoco,Sunoco,61 OXFORD VALLEY RD,"Morrisville , PA",$4.699,Jun 03,01:48 PM,$6.399,Jun 03,12:05 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Morrisville,SUNOCO,Sunoco,999 W TRENTON AVE,"Morrisville , PA",$4.299,Jun 03,04:49 PM,,,,"Bio-Fuels, Repairs"
+Morrisville,A PLUS MINI MARKET,A Plus,8596 NEW FALLS RD,"Levittown , PA",$4.299,Jun 03,05:45 PM,$5.899,Jun 03,02:50 PM,"Bio-Fuels, Convenience Store/Grocery Store"
+Morrisville,Wawa  #8168,Wawa,530 LINCOLN HWY,"Fairless Hills, PA",$4.319,Jun 03,07:04 PM,$5.649,Jun 03,07:48 PM,Convenience Store/Grocery Store
+Morrisville,SUNOCO,Sunoco,398 LINCOLN HWY,"Fairless Hills , PA",$4.359,Jun 03,05:07 PM,$5.999,Jun 03,05:33 AM,"Bio-Fuels, Repairs"
+Morrisville,SHELL,Shell,236 LINCOLN HWY,"Fairless Hills, PA",$4.359,Jun 03,07:42 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Morrisville,RAJS MINI MART,Sunoco,509 S PENNSYLVANIA AVE,"Morrisville, PA",$4.399,Jun 03,06:27 PM,$5.699,Jun 03,05:20 PM,"Bio-Fuels, Convenience Store/Grocery Store"
+Morrisville,WAWA #8076,Wawa,545 W TRENTON AVE,"Morrisville, PA",$4.399,Jun 03,06:45 PM,$5.759,Jun 03,04:03 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Morrisville,BIG OAK CITGO,CITGO,812 BIG OAK RD,"Morrisville , PA",$4.459,Jun 03,03:51 PM,,,,Repairs
+Morrisville,SITKOS REPAIR SERVICE,CITGO,40 E AFTON AVE,"Morrisville , PA",$4.649,Jun 03,04:13 PM,,,,Repairs
+Morrisville,Sunoco,Sunoco,61 OXFORD VALLEY RD,"Morrisville , PA",$4.699,Jun 03,06:20 PM,$6.399,Jun 03,06:17 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
