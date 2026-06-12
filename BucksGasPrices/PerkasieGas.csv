@@ -1,16 +1,16 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Perkasie,JOES KWIK MARTS #1048,Joes Kwik Mart,515 DUBLIN PIKE,"Perkasie , PA",$3.949,Jun 11,01:39 PM,$5.349,Jun 10,06:40 PM,"Bio-Fuels, Convenience Store/Grocery Store"
-Perkasie,STANS STOP,Unbranded,501 ROUTE 313,"Perkasie , PA",$3.999,Jun 11,07:39 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Perkasie,WAWA #8139,Wawa,320 W ROUTE 313,"Perkasie , PA",$3.999,Jun 11,01:49 PM,$5.399,Jun 11,11:44 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Perkasie,WEIS MARKETS,Gas N Go (Weis),431 W DUBLIN PIKE,"Perkasie, PA",$3.999,Jun 09,07:44 PM,$5.399,Jun 10,07:49 AM,
+Perkasie,STANS STOP,Unbranded,501 ROUTE 313,"Perkasie , PA",$3.939,Jun 11,02:22 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Perkasie,JOES KWIK MARTS #1048,Joes Kwik Mart,515 DUBLIN PIKE,"Perkasie , PA",$3.949,Jun 11,06:58 PM,$5.349,Jun 10,06:40 PM,"Bio-Fuels, Convenience Store/Grocery Store"
+Perkasie,WAWA #8139,Wawa,320 W ROUTE 313,"Perkasie , PA",$3.949,Jun 11,06:49 PM,$5.399,Jun 11,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Perkasie,WEIS MARKETS,Gas N Go (Weis),431 W DUBLIN PIKE,"Perkasie, PA",$3.949,Jun 11,07:40 PM,$5.399,Jun 10,07:49 AM,
 Perkasie,SUNOCO,Sunoco,303 HARLEYSVILLE PIKE,"Souderton , PA",$3.999,Jun 11,11:21 AM,,,,
-Perkasie,Sunoco,Sunoco,4802 OLD BETHLEHEM PIKE,"Telford , PA",$4.059,Jun 11,01:33 PM,$5.279,Jun 11,12:41 PM,Bio-Fuels
-Perkasie,CIRCLE K,Circle K,403 N MAIN ST,"Telford, PA",$4.059,Jun 11,12:31 PM,,,,Convenience Store/Grocery Store
-Perkasie,GIANT #6018,Giant (Ahold),786 ROUTE 113,"Souderton , PA",$4.099,Jun 11,12:51 PM,,,,
-Perkasie,WAWA #8008,Wawa,3520 BETHLEHEM PIKE,"Souderton, PA",$4.099,Jun 11,01:30 PM,$5.399,Jun 11,12:20 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
-Perkasie,SELLERSVILLE GULF,Gulf,396 N MAIN ST,"Sellersville , PA",$4.159,Jun 11,09:23 AM,,,,Convenience Store/Grocery Store
-Perkasie,WAWA #272,Wawa,1095 S WEST END BLVD,"Quakertown, PA",$4.179,Jun 11,01:45 PM,$5.449,Jun 11,01:14 PM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
-Perkasie,BODKINS SUNOCO,Sunoco,928 LAWN AVE,"Sellersville, PA",$4.199,Jun 11,01:45 PM,,,,
-Perkasie,SUNOCO,Sunoco,672 E BROAD ST,"Souderton , PA",$4.199,Jun 11,08:50 AM,,,,Convenience Store/Grocery Store
-Perkasie,MOYER AND SONS,Unbranded,113 E RELIANCE RD,"Souderton , PA",$4.199,Jun 11,11:00 AM,$5.629,Jun 11,12:52 PM,Bio-Fuels
+Perkasie,SELLERSVILLE GULF,Gulf,396 N MAIN ST,"Sellersville , PA",$4.059,Jun 11,05:51 PM,,,,Convenience Store/Grocery Store
+Perkasie,Sunoco,Sunoco,4802 OLD BETHLEHEM PIKE,"Telford , PA",$4.059,Jun 11,05:25 PM,$5.279,Jun 11,05:54 PM,Bio-Fuels
+Perkasie,CIRCLE K,Circle K,403 N MAIN ST,"Telford, PA",$4.059,Jun 11,06:18 PM,,,,Convenience Store/Grocery Store
+Perkasie,GIANT #6018,Giant (Ahold),786 ROUTE 113,"Souderton , PA",$4.099,Jun 11,06:00 PM,,,,
+Perkasie,WAWA #8008,Wawa,3520 BETHLEHEM PIKE,"Souderton, PA",$4.099,Jun 11,06:28 PM,$5.399,Jun 11,04:00 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
+Perkasie,MOYER AND SONS,Unbranded,113 E RELIANCE RD,"Souderton , PA",$4.169,Jun 11,03:04 PM,$5.349,Jun 11,05:04 PM,Bio-Fuels
+Perkasie,WAWA #272,Wawa,1095 S WEST END BLVD,"Quakertown, PA",$4.179,Jun 11,06:53 PM,$5.449,Jun 11,07:02 PM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
+Perkasie,BODKINS SUNOCO,Sunoco,928 LAWN AVE,"Sellersville, PA",$4.199,Jun 11,05:54 PM,,,,
+Perkasie,SUNOCO,Sunoco,672 E BROAD ST,"Souderton , PA",$4.199,Jun 11,04:00 PM,,,,Convenience Store/Grocery Store
 Perkasie,US GAS,Unbranded,401 E WALNUT ST,"Perkasie , PA",$4.259,Jun 11,11:27 AM,,,,Repairs
