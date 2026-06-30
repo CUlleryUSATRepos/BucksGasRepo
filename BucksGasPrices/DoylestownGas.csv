@@ -1,20 +1,20 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Doylestown,United,Unbranded,1405 LOWER STATE RD,"Doylestown , PA",$3.659,Jun 29,01:00 PM,,,,Repairs
+Doylestown,United,Unbranded,1405 LOWER STATE RD,"Doylestown , PA",$3.659,Jun 29,02:41 PM,,,,Repairs
 Doylestown,LUKOIL,Lukoil,1400 EASTON RD,"Warrington , PA",$3.759,Jun 27,02:40 PM,,,,Convenience Store/Grocery Store
-Doylestown,SPARTA,Unbranded,1233 EASTON RD,"Warrington, PA",$3.779,Jun 29,01:47 PM,$5.179,Jun 29,11:19 AM,
-Doylestown,SHELL,Shell,4247 W SWAMP RD,"Doylestown, PA",$3.799,Jun 29,12:45 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Doylestown,LUKOIL,Lukoil,440 E SWAMP RD,"Doylestown, PA",$3.799,Jun 29,08:33 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Doylestown,SHELL,Shell,1807 S EASTON RD,"Doylestown , PA",$3.799,Jun 29,11:26 AM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
-Doylestown,S&P Oil,Sunoco,1770 S EASTON RD,"Doylestown , PA",$3.829,Jun 29,11:29 AM,$4.829,Jun 29,12:11 PM,"Bio-Fuels, Repairs"
+Doylestown,SPARTA,Unbranded,1233 EASTON RD,"Warrington, PA",$3.779,Jun 29,06:39 PM,$5.179,Jun 29,11:19 AM,
+Doylestown,LIBERTY MAIN,Liberty,235 N MAIN ST,"Doylestown , PA",$3.799,Jun 29,06:47 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store, Repairs"
+Doylestown,GLOBAL,Global,3611 N EASTON RD,"Doylestown , PA",$3.799,Jun 29,04:12 PM,,,,Convenience Store/Grocery Store
+Doylestown,SHELL,Shell,4247 W SWAMP RD,"Doylestown, PA",$3.799,Jun 29,04:38 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Doylestown,LUKOIL,Lukoil,440 E SWAMP RD,"Doylestown, PA",$3.799,Jun 29,01:59 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Doylestown,SHELL,Shell,1807 S EASTON RD,"Doylestown , PA",$3.799,Jun 29,04:10 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
+Doylestown,S&P Oil,Sunoco,1770 S EASTON RD,"Doylestown , PA",$3.829,Jun 29,05:20 PM,$4.829,Jun 29,12:11 PM,"Bio-Fuels, Repairs"
 Doylestown,LIBERTY,Liberty,290 W STATE ST,"Doylestown , PA",$3.839,Jun 29,09:44 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store, Repairs"
-Doylestown,WAWA #8125,Wawa,425 S MAIN ST,"Doylestown, PA",$3.839,Jun 29,01:04 PM,$5.259,Jun 29,08:27 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Doylestown,LIBERTY,Liberty,1019 N EASTON RD,"Doylestown , PA",$3.839,Jun 29,12:06 PM,$5.249,Jun 29,07:30 AM,"Bio-Fuels, Repairs"
-Doylestown,SHELL,Shell,194 W BUTLER AVE,"Doylestown, PA",$3.839,Jun 29,12:07 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Doylestown,GLOBAL,Global,3611 N EASTON RD,"Doylestown , PA",$3.879,Jun 29,10:23 AM,,,,Convenience Store/Grocery Store
-Doylestown,LIBERTY MAIN,Liberty,235 N MAIN ST,"Doylestown , PA",$3.899,Jun 29,08:05 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store, Repairs"
-Doylestown,DOYLESTOWN EXXON,Exxon,539 N MAIN ST,"Doylestown , PA",$3.899,Jun 29,12:19 PM,,,,Repairs
-Doylestown,SUNOCO,Sunoco,610 N MAIN ST,"Doylestown , PA",$3.899,Jun 29,11:05 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Doylestown,WAWA #8096,Wawa,3659 N EASTON RD,"Doylestown, PA",$3.899,Jun 29,12:52 PM,$5.259,Jun 29,01:11 PM,Convenience Store/Grocery Store
-Doylestown,WAWA #8022,Wawa,1937 YORK RD,"Jamison, PA",$3.899,Jun 29,01:53 PM,$5.059,Jun 29,01:56 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Doylestown,Sunoco,Sunoco,2140 YORK RD,"Jamison, PA",$3.959,Jun 29,12:09 PM,,,,"Convenience Store/Grocery Store, Repairs"
-Doylestown,SHELL SERVICE STATION,Shell,216 S MAIN ST,"Doylestown , PA",$4.079,Jun 29,10:27 AM,,,,"Bio-Fuels, Repairs"
+Doylestown,WAWA #8125,Wawa,425 S MAIN ST,"Doylestown, PA",$3.839,Jun 29,07:21 PM,$5.259,Jun 29,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Doylestown,LIBERTY,Liberty,1019 N EASTON RD,"Doylestown , PA",$3.839,Jun 29,06:40 PM,$5.249,Jun 29,04:56 PM,"Bio-Fuels, Repairs"
+Doylestown,SHELL,Shell,194 W BUTLER AVE,"Doylestown, PA",$3.839,Jun 29,06:37 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Doylestown,DOYLESTOWN EXXON,Exxon,539 N MAIN ST,"Doylestown , PA",$3.899,Jun 29,05:00 PM,,,,Repairs
+Doylestown,SUNOCO,Sunoco,610 N MAIN ST,"Doylestown , PA",$3.899,Jun 29,05:33 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Doylestown,WAWA #8096,Wawa,3659 N EASTON RD,"Doylestown, PA",$3.899,Jun 29,07:47 PM,$5.259,Jun 29,05:24 PM,Convenience Store/Grocery Store
+Doylestown,WAWA #8022,Wawa,1937 YORK RD,"Jamison, PA",$3.899,Jun 29,07:36 PM,$5.059,Jun 29,04:07 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Doylestown,Sunoco,Sunoco,2140 YORK RD,"Jamison, PA",$3.959,Jun 29,07:50 PM,,,,"Convenience Store/Grocery Store, Repairs"
+Doylestown,SHELL SERVICE STATION,Shell,216 S MAIN ST,"Doylestown , PA",$4.089,Jun 29,03:16 PM,,,,"Bio-Fuels, Repairs"
