@@ -1,7 +1,7 @@
 place_name,success,outcome,row_count
 Bensalem,True,table,42
 Bristol,True,table,33
-Chalfont,True,table,28
+Chalfont,True,table,29
 Churchville,True,table,0
 Croydon,True,table,39
 Doylestown,True,table,19
@@ -9,7 +9,7 @@ Dublin,True,table,12
 Fairless Hills,True,table,49
 Ferndale,True,table,2
 Hulmeville,True,table,58
-Ivyland,True,table,43
+Ivyland,True,table,44
 Langhorne,True,table,48
 Levittown,True,table,46
 Mechanicsville,True,table,12
@@ -20,14 +20,14 @@ Newtown Grant,True,table,13
 Penndel,True,table,60
 Perkasie,True,table,14
 Quakertown,True,table,9
-Richboro,True,table,33
-Richlandtown,True,table,9
+Richboro,True,table,34
+Richlandtown,True,table,10
 Riegelsville,True,table,1
 Sellersville,True,table,16
 Telford,True,table,19
 Village Shires,True,table,30
-Warminster,True,table,47
-Warminster Heights,True,table,47
+Warminster,True,table,48
+Warminster Heights,True,table,48
 Woodbourne,True,table,46
 Woodside,True,table,31
 Yardley,True,table,20
