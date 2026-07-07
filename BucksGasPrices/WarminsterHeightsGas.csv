@@ -1,7 +1,7 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
 Warminster Heights,DICK AND RIPS TRUCK AND AUTO REPAIR,Exxon,299 E STREET RD,"Warminster , PA",$3.479,Jul 06,06:36 PM,,,,"Bio-Fuels, Repairs"
 Warminster Heights,United Southampton,Unbranded,17 STREET RD,"Southampton , PA",$3.479,Jul 06,09:19 AM,,,,Bio-Fuels
-Warminster Heights,COSTCO #1103,Costco,100 VETERANS WAY,"Warminster, PA",$3.499,Jul 07,01:49 AM,,,,Convenience Store/Grocery Store
+Warminster Heights,COSTCO #1103,Costco,100 VETERANS WAY,"Warminster, PA",$3.499,Jul 07,04:05 AM,,,,Convenience Store/Grocery Store
 Warminster Heights,SAMS CLUB #6676,Sams Club,3925 WELSH RD,"Willow Grove , PA",$3.499,Jul 06,07:53 PM,,,,Convenience Store/Grocery Store
 Warminster Heights,LUKOIL,Lukoil,496 EASTON RD,"Horsham , PA",$3.639,Jul 05,12:58 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
 Warminster Heights,SHELL,Shell,2818 EASTON RD,"Willow Grove , PA",$3.639,Jul 06,05:36 PM,$4.739,Jul 06,04:43 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
@@ -12,7 +12,7 @@ Warminster Heights,SUNOCO,Sunoco,555 N YORK RD,"Hatboro , PA",$3.699,Jul 06,03:5
 Warminster Heights,US GAS,US Gas,405 W COUNTY LINE RD,"Hatboro, PA",$3.699,Jul 06,05:22 PM,,,,"Convenience Store/Grocery Store, Repairs"
 Warminster Heights,Sunoco,Sunoco,300 EASTON RD,"Horsham, PA",$3.719,Jul 06,05:58 PM,,,,Convenience Store/Grocery Store
 Warminster Heights,WILLOW GROVE LIBERTY,Liberty,2595 MARYLAND RD,"Willow Grove , PA",$3.759,Jul 06,07:27 PM,$4.999,Jul 06,12:53 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Warminster Heights,Sunoco,Sunoco,190 W STREET RD,"Feasterville Trevose, PA",$3.759,Jul 06,06:32 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Warminster Heights,Sunoco,Sunoco,190 W STREET RD,"Feasterville Trevose, PA",$3.759,Jul 07,04:04 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
 Warminster Heights,SPARTA,Unbranded,1233 EASTON RD,"Warrington, PA",$3.779,Jul 06,08:36 PM,$5.179,Jul 06,09:21 AM,
 Warminster Heights,A PLUS MINI MARKET,A Plus,3250 E COUNTY LINE RD,"Hatboro , PA",$3.799,Jul 06,07:06 PM,$5.999,Jul 06,07:04 PM,"Bio-Fuels, Convenience Store/Grocery Store"
 Warminster Heights,STAR ENTERPIRSE,Shell,400 W STREET RD,"Warminster, PA",$3.799,Jul 06,03:27 PM,$4.999,Jul 05,09:13 AM,"Bio-Fuels, Convenience Store/Grocery Store"
@@ -27,20 +27,20 @@ Warminster Heights,GIANT #6095,Giant (Ahold),466 2ND STREET PIKE,"Southampton , 
 Warminster Heights,SUNOCO,Sunoco,20 2ND STREET PIKE,"Southampton , PA",$3.959,Jul 06,08:11 PM,$4.999,Jul 06,10:00 PM,"Bio-Fuels, Repairs"
 Warminster Heights,Wawa #8216,Wawa,25 2ND STREET PIKE,"Southampton , PA",$3.959,Jul 06,04:00 PM,$4.999,Jul 06,04:00 PM,
 Warminster Heights,Sunoco,Sunoco,2500 EASTON RD,"Willow Grove , PA",$3.979,Jul 06,09:44 PM,,,,Convenience Store/Grocery Store
-Warminster Heights,WAWA #8055,Wawa,555 W STREET RD,"Warminster, PA",$3.999,Jul 06,09:40 PM,$5.099,Jul 07,01:23 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Warminster Heights,WAWA #149,Wawa,10 DAVISVILLE RD,"Warminster, PA",$3.999,Jul 06,08:12 PM,$5.099,Jul 07,12:56 AM,"Open 24 Hours, Convenience Store/Grocery Store"
+Warminster Heights,WAWA #8055,Wawa,555 W STREET RD,"Warminster, PA",$3.999,Jul 07,04:06 AM,$5.099,Jul 07,01:23 AM,"Open 24 Hours, Convenience Store/Grocery Store"
+Warminster Heights,WAWA #149,Wawa,10 DAVISVILLE RD,"Warminster, PA",$3.999,Jul 07,03:25 AM,$5.099,Jul 07,03:40 AM,"Open 24 Hours, Convenience Store/Grocery Store"
 Warminster Heights,GIANT #6257,Giant (Ahold),720 W STREET RD,"Warminster , PA",$3.999,Jul 06,06:00 PM,,,,Convenience Store/Grocery Store
-Warminster Heights,WAWA #8122,Wawa,412 S YORK RD,"Hatboro, PA",$3.999,Jul 06,04:55 PM,$4.979,Jul 06,04:00 PM,Convenience Store/Grocery Store
+Warminster Heights,WAWA #8122,Wawa,412 S YORK RD,"Hatboro, PA",$3.999,Jul 06,04:55 PM,$4.979,Jul 07,03:32 AM,Convenience Store/Grocery Store
 Warminster Heights,SPEEDWAY #6805,Speedway,724 STREET RD,"Southampton , PA",$3.999,Jul 06,09:15 PM,$5.059,Jul 06,09:15 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
 Warminster Heights,WAWA #8088,Wawa,101 EASTON RD,"Horsham, PA",$3.999,Jul 07,12:08 AM,$5.059,Jul 06,06:14 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Warminster Heights,GIANT FUEL #6089,Giant (Ahold),314 HORSHAM RD,"Horsham, PA",$3.999,Jul 06,06:00 PM,,,,
-Warminster Heights,WAWA #271,Wawa,535 HORSHAM RD,"Horsham, PA",$3.999,Jul 06,05:37 PM,$5.199,Jul 06,04:00 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
+Warminster Heights,WAWA #271,Wawa,535 HORSHAM RD,"Horsham, PA",$3.999,Jul 06,05:37 PM,$5.199,Jul 07,02:43 AM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
 Warminster Heights,WAWA #285,Wawa,1510 EASTON RD,"Horsham, PA",$3.999,Jul 06,07:45 PM,$5.219,Jul 06,04:00 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
 Warminster Heights,GIANT #6654,Giant (Ahold),424 YORK RD,"Willow Grove , PA",$3.999,Jul 06,07:10 PM,,,,Convenience Store/Grocery Store
 Warminster Heights,WAWA #8063,Wawa,201 YORK RD,"Willow Grove, PA",$3.999,Jul 06,07:46 PM,$4.999,Jul 06,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Warminster Heights,Wawa #8156,Wawa,132 WELSH ROAD,"Horsham, PA",$3.999,Jul 06,10:59 PM,$5.159,Jul 06,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Warminster Heights,Wawa #8117,Wawa,550 Easton Rd,"Warrington, PA",$3.999,Jul 06,10:52 PM,$5.179,Jul 06,10:05 PM,Convenience Store/Grocery Store
-Warminster Heights,WAWA #8022,Wawa,1937 YORK RD,"Jamison, PA",$3.999,Jul 07,12:15 AM,$5.059,Jul 06,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Warminster Heights,WAWA #8022,Wawa,1937 YORK RD,"Jamison, PA",$3.999,Jul 07,02:48 AM,$5.059,Jul 07,02:51 AM,"Open 24 Hours, Convenience Store/Grocery Store"
 Warminster Heights,WAWA #8121,Wawa,870 2ND STREET PIKE,"Richboro , PA",$3.999,Jul 06,10:15 PM,$5.259,Jul 06,06:49 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Warminster Heights,7-ELEVEN #40097,7-Eleven,999 2ND STREET PIKE,"Richboro , PA",$3.999,Jul 06,09:15 PM,$5.299,Jul 06,09:15 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
 Warminster Heights,SUNOCO,Sunoco,1474 OLD YORK RD,"Abington, PA",$3.999,Jul 06,06:39 PM,,,,"Bio-Fuels, Repairs"
