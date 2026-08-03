@@ -1,13 +1,14 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Dublin,Shell,Shell,6816 EASTON RD,"Pipersville, PA",$4.159,Aug 02,06:22 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Dublin,SHELL,Shell,4247 W SWAMP RD,"Doylestown, PA",$4.199,Aug 03,07:41 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Dublin,STANS STOP,Unbranded,501 ROUTE 313,"Perkasie , PA",$4.279,Aug 03,06:58 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Dublin,WAWA #8139,Wawa,320 W ROUTE 313,"Perkasie , PA",$4.299,Aug 03,07:58 AM,$5.599,Aug 03,07:17 AM,"Open 24 Hours, Convenience Store/Grocery Store"
+Dublin,SHELL,Shell,4247 W SWAMP RD,"Doylestown, PA",$4.149,Aug 03,01:04 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Dublin,Shell,Shell,6816 EASTON RD,"Pipersville, PA",$4.159,Aug 03,12:03 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Dublin,STANS STOP,Unbranded,501 ROUTE 313,"Perkasie , PA",$4.279,Aug 03,08:55 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Dublin,WAWA #8139,Wawa,320 W ROUTE 313,"Perkasie , PA",$4.299,Aug 03,01:55 PM,$5.599,Aug 03,11:01 AM,"Open 24 Hours, Convenience Store/Grocery Store"
 Dublin,WEIS MARKETS,Gas N Go (Weis),431 W DUBLIN PIKE,"Perkasie, PA",$4.299,Aug 02,01:49 PM,,,,
-Dublin,JOES KWIK MARTS #1048,Joes Kwik Mart,515 DUBLIN PIKE,"Perkasie , PA",$4.299,Aug 03,07:45 AM,$5.599,Aug 03,07:39 AM,"Bio-Fuels, Convenience Store/Grocery Store"
-Dublin,WAWA #288,Wawa,5854 EASTON RD,"Pipersville, PA",$4.299,Aug 03,07:42 AM,$5.599,Aug 03,07:20 AM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
-Dublin,LIBERTY,Liberty,1019 N EASTON RD,"Doylestown , PA",$4.299,Aug 01,10:28 AM,$5.599,Aug 01,02:38 PM,"Bio-Fuels, Repairs"
-Dublin,WAWA #8096,Wawa,3659 N EASTON RD,"Doylestown, PA",$4.299,Aug 03,07:47 AM,$5.599,Aug 03,07:48 AM,Convenience Store/Grocery Store
-Dublin,GLOBAL,Global,3611 N EASTON RD,"Doylestown , PA",$4.299,Aug 02,08:08 PM,,,,Convenience Store/Grocery Store
+Dublin,JOES KWIK MARTS #1048,Joes Kwik Mart,515 DUBLIN PIKE,"Perkasie , PA",$4.299,Aug 03,08:43 AM,$5.599,Aug 03,07:39 AM,"Bio-Fuels, Convenience Store/Grocery Store"
+Dublin,WAWA #288,Wawa,5854 EASTON RD,"Pipersville, PA",$4.299,Aug 03,01:55 PM,$5.599,Aug 03,12:20 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
+Dublin,LIBERTY,Liberty,1019 N EASTON RD,"Doylestown , PA",$4.299,Aug 03,08:36 AM,$5.599,Aug 03,08:49 AM,"Bio-Fuels, Repairs"
+Dublin,WAWA #8096,Wawa,3659 N EASTON RD,"Doylestown, PA",$4.299,Aug 03,01:53 PM,$5.599,Aug 03,08:59 AM,Convenience Store/Grocery Store
+Dublin,GLOBAL,Global,3611 N EASTON RD,"Doylestown , PA",$4.299,Aug 03,11:08 AM,,,,Convenience Store/Grocery Store
 Dublin,SUNOCO,Sunoco,610 N MAIN ST,"Doylestown , PA",$4.299,Aug 02,12:21 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
 Dublin,US GAS,Unbranded,401 E WALNUT ST,"Perkasie , PA",$4.319,Aug 02,10:35 AM,,,,Repairs
+Dublin,SHELL,Shell,2301 N 5TH ST,"Perkasie , PA",$4.359,Aug 03,08:59 AM,$5.559,Aug 01,02:53 PM,"Bio-Fuels, Repairs"

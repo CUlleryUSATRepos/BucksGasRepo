@@ -1,19 +1,20 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Doylestown,SHELL,Shell,194 W BUTLER AVE,"Doylestown, PA",$4.159,Aug 03,07:47 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Doylestown,United,Unbranded,1405 LOWER STATE RD,"Doylestown , PA",$4.159,Aug 01,08:22 AM,$5.419,Aug 01,09:14 AM,Repairs
-Doylestown,SPARTA,Unbranded,1233 EASTON RD,"Warrington, PA",$4.179,Aug 03,07:21 AM,$5.579,Aug 03,06:51 AM,
+Doylestown,SHELL,Shell,4247 W SWAMP RD,"Doylestown, PA",$4.149,Aug 03,01:04 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Doylestown,SHELL,Shell,194 W BUTLER AVE,"Doylestown, PA",$4.159,Aug 03,01:56 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Doylestown,United,Unbranded,1405 LOWER STATE RD,"Doylestown , PA",$4.159,Aug 01,08:22 AM,,,,Repairs
+Doylestown,SPARTA,Unbranded,1233 EASTON RD,"Warrington, PA",$4.179,Aug 03,12:46 PM,$5.579,Aug 03,08:37 AM,
 Doylestown,LIBERTY,Liberty,290 W STATE ST,"Doylestown , PA",$4.199,Aug 02,02:43 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store, Repairs"
-Doylestown,SHELL,Shell,4247 W SWAMP RD,"Doylestown, PA",$4.199,Aug 03,07:41 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
 Doylestown,LUKOIL,Lukoil,440 E SWAMP RD,"Doylestown, PA",$4.199,Aug 02,11:02 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Doylestown,S&P Oil,Sunoco,1770 S EASTON RD,"Doylestown , PA",$4.199,Aug 02,02:03 PM,,,,"Bio-Fuels, Repairs"
+Doylestown,S&P Oil,Sunoco,1770 S EASTON RD,"Doylestown , PA",$4.199,Aug 03,12:39 PM,,,,"Bio-Fuels, Repairs"
 Doylestown,LUKOIL,Lukoil,1400 EASTON RD,"Warrington , PA",$4.199,Aug 01,11:56 AM,,,,Convenience Store/Grocery Store
 Doylestown,LIBERTY MAIN,Liberty,235 N MAIN ST,"Doylestown , PA",$4.239,Aug 02,09:22 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store, Repairs"
-Doylestown,WAWA #8125,Wawa,425 S MAIN ST,"Doylestown, PA",$4.299,Aug 03,07:12 AM,$5.599,Aug 02,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Doylestown,SHELL SERVICE STATION,Shell,216 S MAIN ST,"Doylestown , PA",$4.299,Aug 03,01:03 PM,,,,"Bio-Fuels, Repairs"
+Doylestown,WAWA #8125,Wawa,425 S MAIN ST,"Doylestown, PA",$4.299,Aug 03,01:41 PM,$5.599,Aug 02,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Doylestown,DOYLESTOWN EXXON,Exxon,539 N MAIN ST,"Doylestown , PA",$4.299,Aug 02,09:32 PM,,,,Repairs
 Doylestown,SUNOCO,Sunoco,610 N MAIN ST,"Doylestown , PA",$4.299,Aug 02,12:21 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Doylestown,GLOBAL,Global,3611 N EASTON RD,"Doylestown , PA",$4.299,Aug 02,08:08 PM,,,,Convenience Store/Grocery Store
-Doylestown,WAWA #8096,Wawa,3659 N EASTON RD,"Doylestown, PA",$4.299,Aug 03,07:47 AM,$5.599,Aug 03,07:48 AM,Convenience Store/Grocery Store
-Doylestown,SHELL,Shell,1807 S EASTON RD,"Doylestown , PA",$4.299,Aug 03,07:42 AM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
-Doylestown,LIBERTY,Liberty,1019 N EASTON RD,"Doylestown , PA",$4.299,Aug 01,10:28 AM,$5.599,Aug 01,02:38 PM,"Bio-Fuels, Repairs"
-Doylestown,Sunoco,Sunoco,2140 YORK RD,"Jamison, PA",$4.299,Aug 03,07:43 AM,,,,"Convenience Store/Grocery Store, Repairs"
-Doylestown,WAWA #8022,Wawa,1937 YORK RD,"Jamison, PA",$4.299,Aug 03,07:50 AM,$5.599,Aug 03,07:44 AM,"Open 24 Hours, Convenience Store/Grocery Store"
+Doylestown,GLOBAL,Global,3611 N EASTON RD,"Doylestown , PA",$4.299,Aug 03,11:08 AM,,,,Convenience Store/Grocery Store
+Doylestown,WAWA #8096,Wawa,3659 N EASTON RD,"Doylestown, PA",$4.299,Aug 03,01:53 PM,$5.599,Aug 03,08:59 AM,Convenience Store/Grocery Store
+Doylestown,SHELL,Shell,1807 S EASTON RD,"Doylestown , PA",$4.299,Aug 03,08:15 AM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
+Doylestown,LIBERTY,Liberty,1019 N EASTON RD,"Doylestown , PA",$4.299,Aug 03,08:36 AM,$5.599,Aug 03,08:49 AM,"Bio-Fuels, Repairs"
+Doylestown,Sunoco,Sunoco,2140 YORK RD,"Jamison, PA",$4.299,Aug 03,12:51 PM,,,,"Convenience Store/Grocery Store, Repairs"
+Doylestown,WAWA #8022,Wawa,1937 YORK RD,"Jamison, PA",$4.299,Aug 03,01:51 PM,$5.599,Aug 03,01:34 PM,"Open 24 Hours, Convenience Store/Grocery Store"
