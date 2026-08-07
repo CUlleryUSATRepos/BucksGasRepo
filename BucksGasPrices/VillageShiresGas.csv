@@ -1,31 +1,31 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Village Shires,Freedom Fuel,Freedom Fuel,17 STREET RD,"Southampton , PA",$3.799,Aug 07,05:45 AM,$5.499,Aug 05,08:15 AM,Bio-Fuels
-Village Shires,SUNOCO,Sunoco,652 BELLEVUE AVE,"Langhorne, PA",$3.989,Aug 06,04:35 PM,,,,Repairs
-Village Shires,WE PUMP IT,Unbranded,228 BUSTLETON PIKE,"Feasterville Trevose, PA",$3.999,Aug 06,05:35 AM,,,,Repairs
-Village Shires,Shell,Shell,620 E BRISTOL RD,"Feasterville Trevose , PA",$4.059,Aug 06,09:22 PM,$5.459,Aug 06,07:41 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Village Shires,Sunoco,Sunoco,190 W STREET RD,"Feasterville Trevose, PA",$4.059,Aug 07,07:18 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Village Shires,DICK AND RIPS HOLLAND SUNOCO,Sunoco,287 HOLLAND RD,"Southampton , PA",$4.099,Aug 07,05:40 AM,,,,Repairs
-Village Shires,WAWA #8121,Wawa,870 2ND STREET PIKE,"Richboro , PA",$4.099,Aug 07,07:56 AM,$5.559,Aug 07,07:06 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Village Shires,7-ELEVEN #32639,7-Eleven,527 W LINCOLN HWY,"Langhorne, PA",$4.099,Aug 07,07:07 AM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
-Village Shires,SPEEDWAY #6805,Speedway,724 STREET RD,"Southampton , PA",$4.099,Aug 07,07:51 AM,$5.559,Aug 07,05:45 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Village Shires,Sunoco,Sunoco,111 E LINCOLN HWY,"Langhorne, PA",$4.099,Aug 07,06:11 AM,$5.579,Aug 06,10:44 AM,"Bio-Fuels, Convenience Store/Grocery Store"
-Village Shires,BENSALEM AUTO CARE,Conoco,3585 BRISTOL RD,"Bensalem, PA",$4.099,Aug 07,07:31 AM,,,,Repairs
-Village Shires,FOODLE FARMS,Unbranded,1205 E LINCOLN HWY,"Langhorne, PA",$4.099,Aug 07,12:02 AM,$5.399,Aug 06,07:47 AM,"Bio-Fuels, Convenience Store/Grocery Store"
+Village Shires,WE PUMP IT,Unbranded,228 BUSTLETON PIKE,"Feasterville Trevose, PA",$3.799,Aug 07,11:26 AM,,,,Repairs
+Village Shires,Freedom Fuel,Freedom Fuel,17 STREET RD,"Southampton , PA",$3.799,Aug 07,05:45 AM,,,,Bio-Fuels
+Village Shires,SUNOCO,Sunoco,652 BELLEVUE AVE,"Langhorne, PA",$3.989,Aug 07,01:39 PM,,,,Repairs
+Village Shires,Shell,Shell,620 E BRISTOL RD,"Feasterville Trevose , PA",$4.059,Aug 07,12:27 PM,$5.459,Aug 07,12:41 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Village Shires,Sunoco,Sunoco,190 W STREET RD,"Feasterville Trevose, PA",$4.059,Aug 07,01:51 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Village Shires,DICK AND RIPS HOLLAND SUNOCO,Sunoco,287 HOLLAND RD,"Southampton , PA",$4.099,Aug 07,01:52 PM,,,,Repairs
+Village Shires,WAWA #8121,Wawa,870 2ND STREET PIKE,"Richboro , PA",$4.099,Aug 07,01:37 PM,$5.559,Aug 07,12:35 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Village Shires,Joe's Kwik Mart #1046,Joes Kwik Mart,1008 2ND STREET PIKE,"Richboro , PA",$4.099,Aug 07,12:59 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
+Village Shires,LUKOIL,Lukoil,2 N SYCAMORE ST,"Newtown, PA",$4.099,Aug 07,08:12 AM,,,,
+Village Shires,Joe's Kwik Marts #383,Joes Kwik Mart,1266 OLD LINCOLN HWY,"Langhorne, PA",$4.099,Aug 07,01:24 PM,,,,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Village Shires,7-ELEVEN #32639,7-Eleven,527 W LINCOLN HWY,"Langhorne, PA",$4.099,Aug 07,11:16 AM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
+Village Shires,SPEEDWAY #6805,Speedway,724 STREET RD,"Southampton , PA",$4.099,Aug 07,11:16 AM,$5.559,Aug 07,11:16 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Village Shires,Sunoco,Sunoco,111 E LINCOLN HWY,"Langhorne, PA",$4.099,Aug 07,11:19 AM,$5.579,Aug 06,10:44 AM,"Bio-Fuels, Convenience Store/Grocery Store"
+Village Shires,BENSALEM AUTO CARE,Conoco,3585 BRISTOL RD,"Bensalem, PA",$4.099,Aug 07,01:29 PM,,,,Repairs
+Village Shires,FOODLE FARMS,Unbranded,1205 E LINCOLN HWY,"Langhorne, PA",$4.099,Aug 07,08:50 AM,$5.399,Aug 06,07:47 AM,"Bio-Fuels, Convenience Store/Grocery Store"
 Village Shires,STREET ROAD LUKOIL,Lukoil,4613 E STREET RD,"Feasterville Trevose , PA",$4.099,Aug 05,10:36 AM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
 Village Shires,GIANT #6095,Giant (Ahold),466 2ND STREET PIKE,"Southampton , PA",$4.099,Aug 06,07:26 PM,,,,Convenience Store/Grocery Store
-Village Shires,SUNOCO,Sunoco,890 E STREET RD,"Warminster , PA",$4.099,Aug 07,05:20 AM,$5.399,Aug 06,12:47 PM,"Bio-Fuels, Convenience Store/Grocery Store"
-Village Shires,BP,BP,3340 BRISTOL RD,"Bensalem , PA",$4.129,Aug 07,05:29 AM,$5.499,Aug 07,06:13 AM,"Open 24 Hours, Bio-Fuels, Repairs"
+Village Shires,SUNOCO,Sunoco,890 E STREET RD,"Warminster , PA",$4.099,Aug 07,12:07 PM,$5.399,Aug 06,12:47 PM,"Bio-Fuels, Convenience Store/Grocery Store"
+Village Shires,BP,BP,3340 BRISTOL RD,"Bensalem , PA",$4.129,Aug 07,11:54 AM,$5.499,Aug 07,01:32 PM,"Open 24 Hours, Bio-Fuels, Repairs"
 Village Shires,LUKOIL,Lukoil,152 E MAPLE AVE,"Langhorne, PA",$4.139,Aug 06,06:29 PM,,,,Convenience Store/Grocery Store
-Village Shires,7-ELEVEN #40097,7-Eleven,999 2ND STREET PIKE,"Richboro , PA",$4.159,Aug 07,07:42 AM,$5.579,Aug 06,09:15 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Village Shires,Joe's Kwik Mart #1046,Joes Kwik Mart,1008 2ND STREET PIKE,"Richboro , PA",$4.159,Aug 06,09:18 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
-Village Shires,SINCLAIR,Sinclair,452 S BELLEVUE AVE,"Langhorne, PA",$4.159,Aug 07,07:27 AM,,,,
-Village Shires,LUKOIL,Lukoil,2 N SYCAMORE ST,"Newtown, PA",$4.199,Aug 06,08:31 AM,,,,
-Village Shires,EXXON,Exxon,123 N PINE ST,"Langhorne , PA",$4.199,Aug 07,06:15 AM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
-Village Shires,Joe's Kwik Marts #383,Joes Kwik Mart,1266 OLD LINCOLN HWY,"Langhorne, PA",$4.199,Aug 07,07:38 AM,,,,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Village Shires,Wawa #8159,Wawa,91 LOWER SILVER LAKE RD,"Newtown, PA",$4.199,Aug 07,07:56 AM,$5.599,Aug 07,07:03 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Village Shires,WAWA #8136,Wawa,929 BUSTLETON PK,"Feasterville Trevose, PA",$4.199,Aug 07,07:43 AM,$5.559,Aug 07,03:04 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Village Shires,WAWA #8075,Wawa,601 E STREET RD,"Feasterville Trevose, PA",$4.199,Aug 07,07:44 AM,$5.499,Aug 07,07:54 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Village Shires,WAWA #8157,Wawa,639 E LINCOLN HWY,"Langhorne, PA",$4.239,Aug 07,07:57 AM,$5.579,Aug 07,07:25 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Village Shires,SUNOCO,Sunoco,549 WASHINGTON AVE,"Newtown, PA",$4.299,Aug 06,02:56 PM,,,,Repairs
-Village Shires,RICK STEELES GULF,Gulf,695 NEWTOWN YARDLEY RD,"Newtown , PA",$4.399,Aug 06,02:35 PM,$5.899,Aug 05,02:08 PM,"Bio-Fuels, Repairs"
-Village Shires,LEHIGH GAS CORPORATI,Shell,19 N SYCAMORE ST,"Newtown , PA",$4.499,Aug 07,07:52 AM,,,,
+Village Shires,7-ELEVEN #40097,7-Eleven,999 2ND STREET PIKE,"Richboro , PA",$4.159,Aug 07,01:47 PM,$5.559,Aug 07,11:16 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Village Shires,EXXON,Exxon,123 N PINE ST,"Langhorne , PA",$4.159,Aug 07,11:21 AM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
+Village Shires,SINCLAIR,Sinclair,452 S BELLEVUE AVE,"Langhorne, PA",$4.159,Aug 07,01:44 PM,,,,
+Village Shires,WAWA #8157,Wawa,639 E LINCOLN HWY,"Langhorne, PA",$4.159,Aug 07,01:28 PM,$5.539,Aug 07,12:20 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Village Shires,WAWA #8075,Wawa,601 E STREET RD,"Feasterville Trevose, PA",$4.159,Aug 07,12:55 PM,$5.459,Aug 07,12:42 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Village Shires,Wawa #8159,Wawa,91 LOWER SILVER LAKE RD,"Newtown, PA",$4.179,Aug 07,01:48 PM,$5.599,Aug 07,12:30 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Village Shires,WAWA #8136,Wawa,929 BUSTLETON PK,"Feasterville Trevose, PA",$4.199,Aug 07,01:43 PM,$5.559,Aug 07,01:01 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Village Shires,SUNOCO,Sunoco,549 WASHINGTON AVE,"Newtown, PA",$4.259,Aug 07,11:58 AM,,,,Repairs
+Village Shires,RICK STEELES GULF,Gulf,695 NEWTOWN YARDLEY RD,"Newtown , PA",$4.399,Aug 07,12:27 PM,$5.899,Aug 05,02:08 PM,"Bio-Fuels, Repairs"
+Village Shires,LEHIGH GAS CORPORATI,Shell,19 N SYCAMORE ST,"Newtown , PA",$4.499,Aug 07,09:13 AM,,,,
