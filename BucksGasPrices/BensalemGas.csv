@@ -1,44 +1,44 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Bensalem,Freedom Fuel,Freedom Fuel,1360 STREET RD,"Bensalem, PA",$3.799,Aug 07,08:35 PM,$5.299,Aug 07,08:00 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Bensalem,Conoco,Conoco,2672 BRISTOL PIKE,"Bensalem , PA",$3.799,Aug 07,05:23 PM,$5.299,Aug 07,02:23 PM,Bio-Fuels
-Bensalem,KWIK FILL,Kwik Fill,2511 OLD LINCOLN HWY,"Feasterville Trevose, PA",$3.799,Aug 07,02:25 PM,$5.299,Aug 07,09:54 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Bensalem,Freedom Fuel,Freedom Fuel,1360 STREET RD,"Bensalem, PA",$3.799,Aug 08,08:40 AM,$5.299,Aug 07,08:00 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Bensalem,Conoco,Conoco,2672 BRISTOL PIKE,"Bensalem , PA",$3.799,Aug 08,12:45 PM,$5.299,Aug 07,02:23 PM,Bio-Fuels
+Bensalem,KWIK FILL,Kwik Fill,2511 OLD LINCOLN HWY,"Feasterville Trevose, PA",$3.799,Aug 08,01:53 PM,$5.299,Aug 07,09:54 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
 Bensalem,WE PUMP IT,Unbranded,228 BUSTLETON PIKE,"Feasterville Trevose, PA",$3.799,Aug 07,02:27 PM,,,,Repairs
-Bensalem,GULF,Gulf,4362 NEW FALLS RD,"Levittown , PA",$3.799,Aug 08,06:37 AM,$5.199,Aug 06,10:51 AM,"Bio-Fuels, Convenience Store/Grocery Store"
-Bensalem,G FUEL,Unbranded,455 BRISTOL PIKE,"Bristol , PA",$3.799,Aug 08,07:53 AM,$5.259,Aug 06,10:30 AM,"Bio-Fuels, Convenience Store/Grocery Store"
-Bensalem,Freedom Fuel,Freedom Fuel,905 ROUTE 13,"Bristol , PA",$3.799,Aug 07,02:34 PM,$5.299,Aug 06,10:07 AM,"Restaurant/Deli/Fast Food, Bio-Fuels, Repairs"
+Bensalem,GULF,Gulf,4362 NEW FALLS RD,"Levittown , PA",$3.799,Aug 08,11:06 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Bensalem,G FUEL,Unbranded,455 BRISTOL PIKE,"Bristol , PA",$3.799,Aug 08,07:53 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Bensalem,Freedom Fuel,Freedom Fuel,905 ROUTE 13,"Bristol , PA",$3.799,Aug 07,02:34 PM,,,,"Restaurant/Deli/Fast Food, Bio-Fuels, Repairs"
 Bensalem,SINCLAIR,Sinclair,2030 STREET RD,"Bensalem , PA",$3.899,Aug 07,01:57 PM,,,,Convenience Store/Grocery Store
+Bensalem,SUNOCO,Sunoco,2435 DURHAM RD,"Bristol , PA",$3.899,Aug 08,01:01 PM,,,,"Open 24 Hours, Bio-Fuels"
 Bensalem,BRUCES AUTOMOTIVE,Liberty,3700 OXFORD VALLEY RD,"Levittown , PA",$3.899,Aug 07,02:11 PM,,,,
-Bensalem,A PLUS MINI MARKET,A Plus,1432 STREET RD,"Bensalem , PA",$3.919,Aug 08,06:49 AM,$5.559,Aug 07,05:44 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Bensalem,SUNOCO,Sunoco,2435 DURHAM RD,"Bristol , PA",$3.959,Aug 08,07:52 AM,,,,"Open 24 Hours, Bio-Fuels"
+Bensalem,A PLUS MINI MARKET,A Plus,1432 STREET RD,"Bensalem , PA",$3.919,Aug 08,11:53 AM,$5.559,Aug 07,05:44 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
 Bensalem,SHELL,Shell,1214 BRISTOL PIKE,"Bensalem, PA",$3.979,Aug 08,06:03 AM,$5.499,Aug 08,06:31 AM,Repairs
 Bensalem,SUNOCO,Sunoco,652 BELLEVUE AVE,"Langhorne, PA",$3.989,Aug 07,02:43 PM,,,,Repairs
+Bensalem,KNIGHTS ROAD,Conoco,2700 KNIGHTS RD,"Bensalem, PA",$3.999,Aug 08,10:34 AM,,,,Repairs
 Bensalem,Shell,Shell,2506 LINCOLN HWY,"Feasterville Trevose, PA",$3.999,Aug 07,09:37 PM,,,,"Open 24 Hours, Bio-Fuels"
 Bensalem,GIANT #6324,Giant (Ahold),2391 DURHAM RD,"Levittown , PA",$3.999,Aug 07,06:12 AM,,,,Convenience Store/Grocery Store
 Bensalem,NEW FALLS ROAD EXXON,Exxon,5300 NEW FALLS RD,"Levittown , PA",$3.999,Aug 07,10:04 PM,$5.579,Aug 06,07:25 PM,
-Bensalem,Shell,Shell,620 E BRISTOL RD,"Feasterville Trevose , PA",$4.059,Aug 08,06:22 AM,$5.459,Aug 07,12:41 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Bensalem,Sunoco,Sunoco,190 W STREET RD,"Feasterville Trevose, PA",$4.059,Aug 08,07:22 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Bensalem,KNIGHTS ROAD,Conoco,2700 KNIGHTS RD,"Bensalem, PA",$4.099,Aug 07,09:58 AM,,,,Repairs
+Bensalem,BENSALEM AUTO CARE,Conoco,3585 BRISTOL RD,"Bensalem, PA",$4.059,Aug 08,12:05 PM,,,,Repairs
+Bensalem,Shell,Shell,620 E BRISTOL RD,"Feasterville Trevose , PA",$4.059,Aug 08,11:39 AM,$5.459,Aug 07,12:41 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Bensalem,Sunoco,Sunoco,190 W STREET RD,"Feasterville Trevose, PA",$4.059,Aug 08,01:52 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
 Bensalem,GIANT FUEL #6046,Giant (Ahold),2711 STREET RD,"Bensalem, PA",$4.099,Aug 07,10:10 AM,$5.499,Aug 07,06:53 AM,
-Bensalem,WAWA #8072,Wawa,3620 STREET RD,"Bensalem, PA",$4.099,Aug 08,06:37 AM,$5.459,Aug 08,04:42 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Bensalem,BENSALEM AUTO CARE,Conoco,3585 BRISTOL RD,"Bensalem, PA",$4.099,Aug 07,08:16 PM,,,,Repairs
+Bensalem,WAWA #8072,Wawa,3620 STREET RD,"Bensalem, PA",$4.099,Aug 08,01:41 PM,$5.459,Aug 08,12:22 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Bensalem,BP,BP,3340 BRISTOL RD,"Bensalem , PA",$4.099,Aug 08,12:48 PM,$5.499,Aug 08,07:36 AM,"Open 24 Hours, Bio-Fuels, Repairs"
 Bensalem,STREET ROAD LUKOIL,Lukoil,4613 E STREET RD,"Feasterville Trevose , PA",$4.099,Aug 07,03:08 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
-Bensalem,SPEEDWAY #6729,Speedway,2919 STATE ROUTE 413,"Bristol , PA",$4.099,Aug 08,06:32 AM,$5.559,Aug 08,05:17 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Bensalem,7-ELEVEN #32639,7-Eleven,527 W LINCOLN HWY,"Langhorne, PA",$4.099,Aug 08,05:45 AM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
-Bensalem,WAWA #219,Wawa,3260 NEW RODGERS RD,"Bristol, PA",$4.099,Aug 08,06:02 AM,$5.539,Aug 08,05:21 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
-Bensalem,WAWA #8107,Wawa,3111 STATE RD,"Bristol, PA",$4.099,Aug 08,07:41 AM,$5.519,Aug 07,04:58 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Bensalem,Sunoco,Sunoco,111 E LINCOLN HWY,"Langhorne, PA",$4.099,Aug 07,04:44 PM,$5.499,Aug 08,07:44 AM,"Bio-Fuels, Convenience Store/Grocery Store"
-Bensalem,Wawa #8163,Wawa,3800 Bristol Oxford Valley Rd,"Levittown, PA",$4.099,Aug 08,07:49 AM,$5.539,Aug 07,06:57 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Bensalem,BP,BP,1724 TRENTON RD,"Levittown , PA",$4.099,Aug 07,04:33 PM,,,,Repairs
-Bensalem,WAWA #8157,Wawa,639 E LINCOLN HWY,"Langhorne, PA",$4.119,Aug 08,07:12 AM,$5.529,Aug 07,04:16 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Bensalem,BP,BP,3340 BRISTOL RD,"Bensalem , PA",$4.129,Aug 08,05:25 AM,$5.499,Aug 08,07:36 AM,"Open 24 Hours, Bio-Fuels, Repairs"
-Bensalem,WAWA #277,Wawa,2250 LINCOLN HWY,"Feasterville Trevose, PA",$4.159,Aug 08,05:20 AM,$5.499,Aug 08,05:02 AM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
-Bensalem,WAWA #8075,Wawa,601 E STREET RD,"Feasterville Trevose, PA",$4.159,Aug 08,06:46 AM,$5.459,Aug 08,07:30 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Bensalem,SUNOCO,Sunoco,1231 NEW RODGERS RD,"Bristol, PA",$4.159,Aug 07,04:07 PM,$5.799,Aug 07,06:23 AM,"Bio-Fuels, Repairs"
-Bensalem,WAWA #8136,Wawa,929 BUSTLETON PK,"Feasterville Trevose, PA",$4.159,Aug 08,07:27 AM,$5.499,Aug 08,07:28 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Bensalem,SINCLAIR,Sinclair,452 S BELLEVUE AVE,"Langhorne, PA",$4.159,Aug 08,06:56 AM,,,,
-Bensalem,A PLUS MINI MARKET,A Plus,3419 STREET RD,"Bensalem , PA",$4.169,Aug 08,06:49 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Bensalem,SUNOCO,Sunoco,3611 HULMEVILLE RD,"Bensalem , PA",$4.199,Aug 07,01:33 PM,,,,Repairs
-Bensalem,BENSALEM TIGER MART,Exxon,5716 HULMEVILLE RD,"Bensalem , PA",$4.199,Aug 07,12:30 PM,,,,Convenience Store/Grocery Store
+Bensalem,SPEEDWAY #6729,Speedway,2919 STATE ROUTE 413,"Bristol , PA",$4.099,Aug 08,11:15 AM,$5.559,Aug 08,11:15 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Bensalem,7-ELEVEN #32639,7-Eleven,527 W LINCOLN HWY,"Langhorne, PA",$4.099,Aug 08,11:15 AM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
+Bensalem,WAWA #219,Wawa,3260 NEW RODGERS RD,"Bristol, PA",$4.099,Aug 08,12:27 PM,$5.539,Aug 08,10:25 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
+Bensalem,WAWA #8107,Wawa,3111 STATE RD,"Bristol, PA",$4.099,Aug 08,01:44 PM,$5.519,Aug 07,04:58 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Bensalem,Sunoco,Sunoco,111 E LINCOLN HWY,"Langhorne, PA",$4.099,Aug 08,01:40 PM,$5.499,Aug 08,07:44 AM,"Bio-Fuels, Convenience Store/Grocery Store"
+Bensalem,Wawa #8163,Wawa,3800 Bristol Oxford Valley Rd,"Levittown, PA",$4.099,Aug 08,09:43 AM,$5.539,Aug 07,06:57 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Bensalem,BP,BP,1724 TRENTON RD,"Levittown , PA",$4.099,Aug 08,10:18 AM,,,,Repairs
+Bensalem,WAWA #8157,Wawa,639 E LINCOLN HWY,"Langhorne, PA",$4.099,Aug 08,01:21 PM,$5.529,Aug 07,04:16 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Bensalem,WAWA #277,Wawa,2250 LINCOLN HWY,"Feasterville Trevose, PA",$4.159,Aug 08,01:25 PM,$5.499,Aug 08,11:41 AM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
+Bensalem,WAWA #8075,Wawa,601 E STREET RD,"Feasterville Trevose, PA",$4.159,Aug 08,01:40 PM,$5.459,Aug 08,07:30 AM,"Open 24 Hours, Convenience Store/Grocery Store"
+Bensalem,SUNOCO,Sunoco,1231 NEW RODGERS RD,"Bristol, PA",$4.159,Aug 08,12:46 PM,$5.799,Aug 07,06:23 AM,"Bio-Fuels, Repairs"
+Bensalem,WAWA #8136,Wawa,929 BUSTLETON PK,"Feasterville Trevose, PA",$4.159,Aug 08,12:43 PM,$5.499,Aug 08,12:50 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Bensalem,A PLUS MINI MARKET,A Plus,231 ROUTE 13,"Bristol , PA",$4.159,Aug 08,01:03 PM,$5.659,Aug 07,03:53 PM,"Bio-Fuels, Repairs"
+Bensalem,SINCLAIR,Sinclair,452 S BELLEVUE AVE,"Langhorne, PA",$4.159,Aug 08,12:59 PM,,,,
+Bensalem,A PLUS MINI MARKET,A Plus,3419 STREET RD,"Bensalem , PA",$4.169,Aug 08,09:34 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Bensalem,SUNOCO,Sunoco,3611 HULMEVILLE RD,"Bensalem , PA",$4.199,Aug 08,01:19 PM,,,,Repairs
+Bensalem,BENSALEM TIGER MART,Exxon,5716 HULMEVILLE RD,"Bensalem , PA",$4.199,Aug 08,10:01 AM,,,,Convenience Store/Grocery Store
 Bensalem,Sunoco,Sunoco,503 STATE RD,"Croydon , PA",$4.199,Aug 08,06:31 AM,$5.459,Aug 07,04:42 PM,"Bio-Fuels, Convenience Store/Grocery Store"
-Bensalem,A PLUS MINI MARKET,A Plus,231 ROUTE 13,"Bristol , PA",$4.259,Aug 07,07:50 PM,$5.659,Aug 07,03:53 PM,"Bio-Fuels, Repairs"
-Bensalem,LIBERTY,Liberty,1616 STREET RD,"Bensalem , PA",$4.399,Aug 07,02:11 PM,,,,Repairs
+Bensalem,LIBERTY,Liberty,1616 STREET RD,"Bensalem , PA",$4.399,Aug 08,08:09 AM,,,,Repairs
