@@ -1,40 +1,40 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Croydon,Freedom Fuel,Freedom Fuel,1360 STREET RD,"Bensalem, PA",$3.799,Aug 07,09:34 AM,$5.299,Aug 07,08:00 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Croydon,Conoco,Conoco,2672 BRISTOL PIKE,"Bensalem , PA",$3.799,Aug 07,01:09 PM,$5.299,Aug 07,11:29 AM,Bio-Fuels
+Croydon,Freedom Fuel,Freedom Fuel,1360 STREET RD,"Bensalem, PA",$3.799,Aug 07,05:36 PM,$5.299,Aug 07,08:00 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Croydon,Conoco,Conoco,2672 BRISTOL PIKE,"Bensalem , PA",$3.799,Aug 07,05:23 PM,$5.299,Aug 07,02:23 PM,Bio-Fuels
 Croydon,G FUEL,Unbranded,455 BRISTOL PIKE,"Bristol , PA",$3.799,Aug 07,01:05 PM,$5.259,Aug 06,10:30 AM,"Bio-Fuels, Convenience Store/Grocery Store"
+Croydon,Freedom Fuel,Freedom Fuel,905 ROUTE 13,"Bristol , PA",$3.799,Aug 07,02:34 PM,$5.299,Aug 06,10:07 AM,"Restaurant/Deli/Fast Food, Bio-Fuels, Repairs"
+Croydon,GULF,Gulf,4362 NEW FALLS RD,"Levittown , PA",$3.799,Aug 07,06:48 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
 Croydon,USA GAS,Unbranded,5901 MILL CREEK RD,"Levittown , PA",$3.799,Aug 07,11:35 AM,,,,Repairs
-Croydon,KWIK FILL,Kwik Fill,2511 OLD LINCOLN HWY,"Feasterville Trevose, PA",$3.799,Aug 07,12:03 PM,$5.299,Aug 07,09:54 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Croydon,KWIK FILL,Kwik Fill,2511 OLD LINCOLN HWY,"Feasterville Trevose, PA",$3.799,Aug 07,02:25 PM,$5.299,Aug 07,09:54 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
 Croydon,SUNOCO,Sunoco,7000 BRISTOL PIKE,"Levittown, PA",$3.799,Aug 07,08:40 AM,$5.499,Aug 07,12:04 PM,"Bio-Fuels, Repairs"
-Croydon,GULF,Gulf,4362 NEW FALLS RD,"Levittown , PA",$3.859,Aug 07,05:06 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Croydon,SINCLAIR,Sinclair,2030 STREET RD,"Bensalem , PA",$3.899,Aug 06,05:45 PM,,,,Convenience Store/Grocery Store
-Croydon,Freedom Fuel,Freedom Fuel,905 ROUTE 13,"Bristol , PA",$3.899,Aug 06,04:02 PM,$5.299,Aug 06,10:07 AM,"Restaurant/Deli/Fast Food, Bio-Fuels, Repairs"
-Croydon,BRUCES AUTOMOTIVE,Liberty,3700 OXFORD VALLEY RD,"Levittown , PA",$3.899,Aug 07,01:49 PM,,,,
-Croydon,A PLUS MINI MARKET,A Plus,1432 STREET RD,"Bensalem , PA",$3.919,Aug 07,01:49 PM,$5.559,Aug 07,11:57 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Croydon,SUNOCO,Sunoco,2435 DURHAM RD,"Bristol , PA",$3.959,Aug 07,01:26 PM,,,,"Open 24 Hours, Bio-Fuels"
-Croydon,SHELL,Shell,1214 BRISTOL PIKE,"Bensalem, PA",$3.979,Aug 07,10:16 AM,$5.499,Aug 06,07:12 PM,Repairs
-Croydon,SUNOCO,Sunoco,652 BELLEVUE AVE,"Langhorne, PA",$3.989,Aug 07,01:39 PM,,,,Repairs
+Croydon,SINCLAIR,Sinclair,2030 STREET RD,"Bensalem , PA",$3.899,Aug 07,01:57 PM,,,,Convenience Store/Grocery Store
+Croydon,BRUCES AUTOMOTIVE,Liberty,3700 OXFORD VALLEY RD,"Levittown , PA",$3.899,Aug 07,02:11 PM,,,,
+Croydon,A PLUS MINI MARKET,A Plus,1432 STREET RD,"Bensalem , PA",$3.919,Aug 07,06:45 PM,$5.559,Aug 07,05:44 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Croydon,SUNOCO,Sunoco,2435 DURHAM RD,"Bristol , PA",$3.959,Aug 07,07:39 PM,,,,"Open 24 Hours, Bio-Fuels"
+Croydon,SHELL,Shell,1214 BRISTOL PIKE,"Bensalem, PA",$3.979,Aug 07,06:34 PM,$5.499,Aug 06,07:12 PM,Repairs
+Croydon,SUNOCO,Sunoco,652 BELLEVUE AVE,"Langhorne, PA",$3.989,Aug 07,02:43 PM,,,,Repairs
 Croydon,GIANT #6324,Giant (Ahold),2391 DURHAM RD,"Levittown , PA",$3.999,Aug 07,06:12 AM,,,,Convenience Store/Grocery Store
-Croydon,NEW FALLS ROAD EXXON,Exxon,5300 NEW FALLS RD,"Levittown , PA",$3.999,Aug 07,12:02 PM,$5.579,Aug 06,07:25 PM,
-Croydon,Shell,Shell,2506 LINCOLN HWY,"Feasterville Trevose, PA",$3.999,Aug 07,09:20 AM,,,,"Open 24 Hours, Bio-Fuels"
+Croydon,NEW FALLS ROAD EXXON,Exxon,5300 NEW FALLS RD,"Levittown , PA",$3.999,Aug 07,07:36 PM,$5.579,Aug 06,07:25 PM,
+Croydon,Shell,Shell,2506 LINCOLN HWY,"Feasterville Trevose, PA",$3.999,Aug 07,05:19 PM,,,,"Open 24 Hours, Bio-Fuels"
 Croydon,BP,BP,7601 BRISTOL PIKE,"Levittown , PA",$3.999,Aug 07,01:33 PM,$5.499,Aug 07,01:04 PM,"Bio-Fuels, Convenience Store/Grocery Store"
-Croydon,WAWA #8107,Wawa,3111 STATE RD,"Bristol, PA",$4.099,Aug 07,12:37 PM,$5.519,Aug 07,12:57 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Croydon,WAWA #8107,Wawa,3111 STATE RD,"Bristol, PA",$4.099,Aug 07,07:18 PM,$5.519,Aug 07,04:58 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Croydon,KNIGHTS ROAD,Conoco,2700 KNIGHTS RD,"Bensalem, PA",$4.099,Aug 07,09:58 AM,,,,Repairs
 Croydon,GIANT FUEL #6046,Giant (Ahold),2711 STREET RD,"Bensalem, PA",$4.099,Aug 07,10:10 AM,$5.499,Aug 07,06:53 AM,
-Croydon,Wawa #8163,Wawa,3800 Bristol Oxford Valley Rd,"Levittown, PA",$4.099,Aug 07,01:44 PM,$5.579,Aug 07,08:32 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Croydon,WAWA #8072,Wawa,3620 STREET RD,"Bensalem, PA",$4.099,Aug 07,01:54 PM,$5.499,Aug 07,09:55 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Croydon,BENSALEM AUTO CARE,Conoco,3585 BRISTOL RD,"Bensalem, PA",$4.099,Aug 07,01:29 PM,,,,Repairs
-Croydon,BP,BP,1724 TRENTON RD,"Levittown , PA",$4.099,Aug 07,11:18 AM,,,,Repairs
-Croydon,7-ELEVEN #32639,7-Eleven,527 W LINCOLN HWY,"Langhorne, PA",$4.099,Aug 07,11:16 AM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
-Croydon,MILL CREEK GAS,Sunoco,7040 MILL CREEK RD,"Levittown , PA",$4.099,Aug 07,11:59 AM,,,,Convenience Store/Grocery Store
-Croydon,BP,BP,3340 BRISTOL RD,"Bensalem , PA",$4.129,Aug 07,11:54 AM,$5.499,Aug 07,01:32 PM,"Open 24 Hours, Bio-Fuels, Repairs"
-Croydon,WAWA #219,Wawa,3260 NEW RODGERS RD,"Bristol, PA",$4.139,Aug 07,01:41 PM,$5.559,Aug 07,01:36 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
-Croydon,WAWA #268,Wawa,5900 BRISTOL PIKE,"Bristol, PA",$4.139,Aug 07,01:39 PM,$5.539,Aug 07,12:41 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
-Croydon,SUNOCO,Sunoco,1231 NEW RODGERS RD,"Bristol, PA",$4.159,Aug 07,01:01 PM,$5.799,Aug 07,06:23 AM,"Bio-Fuels, Repairs"
-Croydon,SPEEDWAY #6729,Speedway,2919 STATE ROUTE 413,"Bristol , PA",$4.159,Aug 07,01:27 PM,$5.599,Aug 07,11:16 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Croydon,WAWA #277,Wawa,2250 LINCOLN HWY,"Feasterville Trevose, PA",$4.159,Aug 07,01:13 PM,$5.499,Aug 07,09:16 AM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
-Croydon,A PLUS MINI MARKET,A Plus,3419 STREET RD,"Bensalem , PA",$4.169,Aug 07,01:49 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Croydon,Sunoco,Sunoco,503 STATE RD,"Croydon , PA",$4.199,Aug 07,01:47 PM,$5.459,Aug 07,11:37 AM,"Bio-Fuels, Convenience Store/Grocery Store"
-Croydon,SUNOCO,Sunoco,3611 HULMEVILLE RD,"Bensalem , PA",$4.199,Aug 07,11:51 AM,,,,Repairs
+Croydon,WAWA #219,Wawa,3260 NEW RODGERS RD,"Bristol, PA",$4.099,Aug 07,04:24 PM,$5.559,Aug 07,04:00 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
+Croydon,Wawa #8163,Wawa,3800 Bristol Oxford Valley Rd,"Levittown, PA",$4.099,Aug 07,07:29 PM,$5.539,Aug 07,06:57 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Croydon,WAWA #268,Wawa,5900 BRISTOL PIKE,"Bristol, PA",$4.099,Aug 07,07:37 PM,$5.539,Aug 07,06:44 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
+Croydon,WAWA #8072,Wawa,3620 STREET RD,"Bensalem, PA",$4.099,Aug 07,07:06 PM,$5.459,Aug 07,05:49 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Croydon,BENSALEM AUTO CARE,Conoco,3585 BRISTOL RD,"Bensalem, PA",$4.099,Aug 07,04:10 PM,,,,Repairs
+Croydon,BP,BP,1724 TRENTON RD,"Levittown , PA",$4.099,Aug 07,02:59 PM,,,,Repairs
+Croydon,7-ELEVEN #32639,7-Eleven,527 W LINCOLN HWY,"Langhorne, PA",$4.099,Aug 07,04:06 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
+Croydon,MILL CREEK GAS,Sunoco,7040 MILL CREEK RD,"Levittown , PA",$4.099,Aug 07,07:16 PM,,,,Convenience Store/Grocery Store
+Croydon,BP,BP,3340 BRISTOL RD,"Bensalem , PA",$4.129,Aug 07,07:20 PM,$5.499,Aug 07,02:04 PM,"Open 24 Hours, Bio-Fuels, Repairs"
+Croydon,SUNOCO,Sunoco,1231 NEW RODGERS RD,"Bristol, PA",$4.159,Aug 07,04:07 PM,$5.799,Aug 07,06:23 AM,"Bio-Fuels, Repairs"
+Croydon,SPEEDWAY #6729,Speedway,2919 STATE ROUTE 413,"Bristol , PA",$4.159,Aug 07,07:39 PM,$5.599,Aug 07,07:14 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Croydon,WAWA #277,Wawa,2250 LINCOLN HWY,"Feasterville Trevose, PA",$4.159,Aug 07,07:13 PM,$5.499,Aug 07,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
+Croydon,A PLUS MINI MARKET,A Plus,3419 STREET RD,"Bensalem , PA",$4.169,Aug 07,06:49 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Croydon,Sunoco,Sunoco,503 STATE RD,"Croydon , PA",$4.199,Aug 07,06:09 PM,$5.459,Aug 07,04:42 PM,"Bio-Fuels, Convenience Store/Grocery Store"
+Croydon,SUNOCO,Sunoco,3611 HULMEVILLE RD,"Bensalem , PA",$4.199,Aug 07,01:33 PM,,,,Repairs
 Croydon,BENSALEM TIGER MART,Exxon,5716 HULMEVILLE RD,"Bensalem , PA",$4.199,Aug 07,12:30 PM,,,,Convenience Store/Grocery Store
-Croydon,A PLUS MINI MARKET,A Plus,231 ROUTE 13,"Bristol , PA",$4.259,Aug 07,01:24 PM,$5.659,Aug 07,10:33 AM,"Bio-Fuels, Repairs"
-Croydon,LIBERTY,Liberty,1616 STREET RD,"Bensalem , PA",$4.399,Aug 06,04:03 PM,,,,Repairs
+Croydon,A PLUS MINI MARKET,A Plus,231 ROUTE 13,"Bristol , PA",$4.259,Aug 07,07:50 PM,$5.659,Aug 07,03:53 PM,"Bio-Fuels, Repairs"
+Croydon,LIBERTY,Liberty,1616 STREET RD,"Bensalem , PA",$4.399,Aug 07,02:11 PM,,,,Repairs
