@@ -1,7 +1,7 @@
 place_name,success,outcome,row_count
 Bensalem,True,table,42
 Bristol,True,table,33
-Chalfont,True,table,26
+Chalfont,True,table,27
 Churchville,True,table,0
 Croydon,True,table,39
 Doylestown,True,table,18
@@ -24,7 +24,7 @@ Richboro,True,table,35
 Richlandtown,True,table,11
 Riegelsville,True,table,1
 Sellersville,True,table,17
-Telford,True,table,19
+Telford,True,table,20
 Village Shires,True,table,30
 Warminster,True,table,48
 Warminster Heights,True,table,49
