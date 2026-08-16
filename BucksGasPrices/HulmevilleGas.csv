@@ -1,5 +1,5 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Hulmeville,A PLUS MINI MARKET,A Plus,1432 STREET RD,"Bensalem , PA",$3.699,Aug 15,02:35 PM,$5.799,Aug 15,04:18 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Hulmeville,A PLUS MINI MARKET,A Plus,1432 STREET RD,"Bensalem , PA",$3.699,Aug 16,01:33 AM,$5.799,Aug 15,04:18 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
 Hulmeville,GULF,Gulf,4362 NEW FALLS RD,"Levittown , PA",$3.799,Aug 15,11:15 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
 Hulmeville,USA GAS,Unbranded,5901 MILL CREEK RD,"Levittown , PA",$3.799,Aug 15,11:29 AM,,,,Repairs
 Hulmeville,Freedom Fuel,Freedom Fuel,905 ROUTE 13,"Bristol , PA",$3.799,Aug 14,03:14 PM,,,,"Restaurant/Deli/Fast Food, Bio-Fuels, Repairs"
@@ -12,44 +12,44 @@ Hulmeville,Conoco,Conoco,2672 BRISTOL PIKE,"Bensalem , PA",$3.799,Aug 15,06:20 P
 Hulmeville,FOODLE FARMS,Unbranded,1205 E LINCOLN HWY,"Langhorne, PA",$3.859,Aug 15,03:59 PM,$5.599,Aug 14,11:21 AM,"Bio-Fuels, Convenience Store/Grocery Store"
 Hulmeville,SUNOCO,Sunoco,652 BELLEVUE AVE,"Langhorne, PA",$3.899,Aug 14,07:55 PM,,,,Repairs
 Hulmeville,GIANT #6324,Giant (Ahold),2391 DURHAM RD,"Levittown , PA",$3.899,Aug 14,10:41 AM,,,,Convenience Store/Grocery Store
-Hulmeville,SUNOCO,Sunoco,2435 DURHAM RD,"Bristol , PA",$3.899,Aug 15,01:00 PM,,,,"Open 24 Hours, Bio-Fuels"
+Hulmeville,SUNOCO,Sunoco,2435 DURHAM RD,"Bristol , PA",$3.899,Aug 15,04:20 PM,,,,"Open 24 Hours, Bio-Fuels"
+Hulmeville,WAWA #219,Wawa,3260 NEW RODGERS RD,"Bristol, PA",$3.899,Aug 15,11:27 PM,$5.799,Aug 15,04:00 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
 Hulmeville,Wawa #8163,Wawa,3800 Bristol Oxford Valley Rd,"Levittown, PA",$3.899,Aug 15,04:34 PM,$5.799,Aug 15,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Hulmeville,SPEEDWAY #6729,Speedway,2919 STATE ROUTE 413,"Bristol , PA",$3.899,Aug 15,09:16 PM,$5.799,Aug 15,09:16 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
 Hulmeville,KNIGHTS ROAD,Conoco,2700 KNIGHTS RD,"Bensalem, PA",$3.899,Aug 15,10:00 AM,,,,Repairs
 Hulmeville,KWIK FILL,Kwik Fill,2511 OLD LINCOLN HWY,"Feasterville Trevose, PA",$3.899,Aug 15,04:47 PM,,,,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
 Hulmeville,Shell,Shell,620 E BRISTOL RD,"Feasterville Trevose , PA",$3.919,Aug 15,02:26 PM,$5.459,Aug 15,03:52 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Hulmeville,Sunoco,Sunoco,111 E LINCOLN HWY,"Langhorne, PA",$3.929,Aug 15,04:23 PM,$5.429,Aug 14,05:23 AM,"Bio-Fuels, Convenience Store/Grocery Store"
+Hulmeville,Sunoco,Sunoco,111 E LINCOLN HWY,"Langhorne, PA",$3.929,Aug 15,04:23 PM,$5.779,Aug 15,10:53 PM,"Bio-Fuels, Convenience Store/Grocery Store"
 Hulmeville,SHELL,Shell,7011 NEW FALLS RD,"Levittown , PA",$3.939,Aug 15,09:25 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Hulmeville,WAWA #8004,Wawa,7625 NEW FALLS RD,"Levittown, PA",$3.949,Aug 15,04:00 PM,$5.799,Aug 15,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Hulmeville,WAWA #8157,Wawa,639 E LINCOLN HWY,"Langhorne, PA",$3.959,Aug 15,06:38 PM,$5.799,Aug 15,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Hulmeville,WAWA #219,Wawa,3260 NEW RODGERS RD,"Bristol, PA",$3.959,Aug 15,04:00 PM,$5.799,Aug 15,04:00 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
-Hulmeville,NEW FALLS ROAD EXXON,Exxon,5300 NEW FALLS RD,"Levittown , PA",$3.959,Aug 15,05:49 PM,$5.519,Aug 15,07:13 PM,
+Hulmeville,WAWA #8004,Wawa,7625 NEW FALLS RD,"Levittown, PA",$3.949,Aug 15,09:52 PM,$5.799,Aug 15,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Hulmeville,WAWA #8157,Wawa,639 E LINCOLN HWY,"Langhorne, PA",$3.959,Aug 15,10:24 PM,$5.799,Aug 15,09:59 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Hulmeville,NEW FALLS ROAD EXXON,Exxon,5300 NEW FALLS RD,"Levittown , PA",$3.959,Aug 15,09:03 PM,$5.519,Aug 15,07:13 PM,
 Hulmeville,BENSALEM AUTO CARE,Conoco,3585 BRISTOL RD,"Bensalem, PA",$3.959,Aug 15,06:21 PM,,,,Repairs
-Hulmeville,Joe's Kwik Marts #383,Joes Kwik Mart,1266 OLD LINCOLN HWY,"Langhorne, PA",$3.959,Aug 15,02:42 PM,,,,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Hulmeville,MILL CREEK GAS,Sunoco,7040 MILL CREEK RD,"Levittown , PA",$3.959,Aug 15,01:00 PM,,,,Convenience Store/Grocery Store
-Hulmeville,WAWA #268,Wawa,5900 BRISTOL PIKE,"Bristol, PA",$3.959,Aug 15,06:30 PM,$5.799,Aug 15,04:00 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
-Hulmeville,Sunoco,Sunoco,503 STATE RD,"Croydon , PA",$3.959,Aug 15,06:34 PM,$5.699,Aug 14,01:34 PM,"Bio-Fuels, Convenience Store/Grocery Store"
-Hulmeville,WAWA #8020,Wawa,132 OXFORD VALLEY RD,"Langhorne, PA",$3.969,Aug 15,06:52 PM,$5.799,Aug 15,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Hulmeville,7-ELEVEN #32639,7-Eleven,527 W LINCOLN HWY,"Langhorne, PA",$3.979,Aug 15,11:15 AM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
+Hulmeville,Joe's Kwik Marts #383,Joes Kwik Mart,1266 OLD LINCOLN HWY,"Langhorne, PA",$3.959,Aug 15,06:23 PM,,,,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Hulmeville,MILL CREEK GAS,Sunoco,7040 MILL CREEK RD,"Levittown , PA",$3.959,Aug 15,02:34 PM,,,,Convenience Store/Grocery Store
+Hulmeville,WAWA #268,Wawa,5900 BRISTOL PIKE,"Bristol, PA",$3.959,Aug 16,01:15 AM,$5.799,Aug 15,04:00 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
+Hulmeville,Sunoco,Sunoco,503 STATE RD,"Croydon , PA",$3.959,Aug 15,11:30 PM,$5.699,Aug 16,01:15 AM,"Bio-Fuels, Convenience Store/Grocery Store"
+Hulmeville,WAWA #8020,Wawa,132 OXFORD VALLEY RD,"Langhorne, PA",$3.969,Aug 15,10:39 PM,$5.799,Aug 15,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Hulmeville,7-ELEVEN #32639,7-Eleven,527 W LINCOLN HWY,"Langhorne, PA",$3.979,Aug 15,09:16 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
 Hulmeville,BRUCES AUTOMOTIVE,Liberty,3700 OXFORD VALLEY RD,"Levittown , PA",$3.999,Aug 14,02:12 PM,,,,
-Hulmeville,SPEEDWAY #6729,Speedway,2919 STATE ROUTE 413,"Bristol , PA",$3.999,Aug 15,11:15 AM,$5.799,Aug 15,11:15 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
 Hulmeville,BP,BP,3340 BRISTOL RD,"Bensalem , PA",$3.999,Aug 15,02:41 PM,$5.799,Aug 15,03:06 PM,"Open 24 Hours, Bio-Fuels, Repairs"
 Hulmeville,LUKOIL,Lukoil,152 E MAPLE AVE,"Langhorne, PA",$3.999,Aug 14,04:14 PM,,,,Convenience Store/Grocery Store
+Hulmeville,EXXON,Exxon,123 N PINE ST,"Langhorne , PA",$3.999,Aug 15,10:12 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
 Hulmeville,GIANT FUEL #6046,Giant (Ahold),2711 STREET RD,"Bensalem, PA",$3.999,Aug 14,08:39 PM,,,,
-Hulmeville,WAWA #8072,Wawa,3620 STREET RD,"Bensalem, PA",$3.999,Aug 15,07:09 PM,$5.799,Aug 15,06:19 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Hulmeville,WAWA #8107,Wawa,3111 STATE RD,"Bristol, PA",$3.999,Aug 15,06:49 PM,$5.799,Aug 15,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Hulmeville,WAWA #8072,Wawa,3620 STREET RD,"Bensalem, PA",$3.999,Aug 16,01:16 AM,$5.799,Aug 15,06:19 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Hulmeville,WAWA #8107,Wawa,3111 STATE RD,"Bristol, PA",$3.999,Aug 16,01:05 AM,$5.799,Aug 15,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Hulmeville,Shell,Shell,2506 LINCOLN HWY,"Feasterville Trevose, PA",$3.999,Aug 15,04:54 PM,,,,"Open 24 Hours, Bio-Fuels"
 Hulmeville,BP,BP,7601 BRISTOL PIKE,"Levittown , PA",$3.999,Aug 15,06:24 AM,$5.499,Aug 14,06:21 AM,"Bio-Fuels, Convenience Store/Grocery Store"
 Hulmeville,Wawa #8127,Wawa,225 LEVITTOWN PARKWAY,"Bristol , PA",$3.999,Aug 15,06:33 PM,$5.799,Aug 15,04:00 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store, Repairs"
-Hulmeville,DICK AND RIPS HOLLAND SUNOCO,Sunoco,287 HOLLAND RD,"Southampton , PA",$3.999,Aug 15,12:10 PM,,,,Repairs
-Hulmeville,A PLUS MINI MARKET,A Plus,3419 STREET RD,"Bensalem , PA",$4.059,Aug 15,05:42 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Hulmeville,DICK AND RIPS HOLLAND SUNOCO,Sunoco,287 HOLLAND RD,"Southampton , PA",$3.999,Aug 15,03:34 PM,,,,Repairs
+Hulmeville,A PLUS MINI MARKET,A Plus,3419 STREET RD,"Bensalem , PA",$4.059,Aug 15,09:38 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
 Hulmeville,A PLUS MINI MARKET,A Plus,231 ROUTE 13,"Bristol , PA",$4.059,Aug 15,05:50 PM,$5.659,Aug 14,10:23 AM,"Bio-Fuels, Repairs"
 Hulmeville,A PLUS MINI MARKET,A Plus,8596 NEW FALLS RD,"Levittown , PA",$4.059,Aug 15,03:47 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Hulmeville,EXXON,Exxon,123 N PINE ST,"Langhorne , PA",$4.069,Aug 14,05:14 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
-Hulmeville,WAWA #277,Wawa,2250 LINCOLN HWY,"Feasterville Trevose, PA",$4.079,Aug 15,04:00 PM,$5.799,Aug 15,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
+Hulmeville,WAWA #277,Wawa,2250 LINCOLN HWY,"Feasterville Trevose, PA",$4.079,Aug 16,01:55 AM,$5.799,Aug 15,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
 Hulmeville,WAWA #8075,Wawa,601 E STREET RD,"Feasterville Trevose, PA",$4.079,Aug 15,07:51 PM,$5.799,Aug 15,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Hulmeville,BENSALEM TIGER MART,Exxon,5716 HULMEVILLE RD,"Bensalem , PA",$4.099,Aug 15,03:31 PM,,,,Convenience Store/Grocery Store
-Hulmeville,BP,BP,1724 TRENTON RD,"Levittown , PA",$4.099,Aug 14,01:36 PM,,,,Repairs
-Hulmeville,SUNOCO,Sunoco,1231 NEW RODGERS RD,"Bristol, PA",$4.099,Aug 15,05:12 PM,$5.999,Aug 15,03:12 PM,"Bio-Fuels, Repairs"
+Hulmeville,BENSALEM TIGER MART,Exxon,5716 HULMEVILLE RD,"Bensalem , PA",$4.099,Aug 15,04:14 PM,,,,Convenience Store/Grocery Store
+Hulmeville,BP,BP,1724 TRENTON RD,"Levittown , PA",$4.099,Aug 15,03:35 PM,,,,Repairs
+Hulmeville,SUNOCO,Sunoco,1231 NEW RODGERS RD,"Bristol, PA",$4.099,Aug 15,09:35 PM,$5.999,Aug 15,03:12 PM,"Bio-Fuels, Repairs"
 Hulmeville,SUNOCO,Sunoco,3611 HULMEVILLE RD,"Bensalem , PA",$4.099,Aug 15,05:20 PM,,,,Repairs
 Hulmeville,SUNOCO,Sunoco,398 LINCOLN HWY,"Fairless Hills , PA",$4.099,Aug 15,03:11 PM,,,,"Bio-Fuels, Repairs"
 Hulmeville,SHELL,Shell,236 LINCOLN HWY,"Fairless Hills, PA",$4.139,Aug 15,05:11 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
