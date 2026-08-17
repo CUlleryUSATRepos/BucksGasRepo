@@ -1,12 +1,13 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Perkasie,SUNOCO,Sunoco,303 HARLEYSVILLE PIKE,"Souderton , PA",$3.999,Aug 15,05:17 PM,,,,
+Perkasie,SUNOCO,Sunoco,303 HARLEYSVILLE PIKE,"Souderton , PA",$3.999,Aug 17,07:40 AM,,,,
 Perkasie,CIRCLE K,Circle K,403 N MAIN ST,"Telford, PA",$4.039,Aug 16,05:26 PM,,,,Convenience Store/Grocery Store
+Perkasie,MOYER AND SONS,Unbranded,113 E RELIANCE RD,"Souderton , PA",$4.049,Aug 17,07:54 AM,,,,Bio-Fuels
 Perkasie,JOES KWIK MARTS #1048,Joes Kwik Mart,515 DUBLIN PIKE,"Perkasie , PA",$4.059,Aug 16,06:46 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Perkasie,WAWA #8139,Wawa,320 W ROUTE 313,"Perkasie , PA",$4.059,Aug 16,09:48 PM,$5.799,Aug 16,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Perkasie,WAWA #8139,Wawa,320 W ROUTE 313,"Perkasie , PA",$4.059,Aug 17,07:37 AM,$5.799,Aug 17,07:36 AM,"Open 24 Hours, Convenience Store/Grocery Store"
 Perkasie,WEIS MARKETS,Gas N Go (Weis),431 W DUBLIN PIKE,"Perkasie, PA",$4.059,Aug 15,08:58 PM,,,,
-Perkasie,WAWA #8008,Wawa,3520 BETHLEHEM PIKE,"Souderton, PA",$4.099,Aug 16,11:37 PM,$5.799,Aug 16,04:00 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
-Perkasie,WAWA #272,Wawa,1095 S WEST END BLVD,"Quakertown, PA",$4.099,Aug 16,08:07 PM,$5.799,Aug 16,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
-Perkasie,SUNOCO,Sunoco,672 E BROAD ST,"Souderton , PA",$4.099,Aug 16,11:02 AM,,,,Convenience Store/Grocery Store
-Perkasie,SELLERSVILLE GULF,Gulf,396 N MAIN ST,"Sellersville , PA",$4.119,Aug 16,02:23 AM,,,,Convenience Store/Grocery Store
-Perkasie,BODKINS SUNOCO,Sunoco,928 LAWN AVE,"Sellersville, PA",$4.139,Aug 16,05:22 PM,,,,
-Perkasie,Sunoco,Sunoco,4802 OLD BETHLEHEM PIKE,"Telford , PA",$4.139,Aug 16,04:57 AM,$5.479,Aug 16,06:24 PM,Bio-Fuels
+Perkasie,WAWA #272,Wawa,1095 S WEST END BLVD,"Quakertown, PA",$4.089,Aug 17,07:37 AM,$5.799,Aug 16,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
+Perkasie,WAWA #8008,Wawa,3520 BETHLEHEM PIKE,"Souderton, PA",$4.099,Aug 17,07:43 AM,$5.799,Aug 16,04:00 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
+Perkasie,SUNOCO,Sunoco,672 E BROAD ST,"Souderton , PA",$4.099,Aug 17,06:40 AM,,,,Convenience Store/Grocery Store
+Perkasie,SELLERSVILLE GULF,Gulf,396 N MAIN ST,"Sellersville , PA",$4.119,Aug 17,05:39 AM,,,,Convenience Store/Grocery Store
+Perkasie,BODKINS SUNOCO,Sunoco,928 LAWN AVE,"Sellersville, PA",$4.139,Aug 17,07:43 AM,,,,
+Perkasie,Sunoco,Sunoco,4802 OLD BETHLEHEM PIKE,"Telford , PA",$4.139,Aug 17,07:17 AM,$5.479,Aug 17,07:34 AM,Bio-Fuels
