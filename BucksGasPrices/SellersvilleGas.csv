@@ -1,19 +1,19 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Sellersville,SUNOCO,Sunoco,303 HARLEYSVILLE PIKE,"Souderton , PA",$3.999,Aug 20,04:11 PM,$5.579,Aug 20,12:24 PM,
-Sellersville,BERGEYS,Unbranded,436 HARLEYSVILLE PIKE,"Souderton , PA",$3.999,Aug 20,07:49 PM,$5.599,Aug 20,08:57 PM,"Open 24 Hours, Bio-Fuels, Repairs"
-Sellersville,CIRCLE K,Circle K,403 N MAIN ST,"Telford, PA",$4.039,Aug 20,11:28 AM,,,,Convenience Store/Grocery Store
+Sellersville,SUNOCO,Sunoco,303 HARLEYSVILLE PIKE,"Souderton , PA",$3.999,Aug 21,07:48 AM,$5.579,Aug 20,12:24 PM,
+Sellersville,BERGEYS,Unbranded,436 HARLEYSVILLE PIKE,"Souderton , PA",$3.999,Aug 21,07:30 AM,$5.659,Aug 21,07:25 AM,"Open 24 Hours, Bio-Fuels, Repairs"
+Sellersville,CIRCLE K,Circle K,403 N MAIN ST,"Telford, PA",$4.039,Aug 21,07:34 AM,,,,Convenience Store/Grocery Store
 Sellersville,STANS STOP,Unbranded,501 ROUTE 313,"Perkasie , PA",$4.039,Aug 20,11:06 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
 Sellersville,WEIS MARKETS,Gas N Go (Weis),431 W DUBLIN PIKE,"Perkasie, PA",$4.039,Aug 19,04:44 PM,,,,
-Sellersville,SUNOCO,Sunoco,672 E BROAD ST,"Souderton , PA",$4.049,Aug 20,12:13 PM,,,,Convenience Store/Grocery Store
-Sellersville,WAWA #8056,Wawa,2480 BETHLEHEM PIKE,"Hatfield, PA",$4.059,Aug 21,01:09 AM,$5.999,Aug 21,01:16 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Sellersville,JOES KWIK MARTS #1048,Joes Kwik Mart,515 DUBLIN PIKE,"Perkasie , PA",$4.059,Aug 20,07:54 PM,$5.999,Aug 20,02:27 PM,"Bio-Fuels, Convenience Store/Grocery Store"
-Sellersville,WAWA #8139,Wawa,320 W ROUTE 313,"Perkasie , PA",$4.059,Aug 20,10:47 PM,$5.999,Aug 20,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Sellersville,SUNOCO,Sunoco,672 E BROAD ST,"Souderton , PA",$4.049,Aug 21,05:47 AM,,,,Convenience Store/Grocery Store
+Sellersville,WAWA #8056,Wawa,2480 BETHLEHEM PIKE,"Hatfield, PA",$4.059,Aug 21,07:56 AM,$5.999,Aug 21,07:10 AM,"Open 24 Hours, Convenience Store/Grocery Store"
+Sellersville,JOES KWIK MARTS #1048,Joes Kwik Mart,515 DUBLIN PIKE,"Perkasie , PA",$4.059,Aug 21,07:40 AM,$5.999,Aug 21,06:03 AM,"Bio-Fuels, Convenience Store/Grocery Store"
+Sellersville,WAWA #8139,Wawa,320 W ROUTE 313,"Perkasie , PA",$4.059,Aug 21,07:51 AM,$5.999,Aug 21,07:34 AM,"Open 24 Hours, Convenience Store/Grocery Store"
 Sellersville,SELLERSVILLE GULF,Gulf,396 N MAIN ST,"Sellersville , PA",$4.079,Aug 20,04:59 PM,,,,Convenience Store/Grocery Store
-Sellersville,Sunoco,Sunoco,4802 OLD BETHLEHEM PIKE,"Telford , PA",$4.079,Aug 20,08:20 PM,$5.579,Aug 20,08:19 PM,Bio-Fuels
-Sellersville,WAWA #272,Wawa,1095 S WEST END BLVD,"Quakertown, PA",$4.089,Aug 21,12:29 AM,$5.999,Aug 20,05:14 PM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
-Sellersville,BODKINS SUNOCO,Sunoco,928 LAWN AVE,"Sellersville, PA",$4.099,Aug 20,04:53 PM,,,,
+Sellersville,Sunoco,Sunoco,4802 OLD BETHLEHEM PIKE,"Telford , PA",$4.079,Aug 20,08:20 PM,$5.579,Aug 21,07:43 AM,Bio-Fuels
+Sellersville,WAWA #272,Wawa,1095 S WEST END BLVD,"Quakertown, PA",$4.089,Aug 21,07:41 AM,$5.999,Aug 21,06:40 AM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
+Sellersville,BODKINS SUNOCO,Sunoco,928 LAWN AVE,"Sellersville, PA",$4.099,Aug 21,07:05 AM,,,,
 Sellersville,GIANT #6018,Giant (Ahold),786 ROUTE 113,"Souderton , PA",$4.099,Aug 20,08:01 PM,,,,
-Sellersville,WAWA #8008,Wawa,3520 BETHLEHEM PIKE,"Souderton, PA",$4.099,Aug 21,01:01 AM,$5.999,Aug 20,05:04 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
+Sellersville,WAWA #8008,Wawa,3520 BETHLEHEM PIKE,"Souderton, PA",$4.099,Aug 21,07:55 AM,$5.999,Aug 21,05:11 AM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
 Sellersville,SHELL,Shell,2301 N 5TH ST,"Perkasie , PA",$4.099,Aug 20,09:16 AM,$5.559,Aug 20,06:27 PM,"Bio-Fuels, Repairs"
-Sellersville,MOYER AND SONS,Unbranded,113 E RELIANCE RD,"Souderton , PA",$4.209,Aug 20,05:38 PM,$5.949,Aug 20,01:03 PM,Bio-Fuels
+Sellersville,MOYER AND SONS,Unbranded,113 E RELIANCE RD,"Souderton , PA",$4.209,Aug 21,07:32 AM,$5.949,Aug 20,01:03 PM,Bio-Fuels
 Sellersville,US GAS,Unbranded,401 E WALNUT ST,"Perkasie , PA",$4.259,Aug 20,02:26 PM,,,,Repairs
