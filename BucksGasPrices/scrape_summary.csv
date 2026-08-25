@@ -1,23 +1,23 @@
 place_name,success,outcome,row_count
-Bensalem,True,table,43
-Bristol,True,table,33
+Bensalem,True,table,41
+Bristol,True,table,32
 Chalfont,True,table,27
 Churchville,True,table,0
-Croydon,True,table,39
+Croydon,True,table,38
 Doylestown,True,table,19
 Dublin,True,table,11
-Fairless Hills,True,table,48
+Fairless Hills,True,table,47
 Ferndale,True,table,2
-Hulmeville,True,table,59
-Ivyland,True,table,45
-Langhorne,True,table,49
-Levittown,True,table,46
+Hulmeville,True,table,57
+Ivyland,True,table,44
+Langhorne,True,table,48
+Levittown,True,table,45
 Mechanicsville,True,table,12
-Morrisville,True,table,13
+Morrisville,True,table,12
 New Hope,True,table,1
 Newtown,True,table,21
 Newtown Grant,True,table,13
-Penndel,True,table,61
+Penndel,True,table,59
 Perkasie,True,table,15
 Quakertown,True,table,11
 Richboro,True,table,35
@@ -25,9 +25,9 @@ Richlandtown,True,table,12
 Riegelsville,True,table,1
 Sellersville,True,table,16
 Telford,True,table,19
-Village Shires,True,table,31
-Warminster,True,table,49
-Warminster Heights,True,table,49
+Village Shires,True,table,30
+Warminster,True,table,50
+Warminster Heights,True,table,50
 Woodbourne,True,table,45
 Woodside,True,table,30
-Yardley,True,table,19
+Yardley,True,table,18
