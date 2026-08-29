@@ -1,20 +1,21 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
 Telford,SUNOCO,Sunoco,303 HARLEYSVILLE PIKE,"Souderton , PA",$4.059,Aug 28,05:21 PM,,,,
 Telford,CIRCLE K,Circle K,403 N MAIN ST,"Telford, PA",$4.099,Aug 28,06:12 PM,,,,Convenience Store/Grocery Store
+Telford,LANDIS FUEL CENTER,Unbranded,2685 COUNTY LINE RD,"Telford , PA",$4.099,Aug 27,,,,,Open 24 Hours
 Telford,BERGEYS,Unbranded,436 HARLEYSVILLE PIKE,"Souderton , PA",$4.099,Aug 28,06:32 PM,$5.699,Aug 28,03:46 PM,"Open 24 Hours, Bio-Fuels, Repairs"
 Telford,Sunoco,Sunoco,495 MAIN ST,"Harleysville, PA",$4.099,Aug 28,03:58 PM,,,,Repairs
 Telford,SUNOCO,Sunoco,161 MAIN ST,"Harleysville , PA",$4.139,Aug 28,06:06 PM,$5.679,Aug 28,06:43 PM,"Bio-Fuels, Convenience Store/Grocery Store"
-Telford,SUNOCO,Sunoco,672 E BROAD ST,"Souderton , PA",$4.149,Aug 28,05:00 PM,,,,Convenience Store/Grocery Store
+Telford,SUNOCO,Sunoco,672 E BROAD ST,"Souderton , PA",$4.149,Aug 28,08:32 PM,,,,Convenience Store/Grocery Store
 Telford,SELLERSVILLE GULF,Gulf,396 N MAIN ST,"Sellersville , PA",$4.159,Aug 28,05:31 PM,,,,Convenience Store/Grocery Store
-Telford,Sunoco,Sunoco,4802 OLD BETHLEHEM PIKE,"Telford , PA",$4.179,Aug 28,04:12 PM,$5.639,Aug 28,05:19 PM,Bio-Fuels
-Telford,Uni-Mart,Uni-Mart,590 MAIN ST,"Harleysville , PA",$4.179,Aug 28,02:29 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Telford,WAWA #8135,Wawa,201 MAIN ST,"Harleysville, PA",$4.179,Aug 28,06:08 PM,$5.999,Aug 28,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Telford,Sunoco,Sunoco,4802 OLD BETHLEHEM PIKE,"Telford , PA",$4.179,Aug 28,09:48 PM,$5.639,Aug 28,05:19 PM,Bio-Fuels
+Telford,Uni-Mart,Uni-Mart,590 MAIN ST,"Harleysville , PA",$4.179,Aug 28,03:41 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Telford,WAWA #8135,Wawa,201 MAIN ST,"Harleysville, PA",$4.179,Aug 29,01:06 AM,$5.999,Aug 28,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Telford,GIANT #6018,Giant (Ahold),786 ROUTE 113,"Souderton , PA",$4.199,Aug 28,11:59 AM,,,,
-Telford,WAWA #8008,Wawa,3520 BETHLEHEM PIKE,"Souderton, PA",$4.199,Aug 28,07:46 PM,$5.999,Aug 28,04:00 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
-Telford,BODKINS SUNOCO,Sunoco,928 LAWN AVE,"Sellersville, PA",$4.199,Aug 28,04:14 PM,,,,
-Telford,WAWA #8056,Wawa,2480 BETHLEHEM PIKE,"Hatfield, PA",$4.199,Aug 28,07:38 PM,$5.999,Aug 28,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Telford,WAWA #8008,Wawa,3520 BETHLEHEM PIKE,"Souderton, PA",$4.199,Aug 29,01:50 AM,$5.999,Aug 28,04:00 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
+Telford,BODKINS SUNOCO,Sunoco,928 LAWN AVE,"Sellersville, PA",$4.199,Aug 28,05:26 PM,,,,
+Telford,WAWA #8056,Wawa,2480 BETHLEHEM PIKE,"Hatfield, PA",$4.199,Aug 29,12:27 AM,$5.999,Aug 28,11:33 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Telford,GIANT #6445,Giant (Ahold),1540 COWPATH RD,"Hatfield , PA",$4.199,Aug 28,04:18 PM,,,,Convenience Store/Grocery Store
-Telford,WAWA #8050,Wawa,200 FORTY FOOT RD,"Hatfield, PA",$4.199,Aug 28,07:03 PM,$5.979,Aug 28,04:00 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Telford,WAWA #8050,Wawa,200 FORTY FOOT RD,"Hatfield, PA",$4.199,Aug 29,01:36 AM,$5.979,Aug 28,04:00 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
 Telford,ROYAL FARMS #240,Royal Farms,935 BETHLEHEM PIKE,"Colmar, PA",$4.199,Aug 28,04:38 PM,$5.999,Aug 28,10:37 AM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
 Telford,MOYER AND SONS,Unbranded,113 E RELIANCE RD,"Souderton , PA",$4.209,Aug 28,01:35 PM,$5.949,Aug 28,04:18 PM,Bio-Fuels
-Telford,A PLUS MINI MARKET,A Plus,1501 BETHLEHEM PIKE,"Line Lexington , PA",$4.299,Aug 28,07:29 PM,$5.999,Aug 28,02:39 PM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food, Bio-Fuels"
+Telford,A PLUS MINI MARKET,A Plus,1501 BETHLEHEM PIKE,"Line Lexington , PA",$4.299,Aug 28,07:29 PM,$5.999,Aug 28,09:56 PM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food, Bio-Fuels"
