@@ -1,16 +1,19 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Sellersville,SUNOCO,Sunoco,303 HARLEYSVILLE PIKE,"Souderton , PA",$4.259,Sep 08,07:52 PM,,,,
-Sellersville,CIRCLE K,Circle K,403 N MAIN ST,"Telford, PA",$4.299,Sep 08,06:06 PM,,,,Convenience Store/Grocery Store
-Sellersville,SUNOCO,Sunoco,672 E BROAD ST,"Souderton , PA",$4.299,Sep 08,04:47 PM,,,,Convenience Store/Grocery Store
-Sellersville,BERGEYS,Unbranded,436 HARLEYSVILLE PIKE,"Souderton , PA",$4.299,Sep 08,07:11 PM,$5.999,Sep 08,03:55 PM,"Open 24 Hours, Bio-Fuels, Repairs"
-Sellersville,SELLERSVILLE GULF,Gulf,396 N MAIN ST,"Sellersville , PA",$4.339,Sep 08,04:54 PM,,,,Convenience Store/Grocery Store
-Sellersville,BODKINS SUNOCO,Sunoco,928 LAWN AVE,"Sellersville, PA",$4.379,Sep 08,03:58 PM,,,,
-Sellersville,MOYER AND SONS,Unbranded,113 E RELIANCE RD,"Souderton , PA",$4.379,Sep 08,03:28 PM,$5.869,Sep 08,04:55 PM,Bio-Fuels
-Sellersville,GIANT #6018,Giant (Ahold),786 ROUTE 113,"Souderton , PA",$4.399,Sep 08,05:06 PM,,,,
-Sellersville,Sunoco,Sunoco,4802 OLD BETHLEHEM PIKE,"Telford , PA",$4.559,Sep 08,05:33 PM,$5.999,Sep 08,05:33 PM,Bio-Fuels
-Sellersville,WEIS MARKETS,Gas N Go (Weis),431 W DUBLIN PIKE,"Perkasie, PA",$4.569,Sep 08,05:16 PM,,,,
-Sellersville,WAWA #8008,Wawa,3520 BETHLEHEM PIKE,"Souderton, PA",$4.599,Sep 08,06:37 PM,$6.199,Sep 08,04:00 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
-Sellersville,WAWA #272,Wawa,1095 S WEST END BLVD,"Quakertown, PA",$4.599,Sep 08,05:42 PM,$6.199,Sep 08,05:40 PM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
-Sellersville,WAWA #8056,Wawa,2480 BETHLEHEM PIKE,"Hatfield, PA",$4.599,Sep 08,07:22 PM,$6.199,Sep 08,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Sellersville,JOES KWIK MARTS #1048,Joes Kwik Mart,515 DUBLIN PIKE,"Perkasie , PA",$4.599,Sep 08,07:30 PM,$6.199,Sep 08,03:30 PM,"Bio-Fuels, Convenience Store/Grocery Store"
-Sellersville,WAWA #8139,Wawa,320 W ROUTE 313,"Perkasie , PA",$4.599,Sep 08,07:42 PM,$6.199,Sep 08,06:11 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Sellersville,STANS STOP,Unbranded,501 ROUTE 313,"Perkasie , PA",$4.379,Sep 15,02:30 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Sellersville,BR Scholl,Unbranded,2301 N 5TH ST,"Perkasie , PA",$4.399,Sep 14,08:48 AM,,,,"Bio-Fuels, Repairs"
+Sellersville,SELLERSVILLE GULF,Gulf,396 N MAIN ST,"Sellersville , PA",$4.459,Sep 15,12:06 PM,,,,Convenience Store/Grocery Store
+Sellersville,US GAS,Unbranded,401 E WALNUT ST,"Perkasie , PA",$4.459,Sep 15,03:08 PM,,,,Repairs
+Sellersville,CIRCLE K,Circle K,403 N MAIN ST,"Telford, PA",$4.459,Sep 15,04:17 PM,,,,Convenience Store/Grocery Store
+Sellersville,SUNOCO,Sunoco,303 HARLEYSVILLE PIKE,"Souderton , PA",$4.459,Sep 15,04:18 PM,$6.179,Sep 14,03:50 PM,
+Sellersville,BERGEYS,Unbranded,436 HARLEYSVILLE PIKE,"Souderton , PA",$4.459,Sep 15,04:26 PM,$6.199,Sep 15,03:55 PM,"Open 24 Hours, Bio-Fuels, Repairs"
+Sellersville,Sunoco,Sunoco,4802 OLD BETHLEHEM PIKE,"Telford , PA",$4.479,Sep 15,01:31 PM,$6.179,Sep 15,03:40 PM,Bio-Fuels
+Sellersville,GIANT #6018,Giant (Ahold),786 ROUTE 113,"Souderton , PA",$4.499,Sep 15,02:47 PM,,,,
+Sellersville,WAWA #8008,Wawa,3520 BETHLEHEM PIKE,"Souderton, PA",$4.499,Sep 15,04:26 PM,$6.399,Sep 15,04:00 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
+Sellersville,BODKINS SUNOCO,Sunoco,928 LAWN AVE,"Sellersville, PA",$4.559,Sep 15,01:48 PM,,,,
+Sellersville,WEIS MARKETS,Gas N Go (Weis),431 W DUBLIN PIKE,"Perkasie, PA",$4.569,Sep 15,03:48 PM,,,,
+Sellersville,MOYER AND SONS,Unbranded,113 E RELIANCE RD,"Souderton , PA",$4.589,Sep 15,03:31 PM,,,,Bio-Fuels
+Sellersville,SUNOCO,Sunoco,672 E BROAD ST,"Souderton , PA",$4.599,Sep 15,04:13 PM,,,,Convenience Store/Grocery Store
+Sellersville,WAWA #272,Wawa,1095 S WEST END BLVD,"Quakertown, PA",$4.599,Sep 15,04:26 PM,$6.399,Sep 15,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
+Sellersville,WAWA #8056,Wawa,2480 BETHLEHEM PIKE,"Hatfield, PA",$4.599,Sep 15,04:17 PM,$6.399,Sep 15,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Sellersville,JOES KWIK MARTS #1048,Joes Kwik Mart,515 DUBLIN PIKE,"Perkasie , PA",$4.599,Sep 15,03:42 PM,$6.399,Sep 15,08:09 AM,"Bio-Fuels, Convenience Store/Grocery Store"
+Sellersville,WAWA #8139,Wawa,320 W ROUTE 313,"Perkasie , PA",$4.599,Sep 15,04:23 PM,$6.399,Sep 15,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
