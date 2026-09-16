@@ -1,5 +1,5 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Warminster Heights,COSTCO #1103,Costco,100 VETERANS WAY,"Warminster, PA",$4.199,Sep 15,07:33 PM,,,,Convenience Store/Grocery Store
+Warminster Heights,COSTCO #1103,Costco,100 VETERANS WAY,"Warminster, PA",$4.199,Sep 15,07:49 PM,,,,Convenience Store/Grocery Store
 Warminster Heights,SAMS CLUB #6676,Sams Club,3925 WELSH RD,"Willow Grove , PA",$4.199,Sep 15,02:02 PM,,,,Convenience Store/Grocery Store
 Warminster Heights,Freedom Fuel,Freedom Fuel,299 E STREET RD,"Warminster , PA",$4.299,Sep 15,01:39 PM,,,,"Bio-Fuels, Repairs"
 Warminster Heights,Freedom Fuel,Freedom Fuel,17 STREET RD,"Southampton , PA",$4.299,Sep 15,01:51 PM,$5.499,Sep 15,01:19 PM,Bio-Fuels
@@ -8,10 +8,10 @@ Warminster Heights,SPEEDWAY #6805,Speedway,724 STREET RD,"Southampton , PA",$4.2
 Warminster Heights,SUNOCO,Sunoco,20 2ND STREET PIKE,"Southampton , PA",$4.299,Sep 15,05:52 PM,$6.399,Sep 15,06:07 AM,"Bio-Fuels, Repairs"
 Warminster Heights,Wawa #8216,Wawa,25 2ND STREET PIKE,"Southampton , PA",$4.299,Sep 15,04:00 PM,$6.399,Sep 15,04:00 PM,
 Warminster Heights,CONOCO,Conoco,714 EASTON RD,"Willow Grove, PA",$4.299,Sep 15,04:11 PM,$5.899,Sep 15,11:55 AM,"Bio-Fuels, Repairs"
-Warminster Heights,COUNTRY FARMS,Unbranded,287 YORK RD,"Warminster , PA",$4.349,Sep 15,02:04 PM,,,,Convenience Store/Grocery Store
+Warminster Heights,COUNTRY FARMS,Unbranded,287 YORK RD,"Warminster , PA",$4.349,Sep 15,07:51 PM,,,,Convenience Store/Grocery Store
 Warminster Heights,DELTA,Delta,288 YORK RD,"Warminster , PA",$4.349,Sep 15,12:25 PM,,,,Bio-Fuels
 Warminster Heights,Exxon,Exxon,40 E STREET RD,"Warminster , PA",$4.399,Sep 15,02:32 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Warminster Heights,SUNOCO,Sunoco,555 N YORK RD,"Hatboro , PA",$4.399,Sep 15,06:39 PM,,,,Bio-Fuels
+Warminster Heights,SUNOCO,Sunoco,555 N YORK RD,"Hatboro , PA",$4.399,Sep 15,07:48 PM,,,,Bio-Fuels
 Warminster Heights,US GAS,US Gas,405 W COUNTY LINE RD,"Hatboro, PA",$4.399,Sep 15,10:43 AM,,,,"Convenience Store/Grocery Store, Repairs"
 Warminster Heights,US GAS,US Gas,982 EASTON RD,"Horsham , PA",$4.399,Sep 14,12:31 PM,,,,Convenience Store/Grocery Store
 Warminster Heights,SHELL,Shell,2818 EASTON RD,"Willow Grove , PA",$4.459,Sep 15,01:55 PM,$6.299,Sep 15,10:28 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
@@ -45,5 +45,5 @@ Warminster Heights,7-ELEVEN #40097,7-Eleven,999 2ND STREET PIKE,"Richboro , PA",
 Warminster Heights,Sunoco,Sunoco,2140 YORK RD,"Jamison, PA",$4.599,Sep 15,05:33 PM,,,,"Convenience Store/Grocery Store, Repairs"
 Warminster Heights,Sunoco,Sunoco,190 W STREET RD,"Feasterville Trevose, PA",$4.599,Sep 15,06:07 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
 Warminster Heights,SUNOCO,Sunoco,1474 OLD YORK RD,"Abington, PA",$4.599,Sep 15,05:11 PM,,,,"Bio-Fuels, Repairs"
-Warminster Heights,WAWA #8057,Wawa,2500 PHILMONT AVE,"Huntingdon Valley, PA",$4.599,Sep 15,07:19 PM,$6.399,Sep 15,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Warminster Heights,WAWA #8057,Wawa,2500 PHILMONT AVE,"Huntingdon Valley, PA",$4.599,Sep 15,07:52 PM,$6.399,Sep 15,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Warminster Heights,SUNOCO,Sunoco,2295 HUNTINGDON PIKE,"Huntingdon Valley , PA",$4.599,Sep 15,10:10 AM,$6.199,Sep 15,08:03 AM,"Bio-Fuels, Repairs"

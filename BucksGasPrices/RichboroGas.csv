@@ -1,5 +1,5 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Richboro,COSTCO #1103,Costco,100 VETERANS WAY,"Warminster, PA",$4.199,Sep 15,07:33 PM,,,,Convenience Store/Grocery Store
+Richboro,COSTCO #1103,Costco,100 VETERANS WAY,"Warminster, PA",$4.199,Sep 15,07:49 PM,,,,Convenience Store/Grocery Store
 Richboro,Freedom Fuel,Freedom Fuel,17 STREET RD,"Southampton , PA",$4.299,Sep 15,01:51 PM,$5.499,Sep 15,01:19 PM,Bio-Fuels
 Richboro,SPEEDWAY #6805,Speedway,724 STREET RD,"Southampton , PA",$4.299,Sep 15,02:49 PM,$6.399,Sep 15,02:49 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
 Richboro,Freedom Fuel,Freedom Fuel,299 E STREET RD,"Warminster , PA",$4.299,Sep 15,01:39 PM,,,,"Bio-Fuels, Repairs"
@@ -7,11 +7,11 @@ Richboro,GIANT #6095,Giant (Ahold),466 2ND STREET PIKE,"Southampton , PA",$4.299
 Richboro,SUNOCO,Sunoco,20 2ND STREET PIKE,"Southampton , PA",$4.299,Sep 15,05:52 PM,$6.399,Sep 15,06:07 AM,"Bio-Fuels, Repairs"
 Richboro,Wawa #8216,Wawa,25 2ND STREET PIKE,"Southampton , PA",$4.299,Sep 15,04:00 PM,$6.399,Sep 15,04:00 PM,
 Richboro,LUKOIL,Lukoil,2 N SYCAMORE ST,"Newtown, PA",$4.339,Sep 15,07:55 AM,,,,
-Richboro,COUNTRY FARMS,Unbranded,287 YORK RD,"Warminster , PA",$4.349,Sep 15,02:04 PM,,,,Convenience Store/Grocery Store
+Richboro,COUNTRY FARMS,Unbranded,287 YORK RD,"Warminster , PA",$4.349,Sep 15,07:51 PM,,,,Convenience Store/Grocery Store
 Richboro,DELTA,Delta,288 YORK RD,"Warminster , PA",$4.349,Sep 15,12:25 PM,,,,Bio-Fuels
 Richboro,Shell,Shell,620 E BRISTOL RD,"Feasterville Trevose , PA",$4.379,Sep 15,06:21 PM,,,,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
 Richboro,Exxon,Exxon,40 E STREET RD,"Warminster , PA",$4.399,Sep 15,02:32 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Richboro,SUNOCO,Sunoco,555 N YORK RD,"Hatboro , PA",$4.399,Sep 15,06:39 PM,,,,Bio-Fuels
+Richboro,SUNOCO,Sunoco,555 N YORK RD,"Hatboro , PA",$4.399,Sep 15,07:48 PM,,,,Bio-Fuels
 Richboro,SUNOCO,Sunoco,890 E STREET RD,"Warminster , PA",$4.499,Sep 15,06:04 PM,$5.999,Sep 14,01:06 PM,"Bio-Fuels, Convenience Store/Grocery Store"
 Richboro,DICK AND RIPS HOLLAND SUNOCO,Sunoco,287 HOLLAND RD,"Southampton , PA",$4.559,Sep 15,03:26 PM,,,,Repairs
 Richboro,WEIS MARKETS,Gas N Go (Weis),1133 YORK RD,"Warminster, PA",$4.559,Sep 15,05:19 PM,$6.329,Sep 15,10:59 AM,
