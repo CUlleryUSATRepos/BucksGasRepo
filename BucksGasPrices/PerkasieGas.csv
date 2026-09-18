@@ -1,17 +1,18 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Perkasie,STANS STOP,Unbranded,501 ROUTE 313,"Perkasie , PA",$4.379,Sep 17,08:10 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
+Perkasie,STANS STOP,Unbranded,501 ROUTE 313,"Perkasie , PA",$4.379,Sep 18,03:43 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
 Perkasie,US GAS,Unbranded,530 E BROAD ST,"Quakertown , PA",$4.439,Sep 17,01:42 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Perkasie,US GAS,Unbranded,401 E WALNUT ST,"Perkasie , PA",$4.459,Sep 17,04:32 PM,,,,Repairs
-Perkasie,SELLERSVILLE GULF,Gulf,396 N MAIN ST,"Sellersville , PA",$4.459,Sep 18,12:18 PM,,,,Convenience Store/Grocery Store
+Perkasie,US GAS,Unbranded,401 E WALNUT ST,"Perkasie , PA",$4.459,Sep 18,03:27 PM,,,,Repairs
+Perkasie,SELLERSVILLE GULF,Gulf,396 N MAIN ST,"Sellersville , PA",$4.459,Sep 18,02:11 PM,,,,Convenience Store/Grocery Store
 Perkasie,BR Scholl,Unbranded,2301 N 5TH ST,"Perkasie , PA",$4.459,Sep 18,11:00 AM,$6.399,Sep 18,10:02 AM,"Bio-Fuels, Repairs"
-Perkasie,Sunoco,Sunoco,4802 OLD BETHLEHEM PIKE,"Telford , PA",$4.479,Sep 18,01:56 PM,$6.479,Sep 18,01:51 PM,Bio-Fuels
-Perkasie,CIRCLE K,Circle K,403 N MAIN ST,"Telford, PA",$4.499,Sep 18,01:37 PM,,,,Convenience Store/Grocery Store
-Perkasie,GIANT #6018,Giant (Ahold),786 ROUTE 113,"Souderton , PA",$4.499,Sep 18,12:21 PM,,,,
-Perkasie,WAWA #8008,Wawa,3520 BETHLEHEM PIKE,"Souderton, PA",$4.499,Sep 18,01:40 PM,$6.599,Sep 18,12:28 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
-Perkasie,SUNOCO,Sunoco,303 HARLEYSVILLE PIKE,"Souderton , PA",$4.499,Sep 18,09:03 AM,$6.479,Sep 18,11:40 AM,
-Perkasie,BODKINS SUNOCO,Sunoco,928 LAWN AVE,"Sellersville, PA",$4.599,Sep 18,11:47 AM,,,,
-Perkasie,WAWA #272,Wawa,1095 S WEST END BLVD,"Quakertown, PA",$4.599,Sep 18,01:31 PM,$6.599,Sep 18,01:49 PM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
-Perkasie,SUNOCO,Sunoco,672 E BROAD ST,"Souderton , PA",$4.599,Sep 18,09:53 AM,,,,Convenience Store/Grocery Store
-Perkasie,JOES KWIK MARTS #1048,Joes Kwik Mart,515 DUBLIN PIKE,"Perkasie , PA",$4.599,Sep 18,01:17 PM,$6.599,Sep 18,01:36 PM,"Bio-Fuels, Convenience Store/Grocery Store"
-Perkasie,WAWA #8139,Wawa,320 W ROUTE 313,"Perkasie , PA",$4.599,Sep 18,01:54 PM,$6.599,Sep 18,11:28 AM,"Open 24 Hours, Convenience Store/Grocery Store"
-Perkasie,MOYER AND SONS,Unbranded,113 E RELIANCE RD,"Souderton , PA",$4.769,Sep 17,05:34 PM,$6.359,Sep 18,10:52 AM,Bio-Fuels
+Perkasie,Sunoco,Sunoco,4802 OLD BETHLEHEM PIKE,"Telford , PA",$4.479,Sep 18,06:58 PM,$6.479,Sep 18,05:41 PM,Bio-Fuels
+Perkasie,CIRCLE K,Circle K,403 N MAIN ST,"Telford, PA",$4.499,Sep 18,06:12 PM,,,,Convenience Store/Grocery Store
+Perkasie,GIANT #6018,Giant (Ahold),786 ROUTE 113,"Souderton , PA",$4.499,Sep 18,07:02 PM,,,,
+Perkasie,WAWA #8008,Wawa,3520 BETHLEHEM PIKE,"Souderton, PA",$4.499,Sep 18,06:08 PM,$6.599,Sep 18,04:00 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
+Perkasie,SUNOCO,Sunoco,303 HARLEYSVILLE PIKE,"Souderton , PA",$4.499,Sep 18,03:24 PM,$6.479,Sep 18,11:40 AM,
+Perkasie,WEIS MARKETS,Gas N Go (Weis),431 W DUBLIN PIKE,"Perkasie, PA",$4.569,Sep 18,02:52 PM,$6.599,Sep 17,07:42 AM,
+Perkasie,BODKINS SUNOCO,Sunoco,928 LAWN AVE,"Sellersville, PA",$4.599,Sep 18,05:49 PM,,,,
+Perkasie,WAWA #272,Wawa,1095 S WEST END BLVD,"Quakertown, PA",$4.599,Sep 18,06:20 PM,$6.599,Sep 18,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store, Restaurant/Deli/Fast Food"
+Perkasie,SUNOCO,Sunoco,672 E BROAD ST,"Souderton , PA",$4.599,Sep 18,04:42 PM,,,,Convenience Store/Grocery Store
+Perkasie,JOES KWIK MARTS #1048,Joes Kwik Mart,515 DUBLIN PIKE,"Perkasie , PA",$4.599,Sep 18,06:07 PM,$6.599,Sep 18,02:54 PM,"Bio-Fuels, Convenience Store/Grocery Store"
+Perkasie,WAWA #8139,Wawa,320 W ROUTE 313,"Perkasie , PA",$4.599,Sep 18,06:01 PM,$6.599,Sep 18,04:16 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Perkasie,MOYER AND SONS,Unbranded,113 E RELIANCE RD,"Souderton , PA",$4.769,Sep 18,02:25 PM,$6.359,Sep 18,03:49 PM,Bio-Fuels
