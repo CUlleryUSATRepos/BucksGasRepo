@@ -1,11 +1,11 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
 Newtown Grant,LUKOIL,Lukoil,2 N SYCAMORE ST,"Newtown, PA",$4.339,Sep 18,08:06 AM,,,,
 Newtown Grant,FREEDOM FUEL,Freedom Fuel,778 2ND STREET PIKE,"Richboro , PA",$4.399,Sep 18,09:12 AM,,,,Repairs
-Newtown Grant,BP,BP,599 WASHINGTON CROSSING RD,"Newtown , PA",$4.599,Sep 18,02:01 PM,,,,"Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
+Newtown Grant,BP,BP,599 WASHINGTON CROSSING RD,"Newtown , PA",$4.599,Sep 18,03:54 PM,,,,"Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
 Newtown Grant,Wawa #8159,Wawa,91 LOWER SILVER LAKE RD,"Newtown, PA",$4.599,Sep 18,07:23 PM,$6.599,Sep 18,04:01 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Newtown Grant,Joe's Kwik Mart #1046,Joes Kwik Mart,1008 2ND STREET PIKE,"Richboro , PA",$4.599,Sep 18,05:32 PM,$6.599,Sep 18,12:32 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Newtown Grant,7-ELEVEN #40097,7-Eleven,999 2ND STREET PIKE,"Richboro , PA",$4.599,Sep 18,05:45 PM,$6.599,Sep 18,11:15 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Newtown Grant,WAWA #8121,Wawa,870 2ND STREET PIKE,"Richboro , PA",$4.599,Sep 18,06:57 PM,$6.599,Sep 18,04:39 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Newtown Grant,Joe's Kwik Mart #1046,Joes Kwik Mart,1008 2ND STREET PIKE,"Richboro , PA",$4.599,Sep 18,08:56 PM,$6.599,Sep 18,12:32 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Newtown Grant,7-ELEVEN #40097,7-Eleven,999 2ND STREET PIKE,"Richboro , PA",$4.599,Sep 18,09:16 PM,$6.599,Sep 18,09:16 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Newtown Grant,WAWA #8121,Wawa,870 2ND STREET PIKE,"Richboro , PA",$4.599,Sep 18,10:04 PM,$6.599,Sep 18,04:39 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Newtown Grant,SUNOCO,Sunoco,549 WASHINGTON AVE,"Newtown, PA",$4.659,Sep 18,07:37 PM,,,,Repairs
 Newtown Grant,RICK STEELES GULF,Gulf,695 NEWTOWN YARDLEY RD,"Newtown , PA",$4.699,Sep 18,04:56 PM,$6.999,Sep 17,03:40 PM,"Bio-Fuels, Repairs"
 Newtown Grant,Shell,Shell,19 N SYCAMORE ST,"Newtown , PA",$4.799,Sep 18,01:29 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
