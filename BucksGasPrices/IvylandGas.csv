@@ -1,5 +1,5 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Ivyland,COSTCO #1103,Costco,100 VETERANS WAY,"Warminster, PA",$4.229,Sep 18,07:34 PM,,,,Convenience Store/Grocery Store
+Ivyland,COSTCO #1103,Costco,100 VETERANS WAY,"Warminster, PA",$4.229,Sep 18,07:48 PM,,,,Convenience Store/Grocery Store
 Ivyland,SAMS CLUB #6676,Sams Club,3925 WELSH RD,"Willow Grove , PA",$4.229,Sep 18,08:09 AM,,,,Convenience Store/Grocery Store
 Ivyland,Freedom Fuel,Freedom Fuel,299 E STREET RD,"Warminster , PA",$4.299,Sep 18,06:28 PM,,,,"Bio-Fuels, Repairs"
 Ivyland,Freedom Fuel,Freedom Fuel,17 STREET RD,"Southampton , PA",$4.299,Sep 17,05:22 PM,$6.499,Sep 18,06:25 PM,Bio-Fuels
@@ -12,14 +12,14 @@ Ivyland,DELTA,Delta,288 YORK RD,"Warminster , PA",$4.349,Sep 18,01:32 PM,,,,Bio-
 Ivyland,US GAS,US Gas,982 EASTON RD,"Horsham , PA",$4.369,Sep 16,06:28 AM,,,,Convenience Store/Grocery Store
 Ivyland,Exxon,Exxon,40 E STREET RD,"Warminster , PA",$4.399,Sep 18,04:05 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
 Ivyland,LUKOIL,Lukoil,598 N YORK RD,"Hatboro, PA",$4.399,Sep 17,03:30 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Ivyland,SUNOCO,Sunoco,555 N YORK RD,"Hatboro , PA",$4.399,Sep 18,04:41 PM,,,,Bio-Fuels
+Ivyland,SUNOCO,Sunoco,555 N YORK RD,"Hatboro , PA",$4.399,Sep 18,07:42 PM,,,,Bio-Fuels
 Ivyland,US GAS,US Gas,405 W COUNTY LINE RD,"Hatboro, PA",$4.399,Sep 16,08:20 AM,,,,"Convenience Store/Grocery Store, Repairs"
 Ivyland,GAS N GO-WEIS MARKETS,Gas N Go (Weis),2100 COUNTY LINE RD,"Huntingdon Valley, PA",$4.399,Sep 18,07:37 AM,,,,
 Ivyland,FREEDOM FUEL,Freedom Fuel,778 2ND STREET PIKE,"Richboro , PA",$4.399,Sep 18,09:12 AM,,,,Repairs
 Ivyland,LUKOIL,Lukoil,496 EASTON RD,"Horsham , PA",$4.399,Sep 16,04:56 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
 Ivyland,SHELL,Shell,2818 EASTON RD,"Willow Grove , PA",$4.459,Sep 18,08:19 AM,$6.299,Sep 17,05:19 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
 Ivyland,WILLOW GROVE LIBERTY,Liberty,2595 MARYLAND RD,"Willow Grove , PA",$4.459,Sep 18,05:13 PM,$6.499,Sep 18,01:52 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Ivyland,CONOCO,Conoco,714 EASTON RD,"Willow Grove, PA",$4.459,Sep 18,03:55 PM,,,,"Bio-Fuels, Repairs"
+Ivyland,CONOCO,Conoco,714 EASTON RD,"Willow Grove, PA",$4.459,Sep 18,07:50 PM,,,,"Bio-Fuels, Repairs"
 Ivyland,SUNOCO,Sunoco,890 E STREET RD,"Warminster , PA",$4.499,Sep 18,03:43 PM,$6.499,Sep 17,03:35 PM,"Bio-Fuels, Convenience Store/Grocery Store"
 Ivyland,LUKOIL,Lukoil,1400 EASTON RD,"Warrington , PA",$4.499,Sep 16,12:06 PM,$6.399,Sep 17,08:16 AM,Convenience Store/Grocery Store
 Ivyland,GIANT #6654,Giant (Ahold),424 YORK RD,"Willow Grove , PA",$4.499,Sep 18,03:26 PM,,,,Convenience Store/Grocery Store
@@ -27,7 +27,7 @@ Ivyland,Shell,Shell,400 W STREET RD,"Warminster, PA",$4.559,Sep 18,02:27 PM,$6.5
 Ivyland,GIANT #6257,Giant (Ahold),720 W STREET RD,"Warminster , PA",$4.559,Sep 18,03:12 PM,,,,Convenience Store/Grocery Store
 Ivyland,WEIS MARKETS,Gas N Go (Weis),1133 YORK RD,"Warminster, PA",$4.559,Sep 18,07:27 AM,,,,
 Ivyland,Sunoco,Sunoco,300 EASTON RD,"Horsham, PA",$4.559,Sep 18,06:19 PM,,,,Convenience Store/Grocery Store
-Ivyland,SUNOCO,Sunoco,3475 HUNTINGDON PIKE,"Huntingdon Valley, PA",$4.559,Sep 18,11:46 AM,$6.559,Sep 18,04:41 PM,"Bio-Fuels, Convenience Store/Grocery Store, Repairs"
+Ivyland,SUNOCO,Sunoco,3475 HUNTINGDON PIKE,"Huntingdon Valley, PA",$4.559,Sep 18,07:46 PM,$6.559,Sep 18,04:41 PM,"Bio-Fuels, Convenience Store/Grocery Store, Repairs"
 Ivyland,GIANT FUEL #6089,Giant (Ahold),314 HORSHAM RD,"Horsham, PA",$4.579,Sep 18,11:00 AM,,,,
 Ivyland,Sunoco,Sunoco,2500 EASTON RD,"Willow Grove , PA",$4.579,Sep 18,06:37 PM,,,,Convenience Store/Grocery Store
 Ivyland,SPARTA,Unbranded,1233 EASTON RD,"Warrington, PA",$4.579,Sep 18,04:37 PM,$6.579,Sep 18,07:51 AM,
@@ -41,9 +41,9 @@ Ivyland,WAWA #8122,Wawa,412 S YORK RD,"Hatboro, PA",$4.599,Sep 18,07:27 PM,$6.59
 Ivyland,WAWA #8121,Wawa,870 2ND STREET PIKE,"Richboro , PA",$4.599,Sep 18,06:57 PM,$6.599,Sep 18,04:39 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Ivyland,Joe's Kwik Mart #1046,Joes Kwik Mart,1008 2ND STREET PIKE,"Richboro , PA",$4.599,Sep 18,05:32 PM,$6.599,Sep 18,12:32 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Ivyland,7-ELEVEN #40097,7-Eleven,999 2ND STREET PIKE,"Richboro , PA",$4.599,Sep 18,05:45 PM,$6.599,Sep 18,11:15 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
-Ivyland,WAWA #285,Wawa,1510 EASTON RD,"Horsham, PA",$4.599,Sep 18,07:20 PM,$6.599,Sep 18,05:29 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
+Ivyland,WAWA #285,Wawa,1510 EASTON RD,"Horsham, PA",$4.599,Sep 18,07:41 PM,$6.599,Sep 18,05:29 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
 Ivyland,A PLUS MINI MARKET,A Plus,580 EASTON RD,"Warrington, PA",$4.599,Sep 18,01:12 PM,$6.599,Sep 17,02:40 PM,"Bio-Fuels, Convenience Store/Grocery Store"
 Ivyland,Wawa #8117,Wawa,550 Easton Rd,"Warrington, PA",$4.599,Sep 18,06:10 PM,$6.599,Sep 18,04:00 PM,Convenience Store/Grocery Store
-Ivyland,WAWA #8088,Wawa,101 EASTON RD,"Horsham, PA",$4.599,Sep 18,07:07 PM,$6.599,Sep 18,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Ivyland,WAWA #8088,Wawa,101 EASTON RD,"Horsham, PA",$4.599,Sep 18,07:47 PM,$6.599,Sep 18,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Ivyland,WAWA #271,Wawa,535 HORSHAM RD,"Horsham, PA",$4.599,Sep 18,06:06 PM,$6.599,Sep 18,04:00 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
 Ivyland,WAWA #8063,Wawa,201 YORK RD,"Willow Grove, PA",$4.599,Sep 18,07:25 PM,$6.599,Sep 18,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
