@@ -1,5 +1,5 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Chalfont,Costco #248,Costco,740 UPPER STATE RD,"North Wales, PA",$4.249,Sep 22,01:34 AM,,,,
+Chalfont,Costco #248,Costco,740 UPPER STATE RD,"North Wales, PA",$4.249,Sep 22,01:49 AM,,,,
 Chalfont,LIBERTY,Liberty,1901 N BROAD ST,"Lansdale, PA",$4.399,Sep 21,03:38 PM,,,,Convenience Store/Grocery Store
 Chalfont,Redners,Redners,1200 WELSH RD,"North Wales, PA",$4.399,Sep 20,11:27 AM,,,,
 Chalfont,United,Unbranded,1405 LOWER STATE RD,"Doylestown , PA",$4.459,Sep 21,03:42 PM,$6.299,Sep 21,03:47 PM,Repairs
@@ -9,7 +9,7 @@ Chalfont,EXXON,Exxon,549 DOYLESTOWN RD,"Lansdale, PA",$4.559,Sep 21,06:13 PM,,,,
 Chalfont,Wawa #8149,Wawa,1900 N BROAD ST,"Lansdale, PA",$4.559,Sep 21,06:39 PM,$6.599,Sep 21,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store, Repairs"
 Chalfont,LIBERTY,Liberty,290 W STATE ST,"Doylestown , PA",$4.559,Sep 21,04:37 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store, Repairs"
 Chalfont,LIBERTY MAIN,Liberty,235 N MAIN ST,"Doylestown , PA",$4.559,Sep 21,04:46 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store, Repairs"
-Chalfont,WAWA #8147,Wawa,525 W BUTLER AVE,"Chalfont, PA",$4.579,Sep 21,08:54 PM,$6.599,Sep 21,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Chalfont,WAWA #8147,Wawa,525 W BUTLER AVE,"Chalfont, PA",$4.579,Sep 22,01:49 AM,$6.599,Sep 21,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Chalfont,7-Eleven #24555,7-Eleven,791 HORSHAM RD,"North Wales, PA",$4.579,Sep 21,09:15 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"
 Chalfont,Joe's Kwik Mart #1037,Joes Kwik Mart,747 BETHLEHEM PIKE,"Montgomeryville , PA",$4.579,Sep 21,05:55 PM,$6.599,Sep 21,12:30 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
 Chalfont,SPARTA,Unbranded,1233 EASTON RD,"Warrington, PA",$4.579,Sep 21,05:12 PM,$6.579,Sep 21,06:08 AM,
