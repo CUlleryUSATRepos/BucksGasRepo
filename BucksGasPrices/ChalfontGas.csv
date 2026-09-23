@@ -1,5 +1,5 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Chalfont,Costco #248,Costco,740 UPPER STATE RD,"North Wales, PA",$4.249,Sep 22,07:35 PM,,,,
+Chalfont,Costco #248,Costco,740 UPPER STATE RD,"North Wales, PA",$4.249,Sep 22,07:49 PM,,,,
 Chalfont,LIBERTY,Liberty,1901 N BROAD ST,"Lansdale, PA",$4.399,Sep 22,03:39 PM,,,,Convenience Store/Grocery Store
 Chalfont,Redners,Redners,1200 WELSH RD,"North Wales, PA",$4.399,Sep 20,11:27 AM,,,,
 Chalfont,United,Unbranded,1405 LOWER STATE RD,"Doylestown , PA",$4.459,Sep 22,02:50 PM,$6.299,Sep 22,11:51 AM,Repairs
@@ -11,7 +11,7 @@ Chalfont,EXXON,Exxon,549 DOYLESTOWN RD,"Lansdale, PA",$4.559,Sep 22,05:01 PM,,,,
 Chalfont,WAWA #8018,Wawa,119 BETHLEHEM PIKE,"Colmar, PA",$4.559,Sep 22,06:40 PM,$6.579,Sep 22,06:16 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
 Chalfont,ROYAL FARMS #240,Royal Farms,935 BETHLEHEM PIKE,"Colmar, PA",$4.559,Sep 22,04:48 PM,$6.559,Sep 22,02:52 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
 Chalfont,LIBERTY,Liberty,290 W STATE ST,"Doylestown , PA",$4.559,Sep 22,05:08 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store, Repairs"
-Chalfont,WAWA #8056,Wawa,2480 BETHLEHEM PIKE,"Hatfield, PA",$4.559,Sep 22,07:28 PM,$6.559,Sep 22,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Chalfont,WAWA #8056,Wawa,2480 BETHLEHEM PIKE,"Hatfield, PA",$4.559,Sep 22,07:50 PM,$6.559,Sep 22,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Chalfont,LIBERTY MAIN,Liberty,235 N MAIN ST,"Doylestown , PA",$4.559,Sep 22,03:20 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store, Repairs"
 Chalfont,WAWA #8101,Wawa,1008 BETHLEHEM PIKE,"Montgomeryville, PA",$4.559,Sep 22,07:27 PM,$6.579,Sep 22,07:30 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Chalfont,7-Eleven #24555,7-Eleven,791 HORSHAM RD,"North Wales, PA",$4.579,Sep 22,01:09 PM,,,,"Open 24 Hours, Convenience Store/Grocery Store"

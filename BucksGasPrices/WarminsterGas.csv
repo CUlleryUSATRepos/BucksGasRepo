@@ -1,5 +1,5 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
-Warminster,COSTCO #1103,Costco,100 VETERANS WAY,"Warminster, PA",$4.239,Sep 22,07:35 PM,,,,Convenience Store/Grocery Store
+Warminster,COSTCO #1103,Costco,100 VETERANS WAY,"Warminster, PA",$4.239,Sep 22,07:49 PM,,,,Convenience Store/Grocery Store
 Warminster,Freedom Fuel,Freedom Fuel,299 E STREET RD,"Warminster , PA",$4.239,Sep 22,10:40 AM,,,,"Bio-Fuels, Repairs"
 Warminster,Freedom Fuel,Freedom Fuel,17 STREET RD,"Southampton , PA",$4.239,Sep 22,09:58 AM,$6.499,Sep 22,12:26 PM,Bio-Fuels
 Warminster,SAMS CLUB #6676,Sams Club,3925 WELSH RD,"Willow Grove , PA",$4.249,Sep 21,05:01 PM,,,,Convenience Store/Grocery Store
@@ -11,7 +11,7 @@ Warminster,Wawa #8216,Wawa,25 2ND STREET PIKE,"Southampton , PA",$4.299,Sep 22,0
 Warminster,DELTA,Delta,288 YORK RD,"Warminster , PA",$4.349,Sep 21,04:08 PM,,,,Bio-Fuels
 Warminster,COUNTRY FARMS,Unbranded,287 YORK RD,"Warminster , PA",$4.349,Sep 22,07:10 PM,,,,Convenience Store/Grocery Store
 Warminster,LUKOIL,Lukoil,496 EASTON RD,"Horsham , PA",$4.359,Sep 22,09:40 AM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
-Warminster,CONOCO,Conoco,714 EASTON RD,"Willow Grove, PA",$4.359,Sep 22,05:49 PM,$6.499,Sep 21,10:41 AM,"Bio-Fuels, Repairs"
+Warminster,CONOCO,Conoco,714 EASTON RD,"Willow Grove, PA",$4.359,Sep 22,07:41 PM,$6.499,Sep 21,10:41 AM,"Bio-Fuels, Repairs"
 Warminster,US GAS,US Gas,982 EASTON RD,"Horsham , PA",$4.369,Sep 21,06:27 AM,,,,Convenience Store/Grocery Store
 Warminster,SHELL,Shell,2818 EASTON RD,"Willow Grove , PA",$4.379,Sep 22,12:30 PM,$6.399,Sep 22,06:05 PM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
 Warminster,Exxon,Exxon,40 E STREET RD,"Warminster , PA",$4.399,Sep 22,06:17 PM,,,,"Bio-Fuels, Convenience Store/Grocery Store"
@@ -47,5 +47,5 @@ Warminster,A PLUS MINI MARKET,A Plus,580 EASTON RD,"Warrington, PA",$4.599,Sep 2
 Warminster,Sunoco,Sunoco,2140 YORK RD,"Jamison, PA",$4.599,Sep 22,06:30 PM,,,,"Convenience Store/Grocery Store, Repairs"
 Warminster,WAWA #8121,Wawa,870 2ND STREET PIKE,"Richboro , PA",$4.599,Sep 22,05:14 PM,$6.599,Sep 22,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Warminster,Joe's Kwik Mart #1046,Joes Kwik Mart,1008 2ND STREET PIKE,"Richboro , PA",$4.599,Sep 22,04:25 PM,$6.599,Sep 22,01:41 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Warminster,7-ELEVEN #40097,7-Eleven,999 2ND STREET PIKE,"Richboro , PA",$4.599,Sep 22,02:11 PM,$6.599,Sep 22,11:15 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
+Warminster,7-ELEVEN #40097,7-Eleven,999 2ND STREET PIKE,"Richboro , PA",$4.599,Sep 22,07:50 PM,$6.599,Sep 22,11:15 AM,"Open 24 Hours, Bio-Fuels, Convenience Store/Grocery Store"
 Warminster,MAPLE GLEN EXXON,Exxon,450 LIMEKILN PIKE,"Ambler , PA",$5.199,Sep 22,02:40 PM,,,,"Convenience Store/Grocery Store, Repairs"
