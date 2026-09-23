@@ -1,6 +1,6 @@
 search_place,station,brand,street,city_state_zip,regular_price,regular_price_date,regular_price_time,diesel_price,diesel_price_date,diesel_price_time,services
 Warminster Heights,Freedom Fuel,Freedom Fuel,299 E STREET RD,"Warminster , PA",$4.239,Sep 22,10:40 AM,,,,"Bio-Fuels, Repairs"
-Warminster Heights,COSTCO #1103,Costco,100 VETERANS WAY,"Warminster, PA",$4.239,Sep 23,01:34 AM,,,,Convenience Store/Grocery Store
+Warminster Heights,COSTCO #1103,Costco,100 VETERANS WAY,"Warminster, PA",$4.239,Sep 23,01:49 AM,,,,Convenience Store/Grocery Store
 Warminster Heights,Freedom Fuel,Freedom Fuel,17 STREET RD,"Southampton , PA",$4.239,Sep 22,09:58 AM,$6.499,Sep 22,12:26 PM,Bio-Fuels
 Warminster Heights,SAMS CLUB #6676,Sams Club,3925 WELSH RD,"Willow Grove , PA",$4.249,Sep 22,08:22 PM,,,,Convenience Store/Grocery Store
 Warminster Heights,GIANT #6095,Giant (Ahold),466 2ND STREET PIKE,"Southampton , PA",$4.299,Sep 21,02:02 PM,,,,Convenience Store/Grocery Store
@@ -34,7 +34,7 @@ Warminster Heights,WEIS MARKETS,Gas N Go (Weis),1133 YORK RD,"Warminster, PA",$4
 Warminster Heights,Sunoco,Sunoco,300 EASTON RD,"Horsham, PA",$4.559,Sep 22,12:25 PM,,,,Convenience Store/Grocery Store
 Warminster Heights,WAWA #8088,Wawa,101 EASTON RD,"Horsham, PA",$4.559,Sep 22,09:57 PM,$6.599,Sep 23,12:44 AM,"Open 24 Hours, Convenience Store/Grocery Store"
 Warminster Heights,WAWA #8022,Wawa,1937 YORK RD,"Jamison, PA",$4.559,Sep 22,09:00 PM,$6.599,Sep 22,04:00 PM,"Open 24 Hours, Convenience Store/Grocery Store"
-Warminster Heights,WAWA #8057,Wawa,2500 PHILMONT AVE,"Huntingdon Valley, PA",$4.559,Sep 22,08:32 PM,$6.599,Sep 22,09:35 PM,"Open 24 Hours, Convenience Store/Grocery Store"
+Warminster Heights,WAWA #8057,Wawa,2500 PHILMONT AVE,"Huntingdon Valley, PA",$4.559,Sep 23,01:33 AM,$6.599,Sep 22,09:35 PM,"Open 24 Hours, Convenience Store/Grocery Store"
 Warminster Heights,Sunoco,Sunoco,2500 EASTON RD,"Willow Grove , PA",$4.579,Sep 22,05:33 PM,,,,Convenience Store/Grocery Store
 Warminster Heights,GIANT FUEL #6089,Giant (Ahold),314 HORSHAM RD,"Horsham, PA",$4.579,Sep 21,,,,,
 Warminster Heights,WAWA #271,Wawa,535 HORSHAM RD,"Horsham, PA",$4.579,Sep 22,08:24 PM,$6.599,Sep 22,04:00 PM,"Open 24 Hours, Restaurant/Deli/Fast Food, Convenience Store/Grocery Store"
